@@ -215,5 +215,6 @@ return {
     ["uglygodisbomb"] = os.time({year=2025, month=12, day=27, hour=14, min=14, sec=42}),
     ["ddenvermc24"] = os.time({year=2025, month=11, day=28, hour=14, min=18, sec=34}),
     ["Blink00220"] = os.time({year=2025, month=12, day=27, hour=14, min=20, sec=16}),
-    ["Official_msgaming"] = os.time({year=2025, month=12, day=4, hour=14, min=40, sec=5})
+    ["Official_msgaming"] = os.time({year=2025, month=12, day=4, hour=14, min=40, sec=5}),
+    ["sheynedc"] = os.time({year=2025, month=12, day=12, hour=14, min=53, sec=13})
 }
