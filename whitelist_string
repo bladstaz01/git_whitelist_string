@@ -217,5 +217,6 @@ return {
     ["Blink00220"] = os.time({year=2025, month=12, day=27, hour=14, min=20, sec=16}),
     ["Official_msgaming"] = os.time({year=2025, month=12, day=4, hour=14, min=40, sec=5}),
     ["sheynedc"] = os.time({year=2025, month=12, day=12, hour=14, min=53, sec=13}),
-    ["Kusakabe_258"] = os.time({year=2025, month=12, day=4, hour=14, min=58, sec=13})
+    ["Kusakabe_258"] = os.time({year=2025, month=12, day=4, hour=14, min=58, sec=13}),
+    ["Hellraser09"] = os.time({year=2025, month=12, day=4, hour=15, min=13, sec=34})
 }
