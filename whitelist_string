@@ -233,5 +233,6 @@ return {
     ["576ff47"] = os.time({year=2025, month=12, day=4, hour=21, min=57, sec=8}),
     ["Tokisaki074"] = os.time({year=2025, month=12, day=4, hour=21, min=58, sec=30}),
     ["Pitchhh5"] = os.time({year=2025, month=12, day=4, hour=22, min=0, sec=1}),
-    ["nacht_706"] = os.time({year=2025, month=12, day=12, hour=22, min=2, sec=29})
+    ["nacht_706"] = os.time({year=2025, month=12, day=12, hour=22, min=2, sec=29}),
+    ["Lansinggggg"] = os.time({year=2025, month=12, day=4, hour=22, min=3, sec=25})
 }
