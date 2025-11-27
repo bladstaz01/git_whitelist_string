@@ -29,7 +29,7 @@ return {
     ["Palevelx"] = os.time({year=2025, month=12, day=22, hour=13, min=23, sec=36}),
     ["Malakixp"] = os.time({year=2025, month=12, day=22, hour=13, min=23, sec=40}),
     ["NathanFinds"] = os.time({year=2025, month=11, day=23, hour=18, min=46, sec=35}),
-    ["Laijakabuntalan"] = os.time({year=2025, month=11, day=23, hour=18, min=46, sec=35}),
+    ["Laijakabuntalan"] = os.time({year=2025, month=12, day=4, hour=13, min=25, sec=41}),
     ["HaplasForSale"] = os.time({year=2025, month=12, day=8, hour=18, min=46, sec=35}),
     ["Lyc0002"] = os.time({year=2025, month=11, day=23, hour=18, min=46, sec=35}),
     ["LoveYou199627"] = os.time({year=2025, month=11, day=24, hour=18, min=46, sec=35}),
