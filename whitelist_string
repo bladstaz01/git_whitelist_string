@@ -243,5 +243,6 @@ return {
     ["SuperJe200x"] = os.time({year=2025, month=12, day=4, hour=22, min=46, sec=58}),
     ["artkitto"] = os.time({year=2025, month=12, day=4, hour=23, min=12, sec=56}),
     ["Aiseee000"] = os.time({year=2025, month=12, day=4, hour=23, min=10, sec=30}),
-    ["jaaaaabv"] = os.time({year=2025, month=12, day=4, hour=23, min=23, sec=35})
+    ["jaaaaabv"] = os.time({year=2025, month=12, day=4, hour=23, min=23, sec=35}),
+    ["FeelsLikeHoliday"] = os.time({year=2025, month=12, day=13, hour=0, min=11, sec=5})
 }
