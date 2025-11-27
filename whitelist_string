@@ -123,7 +123,7 @@ return {
     ["Dyahandyahann"] = os.time({year=2025, month=12, day=9, hour=19, min=2, sec=11}),
     ["0xEltt"] = os.time({year=2025, month=12, day=10, hour=19, min=49, sec=2}),
     ["zamundrone1210"] = os.time({year=2025, month=12, day=25, hour=20, min=30, sec=17}),
-    ["Lipppp005"] = os.time({year=2025, month=12, day=10, hour=21, min=0, sec=58}),
+    ["karennnn0005"] = os.time({year=2025, month=12, day=10, hour=21, min=0, sec=58}),
     ["markX1997"] = os.time({year=2025, month=12, day=2, hour=21, min=28, sec=32}),
     ["bellaaaaaaa_043"] = os.time({year=2025, month=12, day=9, hour=21, min=44, sec=8}),
     ["kakeuxbs"] = os.time({year=2025, month=12, day=2, hour=22, min=6, sec=9}),
