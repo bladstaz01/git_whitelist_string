@@ -229,7 +229,7 @@ return {
     ["FGS_yukki"] = os.time({year=2025, month=12, day=12, hour=17, min=13, sec=39}),
     ["niloslatoja24"] = os.time({year=2025, month=12, day=4, hour=17, min=33, sec=9}),
     ["mochimirabels"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
-    ["Zaxiayg"] = os.time({year=2025, month=12, day=4, hour=21, min=55, sec=57}),
+    ["Zaniaygg"] = os.time({year=2025, month=12, day=4, hour=21, min=55, sec=57}),
     ["576ff47"] = os.time({year=2025, month=12, day=4, hour=21, min=57, sec=8}),
     ["Tokisaki074"] = os.time({year=2025, month=12, day=4, hour=21, min=58, sec=30}),
     ["Pitchhh5"] = os.time({year=2025, month=12, day=4, hour=22, min=0, sec=1}),
