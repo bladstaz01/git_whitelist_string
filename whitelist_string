@@ -261,5 +261,7 @@ return {
     ["eagleview27"] = os.time({year=2025, month=12, day=5, hour=19, min=53, sec=38}),
     ["Wingpie4"] = os.time({year=2025, month=12, day=5, hour=20, min=6, sec=23}),
     ["Gege999Akutami"] = os.time({year=2025, month=12, day=5, hour=20, min=41, sec=47}),
-    ["PapaMoRainbow777"] = os.time({year=2025, month=12, day=5, hour=21, min=35, sec=47})
+    ["PapaMoRainbow777"] = os.time({year=2025, month=12, day=5, hour=21, min=35, sec=47}),
+    ["raizo_490"] = os.time({year=2025, month=12, day=5, hour=21, min=37, sec=30}),
+    ["143zhouyiran"] = os.time({year=2025, month=12, day=5, hour=21, min=37, sec=30})
 }
