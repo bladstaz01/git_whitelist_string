@@ -188,7 +188,7 @@ return {
     ["bulanskie1"] = os.time({year=2025, month=12, day=11, hour=18, min=29, sec=7}),
     ["Zeno_1662"] = os.time({year=2025, month=12, day=26, hour=18, min=32, sec=6}),
     ["sushimoch9"] = os.time({year=2025, month=12, day=26, hour=18, min=32, sec=13}),
-    ["bia_nz19"] = os.time({year=2025, month=11, day=27, hour=18, min=52, sec=24}),
+    ["bia_nz19"] = os.time({year=2025, month=12, day=29, hour=14, min=10, sec=16}),
     ["Kyzue_1"] = os.time({year=2025, month=12, day=11, hour=18, min=57, sec=57}),
     ["konancte52"] = os.time({year=2025, month=11, day=27, hour=19, min=1, sec=49}),
     ["sad83271"] = os.time({year=2025, month=12, day=3, hour=19, min=23, sec=6}),
