@@ -273,5 +273,5 @@ return {
     ["n3dra4"] = os.time({year=2025, month=12, day=6, hour=12, min=32, sec=59}),
     ["squirtleolok"] = os.time({year=2025, month=12, day=6, hour=12, min=40, sec=10}),
     ["inatako1"] = os.time({year=2025, month=12, day=6, hour=13, min=19, sec=56}),
-    ["Montsz33"] = os.time({year=2025, month=12, day=6, hour=13, min=23, sec=54})
+    ["montsz33"] = os.time({year=2025, month=12, day=6, hour=13, min=23, sec=54})
 }
