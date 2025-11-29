@@ -149,7 +149,7 @@ return {
     ["nick_13815"] = os.time({year=2025, month=12, day=11, hour=13, min=33, sec=59}),
     ["priiyyah"] = os.time({year=2025, month=12, day=3, hour=13, min=35, sec=56}),
     ["Soren_luvsU"] = os.time({year=2025, month=12, day=3, hour=13, min=39, sec=49}),
-    ["1greentokyo"] = os.time({year=2025, month=12, day=3, hour=13, min=47, sec=20}),
+    ["1greentokyo"] = os.time({year=2026, month=1, day=2, hour=13, min=47, sec=20}),
     ["llhesenll01"] = os.time({year=2025, month=12, day=3, hour=14, min=5, sec=58}),
     ["jabamiyumeko109"] = os.time({year=2025, month=12, day=3, hour=14, min=7, sec=21}),
     ["Meynard_ii"] = os.time({year=2025, month=12, day=3, hour=14, min=11, sec=19}),
@@ -276,5 +276,6 @@ return {
     ["montsz33"] = os.time({year=2025, month=12, day=6, hour=13, min=23, sec=54}),
     ["kazesuo24"] = os.time({year=2025, month=12, day=29, hour=13, min=59, sec=10}),
     ["airiesx8"] = os.time({year=2025, month=12, day=5, hour=14, min=24, sec=14}),
-    ["boyskincare20"] = os.time({year=2025, month=12, day=6, hour=14, min=34, sec=44})
+    ["boyskincare20"] = os.time({year=2025, month=12, day=6, hour=14, min=34, sec=44}),
+    ["Dhwine143-wynee"] = os.time({year=2025, month=12, day=6, hour=15, min=3, sec=18})
 }
