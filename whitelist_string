@@ -50,7 +50,7 @@ return {
 ["rolandoo009"] = os.time({year=2025, month=11, day=25, hour=11, min=50, sec=6}),
 ["amielpogi174"] = os.time({year=2025, month=12, day=6, hour=17, min=42, sec=13}),
 ["ngentooootskie"] = os.time({year=2025, month=11, day=24, hour=12, min=51, sec=26}),
-["Ayawkhol72"] = os.time({year=2025, month=11, day=30, hour=15, min=41, sec=14}),
+["Ayawkhol72"] = os.time({year=2025, month=12, day=31, hour=0, min=11, sec=58}),
 ["LilBalatung"] = os.time({year=2025, month=12, day=23, hour=15, min=49, sec=28}),
 ["Crazy_Fr0g89"] = os.time({year=2025, month=11, day=30, hour=15, min=56, sec=12}),
 ["Potchita143"] = os.time({year=2025, month=11, day=30, hour=16, min=3, sec=30}),
