@@ -74,7 +74,7 @@ return {
 ["Weirdo1658"] = os.time({year=2025, month=11, day=30, hour=23, min=0, sec=55}),
 ["PETGOGIVE"] = os.time({year=2025, month=12, day=1, hour=0, min=7, sec=27}),
 ["Fangchaos3"] = os.time({year=2025, month=12, day=1, hour=0, min=12, sec=26}),
-["Brofi_st"] = os.time({year=2025, month=12, day=1, hour=0, min=41, sec=15}),
+["Brofi_st"] = os.time({year=2025, month=12, day=8, hour=0, min=41, sec=15}),
 ["VillyanMiscrits"] = os.time({year=2026, month=1, day=30, hour=0, min=46, sec=14}),
 ["Franxx350"] = os.time({year=2025, month=12, day=1, hour=1, min=1, sec=24}),
 ["jlee23232"] = os.time({year=2025, month=12, day=1, hour=1, min=13, sec=22}),
@@ -282,7 +282,7 @@ return {
 ["bladstazParadise"] = os.time({year=2028, month=8, day=25, hour=15, min=31, sec=46}),
 ["1shirotaice"] = os.time({year=2025, month=12, day=29, hour=16, min=16, sec=16}),
 ["ZHACKMAMBA"] = os.time({year=2025, month=12, day=6, hour=16, min=52, sec=24}),
-["zXDark_ZVoidXz01"] = os.time({year=2025, month=12, day=6, hour=17, min=8, sec=7}),
+["zXDark_ZVoidXz01"] = os.time({year=2025, month=12, day=13, hour=17, min=8, sec=7}),
 ["testkiller4"] = os.time({year=2025, month=12, day=13, hour=17, min=40, sec=56}),
 ["kyokooo_1"] = os.time({year=2025, month=12, day=13, hour=18, min=3, sec=41}),
 ["Kimdahyunnniiieee"] = os.time({year=2025, month=12, day=29, hour=18, min=8, sec=38}),
@@ -316,5 +316,6 @@ return {
 ["6r7r81101"] = os.time({year=2025, month=12, day=7, hour=18, min=39, sec=22}),
 ["quinitio23"] = os.time({year=2025, month=12, day=7, hour=21, min=27, sec=59}),
 ["Franciskyutie"] = os.time({year=2025, month=12, day=15, hour=21, min=30, sec=42}),
-["Taki0111111"] = os.time({year=2025, month=12, day=7, hour=21, min=39, sec=26})
+["Taki0111111"] = os.time({year=2025, month=12, day=7, hour=21, min=39, sec=26}),
+["@Lucky_Trefoil"] = os.time({year=2025, month=12, day=30, hour=22, min=6, sec=45})
 }
