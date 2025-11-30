@@ -23,7 +23,7 @@ return {
 ["DemonSlayerBreath"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
 ["Senpai_Jemmmmm"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
 ["underscorenath"] = os.time({year=2025, month=12, day=22, hour=0, min=10, sec=58}),
-["xxfaufau0002"] = os.time({year=2025, month=11, day=29, hour=9, min=34, sec=14}),
+["xxfaufau0002"] = os.time({year=2025, month=12, day=7, hour=15, min=57, sec=22}),
 ["KrammmmQuatro"] = os.time({year=2025, month=12, day=14, hour=17, min=46, sec=13}),
 ["Dreii2611"] = os.time({year=2025, month=11, day=29, hour=11, min=45, sec=10}),
 ["Palevelx"] = os.time({year=2025, month=12, day=22, hour=13, min=23, sec=36}),
@@ -305,6 +305,5 @@ return {
 ["LAHAEYNA4EVER"] = os.time({year=2025, month=12, day=7, hour=14, min=12, sec=13}),
 ["Hyakult072"] = os.time({year=2025, month=12, day=7, hour=14, min=19, sec=27}),
 ["TraleleroTrolala"] = os.time({year=2025, month=12, day=7, hour=14, min=33, sec=21}),
-["de_logic"] = os.time({year=2025, month=12, day=15, hour=15, min=19, sec=26}),
-["TestUser"] = os.time({year=2025, month=12, day=7, hour=15, min=49, sec=38})
+["de_logic"] = os.time({year=2025, month=12, day=15, hour=15, min=19, sec=26})
 }
