@@ -299,5 +299,6 @@ return {
 ["ajee65"] = os.time({year=2025, month=12, day=14, hour=23, min=22, sec=40}),
 ["Chronosphere1st"] = os.time({year=2025, month=12, day=14, hour=23, min=37, sec=14}),
 ["azanez1234"] = os.time({year=2025, month=12, day=14, hour=23, min=51, sec=59}),
-["Zen0Codm"] = os.time({year=2025, month=12, day=1, hour=0, min=0, sec=22})
+["Zen0Codm"] = os.time({year=2025, month=12, day=1, hour=0, min=0, sec=22}),
+["REMREM"] = os.time({year=2025, month=12, day=7, hour=14, min=7, sec=7})
 }
