@@ -300,7 +300,7 @@ return {
 ["Chronosphere1st"] = os.time({year=2025, month=12, day=14, hour=23, min=37, sec=14}),
 ["azanez1234"] = os.time({year=2025, month=12, day=14, hour=23, min=51, sec=59}),
 ["Zen0Codm"] = os.time({year=2025, month=12, day=1, hour=0, min=0, sec=22}),
-["REMREM"] = os.time({year=2025, month=12, day=7, hour=14, min=7, sec=7}),
+["REMREM_0799"] = os.time({year=2025, month=12, day=7, hour=14, min=7, sec=7}),
 ["ManyamanKilayin"] = os.time({year=2025, month=12, day=30, hour=14, min=10, sec=11}),
 ["LAHAEYNA4EVER"] = os.time({year=2025, month=12, day=7, hour=14, min=12, sec=13}),
 ["Hyakult072"] = os.time({year=2025, month=12, day=7, hour=14, min=19, sec=27})
