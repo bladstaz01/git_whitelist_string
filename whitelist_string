@@ -111,7 +111,7 @@ return {
 ["Hades033027"] = os.time({year=2025, month=12, day=2, hour=17, min=6, sec=22}),
 ["Skemberdew02"] = os.time({year=2025, month=12, day=10, hour=17, min=8, sec=2}),
 ["Shinra_X21"] = os.time({year=2025, month=12, day=25, hour=17, min=11, sec=30}),
-["CapuccinoAssassanino"] = os.time({year=2025, month=12, day=2, hour=17, min=27, sec=25}),
+["CapuccinoAssassanino"] = os.time({year=2026, month=1, day=31, hour=17, min=27, sec=25}),
 ["witchypixiu"] = os.time({year=2025, month=12, day=25, hour=17, min=28, sec=56}),
 ["Khate020523"] = os.time({year=2025, month=12, day=2, hour=17, min=32, sec=20}),
 ["SenpaiPlaydl"] = os.time({year=2025, month=12, day=9, hour=17, min=39, sec=30}),
