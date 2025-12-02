@@ -194,7 +194,7 @@ return {
 ["sad83271"] = os.time({year=2025, month=12, day=3, hour=19, min=23, sec=6}),
 ["bobongjaudian"] = os.time({year=2025, month=12, day=3, hour=19, min=24, sec=6}),
 ["Babayap80"] = os.time({year=2025, month=12, day=3, hour=19, min=24, sec=27}),
-["ArtFTJoy"] = os.time({year=2025, month=12, day=3, hour=20, min=39, sec=8}),
+["ArtFTJoy"] = os.time({year=2025, month=12, day=18, hour=20, min=39, sec=8}),
 ["A3RON_11"] = os.time({year=2025, month=12, day=11, hour=21, min=2, sec=18}),
 ["PetStock_1"] = os.time({year=2025, month=12, day=3, hour=21, min=46, sec=3}),
 ["witchyjadeen09"] = os.time({year=2025, month=12, day=27, hour=4, min=8, sec=37}),
@@ -353,5 +353,5 @@ return {
 ["Daisoke01"] = os.time({year=2025, month=12, day=1, hour=23, min=37, sec=19}),
 ["kyylldnd47"] = os.time({year=2025, month=12, day=9, hour=16, min=30, sec=39}),
 ["chocomochang4"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
-["ArtFTJoy"] = os.time({year=2025, month=12, day=17, hour=17, min=9, sec=32})
+["hiteraki3 "] = os.time({year=2025, month=12, day=9, hour=18, min=17, sec=56})
 }
