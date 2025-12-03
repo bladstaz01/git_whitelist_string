@@ -126,7 +126,7 @@ return {
 ["karennnn0005"] = os.time({year=2025, month=12, day=10, hour=21, min=0, sec=58}),
 ["markX1997"] = os.time({year=2025, month=12, day=2, hour=21, min=28, sec=32}),
 ["bellaaaaaaa_043"] = os.time({year=2025, month=12, day=16, hour=21, min=44, sec=8}),
-["kakeuxbs"] = os.time({year=2025, month=12, day=2, hour=22, min=6, sec=9}),
+["kakeuxbs"] = os.time({year=2025, month=12, day=10, hour=21, min=1, sec=53}),
 ["dansrayt"] = os.time({year=2025, month=12, day=4, hour=3, min=45, sec=19}),
 ["Hampti_Dumpti"] = os.time({year=2025, month=12, day=11, hour=0, min=31, sec=59}),
 ["Dreii_2008"] = os.time({year=2026, month=1, day=2, hour=11, min=52, sec=24}),
@@ -360,6 +360,5 @@ return {
 ["BagtakSaLangaw_4"] = os.time({year=2025, month=12, day=10, hour=17, min=11, sec=57}),
 ["firmi0914"] = os.time({year=2025, month=12, day=18, hour=18, min=33, sec=7}),
 ["Emji0809"] = os.time({year=2025, month=12, day=18, hour=19, min=36, sec=55}),
-["Super_KaKaitot"] = os.time({year=2025, month=12, day=4, hour=19, min=37, sec=23}),
-["Kakeuxbs"] = os.time({year=2025, month=12, day=10, hour=20, min=56, sec=28})
+["Super_KaKaitot"] = os.time({year=2025, month=12, day=4, hour=19, min=37, sec=23})
 }
