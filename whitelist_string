@@ -141,7 +141,7 @@ return {
 ["RenAlt621"] = os.time({year=2026, month=1, day=9, hour=13, min=9, sec=3}),
 ["Kenn0083"] = os.time({year=2025, month=12, day=10, hour=13, min=10, sec=23}),
 ["Spykids168"] = os.time({year=2025, month=12, day=3, hour=13, min=13, sec=45}),
-["jacob54lu"] = os.time({year=2025, month=12, day=3, hour=13, min=20, sec=0}),
+["jacob54lu"] = os.time({year=2026, month=1, day=2, hour=23, min=58, sec=21}),
 ["Shoucxn"] = os.time({year=2025, month=12, day=3, hour=13, min=23, sec=24}),
 ["criz01846"] = os.time({year=2025, month=12, day=3, hour=13, min=27, sec=25}),
 ["coco_ninj4"] = os.time({year=2025, month=12, day=18, hour=19, min=3, sec=26}),
