@@ -147,7 +147,7 @@ return {
 ["coco_ninj4"] = os.time({year=2025, month=12, day=3, hour=13, min=30, sec=3}),
 ["crzyKEN8"] = os.time({year=2025, month=12, day=3, hour=13, min=32, sec=5}),
 ["nick_13815"] = os.time({year=2025, month=12, day=11, hour=13, min=33, sec=59}),
-["priiyyah"] = os.time({year=2025, month=12, day=3, hour=13, min=35, sec=56}),
+["priiyyah"] = os.time({year=2026, month=1, day=2, hour=18, min=9, sec=1}),
 ["Soren_luvsU"] = os.time({year=2025, month=12, day=3, hour=13, min=39, sec=49}),
 ["1greentokyo"] = os.time({year=2026, month=1, day=2, hour=13, min=47, sec=20}),
 ["llhesenll01"] = os.time({year=2025, month=12, day=3, hour=14, min=5, sec=58}),
