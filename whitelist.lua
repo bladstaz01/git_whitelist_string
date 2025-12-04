@@ -1,4 +1,5 @@
 local W = {}
+
 local whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/bladstaz01/git_whitelist_string/refs/heads/main/whitelist_string"))()
 
 local function current_gmt8()
@@ -8,7 +9,7 @@ end
 
 local function formatTimestamp(ts)
 	local t = os.date("*t", ts)
-	return string.format("%04d-%02d-%02d %02d:%02d:%02d", t.year, t.month, t.day, t.hour, t.min, t.sec)
+	return string.format("%04d-%02d-%02d %02:%02d:%02d", t.year, t.month, t.day, t.hour, t.min, t.sec)
 end
 
 function W.verify(username)
