@@ -7,11 +7,11 @@ local function current_gmt8()
 end
 
 local function format_gmt8(ts)
-	if not ts then return nil end
-	-- Interpret ts as absolute epoch, convert to UTC table, then add 8 hours and reformat
-	local utc_tbl = os.date("!*t", ts)
-	local ts_gmt8 = os.time(utc_tbl) + 8 * 3600
-	local t = os.date("*t", ts_gmt8)
+	if not ts then
+		return nil
+	end
+	-- No timezone conversion needed; timestamp was created in GMT+8
+	local t = os.date("*t", ts)
 	return string.format("%02d/%02d/%04d %02d:%02d:%02d", t.month, t.day, t.year, t.hour, t.min, t.sec)
 end
 
