@@ -22,11 +22,8 @@ function W.verify(username)
 end
 
 function W.getExpiry(username)
-	local expiry = whitelist[username]
-	if not expiry then
-		return nil
-	end
-	return formatTimestamp(expiry)
+    local expiry = whitelist[username]
+    return expiry
 end
 
 return W
