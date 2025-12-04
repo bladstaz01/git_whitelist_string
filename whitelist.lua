@@ -7,13 +7,18 @@ local function current_gmt8()
 end
 
 local function format_gmt8(ts)
-	if not ts then
-		return nil
-	end
-	-- No timezone conversion needed; timestamp was created in GMT+8
+	if not ts then return nil end
+
+	-- Interpret the epoch as local time without timezone shifting
 	local t = os.date("*t", ts)
-	return string.format("%02d/%02d/%04d %02d:%02d:%02d", t.month, t.day, t.year, t.hour, t.min, t.sec)
+
+	-- Reconstruct exact local date/time (preserves your intended GMT+8 input)
+	return string.format(
+		"%02d/%02d/%04d %02d:%02d:%02d",
+		t.month, t.day, t.year, t.hour, t.min, t.sec
+	)
 end
+
 
 function W.verify(username)
 	local expiry = whitelist[username]
