@@ -8,8 +8,9 @@ local function current_gmt8()
 end
 
 local function formatTimestamp(ts)
-	local t = os.date("*t", ts)
-	return string.format("%04d-%02d-%02d %02:%02d:%02d", t.year, t.month, t.day, t.hour, t.min, t.sec)
+	local t = os.date("!*t", ts - 8 * 3600)
+	t = os.date("*t", ts)
+	return string.format("%04d-%02d-%02d %02d:%02d:%02d", t.year, t.month, t.day, t.hour, t.min, t.sec)
 end
 
 function W.verify(username)
