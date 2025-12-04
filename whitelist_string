@@ -289,7 +289,7 @@ return {
 ["xKingBob19"] = os.time({year=2025, month=12, day=29, hour=20, min=13, sec=38}),
 ["xian5152"] = os.time({year=2025, month=12, day=14, hour=20, min=23, sec=48}),
 ["D3NDI_18"] = os.time({year=2025, month=12, day=6, hour=21, min=13, sec=15}),
-["Hachirono24"] = os.time({year=2025, month=12, day=4, hour=12, min=23, sec=49}),
+["Hachirono24"] = os.time({year=2025, month=12, day=11, hour=19, min=8, sec=41}),
 ["Must_Win768"] = os.time({year=2025, month=12, day=14, hour=21, min=42, sec=57}),
 ["ronaldyabt"] = os.time({year=2026, month=2, day=1, hour=11, min=39, sec=42}),
 ["arela883"] = os.time({year=2025, month=12, day=29, hour=21, min=58, sec=8}),
