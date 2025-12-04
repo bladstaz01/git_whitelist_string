@@ -1,6 +1,6 @@
 return {
 ["iBeast_28"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
-["DustinKenot"] = os.time({year=2025, month=12, day=22, hour=0, min=10, sec=58}),
+["DustinKenot"] = os.time({year=2025, month=12, day=4, hour=16, min=36, sec=58}),
 ["Matsukawa09"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
 ["iNikoru10"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
 ["Yummypringl3s"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
