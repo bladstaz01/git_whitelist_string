@@ -224,7 +224,7 @@ return {
 ["Twinkle_sola"] = os.time({year=2025, month=12, day=12, hour=16, min=30, sec=37}),
 ["z3rochil"] = os.time({year=2025, month=12, day=4, hour=17, min=12, sec=25}),
 ["FGS_yukki"] = os.time({year=2025, month=12, day=12, hour=17, min=13, sec=39}),
-["niloslatoja24"] = os.time({year=2025, month=12, day=4, hour=17, min=33, sec=9}),
+["niloslatoja24"] = os.time({year=2025, month=12, day=12, hour=18, min=20, sec=24}),
 ["mochimirabels"] = os.time({year=2030, month=1, day=1, hour=0, min=0, sec=0}),
 ["Zaxiayg"] = os.time({year=2025, month=12, day=12, hour=18, min=8, sec=0}),
 ["576ff47"] = os.time({year=2025, month=12, day=4, hour=21, min=57, sec=8}),
