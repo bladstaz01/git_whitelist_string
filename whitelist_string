@@ -414,5 +414,6 @@ return {
 ["UnliStock"] = os.time({year=2025, month=12, day=7, hour=19, min=3, sec=9}),
 ["rsusmurf2"] = os.time({year=2025, month=12, day=7, hour=19, min=11, sec=59}),
 ["J4mesPlayzMc21"] = os.time({year=2025, month=12, day=7, hour=19, min=39, sec=11}),
-["ManyamanBuru"] = os.time({year=2026, month=1, day=5, hour=21, min=30, sec=31})
+["ManyamanBuru"] = os.time({year=2026, month=1, day=5, hour=21, min=30, sec=31}),
+["lizasbf"] = os.time({year=2025, month=12, day=14, hour=5, min=10, sec=19})
 }
