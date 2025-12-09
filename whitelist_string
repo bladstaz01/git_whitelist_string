@@ -450,8 +450,8 @@ return {
 ["justinemier650"] = os.time({year=2025, month=12, day=10, hour=17, min=18, sec=58}),
 ["Meister_Zacc"] = os.time({year=2025, month=12, day=16, hour=18, min=46, sec=14}),
 ["fajii12345"] = os.time({year=2025, month=12, day=16, hour=18, min=48, sec=21}),
-["@ICantLadderlnABA"] = os.time({year=2025, month=12, day=16, hour=19, min=50, sec=20}),
 ["kazuma_023"] = os.time({year=2026, month=1, day=8, hour=19, min=59, sec=7}),
 ["ICantLadderlnABA"] = os.time({year=2025, month=12, day=16, hour=19, min=59, sec=25}),
-["happymodejake12"] = os.time({year=2025, month=12, day=16, hour=20, min=2, sec=35})
+["happymodejake12"] = os.time({year=2025, month=12, day=16, hour=20, min=2, sec=35}),
+["@michaelandrei17"] = os.time({year=2025, month=12, day=24, hour=20, min=13, sec=14})
 }
