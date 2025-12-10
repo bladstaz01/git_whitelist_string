@@ -412,7 +412,7 @@ return {
 ["shinkazeo"] = os.time({year=2025, month=12, day=8, hour=18, min=6, sec=3}),
 ["Gray_Light8"] = os.time({year=2025, month=12, day=8, hour=18, min=54, sec=48}),
 ["UnliStock"] = os.time({year=2025, month=12, day=10, hour=23, min=28, sec=56}),
-["rsusmurf2"] = os.time({year=2025, month=12, day=9, hour=20, min=42, sec=24}),
+["rsusmurf2"] = os.time({year=2025, month=12, day=17, hour=13, min=58, sec=50}),
 ["J4mesPlayzMc21"] = os.time({year=2025, month=12, day=8, hour=19, min=39, sec=11}),
 ["ManyamanBuru"] = os.time({year=2026, month=1, day=6, hour=21, min=30, sec=31}),
 ["Luka_pelc1"] = os.time({year=2025, month=12, day=14, hour=8, min=22, sec=46}),
