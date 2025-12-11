@@ -469,5 +469,6 @@ return {
 ["k9unitobnad"] = os.time({year=2025, month=12, day=18, hour=6, min=20, sec=19}),
 ["ICHIRO_2511"] = os.time({year=2025, month=12, day=12, hour=9, min=4, sec=5}),
 ["@Alfia101213"] = os.time({year=2025, month=12, day=19, hour=13, min=47, sec=37}),
-["Alfia101213"] = os.time({year=2025, month=12, day=12, hour=14, min=27, sec=22})
+["Alfia101213"] = os.time({year=2025, month=12, day=12, hour=14, min=27, sec=22}),
+["rapkantutero"] = os.time({year=2025, month=12, day=12, hour=15, min=24, sec=21})
 }
