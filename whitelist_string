@@ -381,7 +381,7 @@ return {
 ["SASUKExNARUTO_156"] = os.time({year=2026, month=1, day=5, hour=5, min=12, sec=31}),
 ["XXODUSZZ"] = os.time({year=2025, month=12, day=14, hour=7, min=7, sec=15}),
 ["jaaaaabv"] = os.time({year=2025, month=12, day=21, hour=8, min=1, sec=23}),
-["dr1elSKRT"] = os.time({year=2025, month=12, day=10, hour=19, min=57, sec=54}),
+["dr1elSKRT"] = os.time({year=2025, month=12, day=12, hour=19, min=54, sec=39}),
 ["toshihahainamo"] = os.time({year=2025, month=12, day=15, hour=11, min=11, sec=5}),
 ["sheet12300"] = os.time({year=2025, month=12, day=13, hour=9, min=9, sec=35}),
 ["Tina021302"] = os.time({year=2025, month=12, day=13, hour=9, min=58, sec=52}),
