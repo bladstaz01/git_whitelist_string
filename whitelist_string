@@ -285,7 +285,7 @@ return {
 ["johnny22475"] = os.time({year=2025, month=12, day=8, hour=18, min=53, sec=52}),
 ["xKingBob19"] = os.time({year=2025, month=12, day=30, hour=20, min=13, sec=38}),
 ["xian5152"] = os.time({year=2025, month=12, day=15, hour=20, min=23, sec=48}),
-["D3NDI_18"] = os.time({year=2025, month=12, day=7, hour=21, min=13, sec=15}),
+["D3NDI_18"] = os.time({year=2025, month=12, day=19, hour=12, min=1, sec=10}),
 ["Hachirono24"] = os.time({year=2025, month=12, day=12, hour=19, min=8, sec=41}),
 ["Must_Win768"] = os.time({year=2025, month=12, day=15, hour=21, min=42, sec=57}),
 ["ronaldyabt"] = os.time({year=2024, month=2, day=2, hour=11, min=39, sec=42}),
@@ -485,7 +485,6 @@ return {
 ["D3ndi_18"] = os.time({year=2025, month=12, day=19, hour=6, min=14, sec=3}),
 ["guryo071"] = os.time({year=2025, month=12, day=13, hour=6, min=54, sec=37}),
 ["Diyan_jpg"] = os.time({year=2025, month=12, day=13, hour=8, min=48, sec=56}),
-["Leogaming186"] = os.time({year=2025, month=12, day=13, hour=10, min=54, sec=44}),
 ["zengie_45"] = os.time({year=2025, month=12, day=19, hour=11, min=53, sec=29}),
 ["leogaming186"] = os.time({year=2025, month=12, day=13, hour=11, min=55, sec=25})
 }
