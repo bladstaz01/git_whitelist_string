@@ -500,5 +500,6 @@ return {
 ["007hohi"] = os.time({year=2025, month=12, day=13, hour=20, min=9, sec=9}),
 ["CIoudzero"] = os.time({year=2025, month=12, day=13, hour=20, min=10, sec=57}),
 ["aldos_killer123"] = os.time({year=2025, month=12, day=19, hour=20, min=12, sec=4}),
-["jm30305"] = os.time({year=2025, month=12, day=19, hour=20, min=21, sec=56})
+["jm30305"] = os.time({year=2025, month=12, day=19, hour=20, min=21, sec=56}),
+["Dev_Yoseft"] = os.time({year=2025, month=12, day=13, hour=20, min=29, sec=4})
 }
