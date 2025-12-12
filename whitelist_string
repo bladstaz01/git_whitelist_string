@@ -487,5 +487,6 @@ return {
 ["zengie_45"] = os.time({year=2025, month=12, day=19, hour=11, min=53, sec=29}),
 ["leogaming186"] = os.time({year=2025, month=12, day=13, hour=11, min=55, sec=25}),
 ["Matcha231777"] = os.time({year=2026, month=1, day=11, hour=12, min=29, sec=52}),
-["F1nnJC"] = os.time({year=2026, month=1, day=11, hour=13, min=25, sec=40})
+["F1nnJC"] = os.time({year=2026, month=1, day=11, hour=13, min=25, sec=40}),
+["Leogaming186"] = os.time({year=2025, month=12, day=19, hour=13, min=28, sec=55})
 }
