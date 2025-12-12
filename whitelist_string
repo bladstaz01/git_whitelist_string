@@ -482,7 +482,6 @@ return {
 ["piya123i"] = os.time({year=2025, month=12, day=13, hour=0, min=59, sec=26}),
 ["kzcrooki"] = os.time({year=2025, month=12, day=13, hour=1, min=17, sec=4}),
 ["Checkmate370"] = os.time({year=2025, month=12, day=19, hour=4, min=56, sec=9}),
-["D3ndi_18"] = os.time({year=2025, month=12, day=19, hour=6, min=14, sec=3}),
 ["guryo071"] = os.time({year=2025, month=12, day=13, hour=6, min=54, sec=37}),
 ["Diyan_jpg"] = os.time({year=2025, month=12, day=13, hour=8, min=48, sec=56}),
 ["zengie_45"] = os.time({year=2025, month=12, day=19, hour=11, min=53, sec=29}),
