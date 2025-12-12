@@ -498,5 +498,5 @@ return {
 ["CIoudZero"] = os.time({year=2025, month=12, day=14, hour=19, min=55, sec=8}),
 ["007hohi"] = os.time({year=2025, month=12, day=13, hour=20, min=9, sec=9}),
 ["aldos_killer123"] = os.time({year=2025, month=12, day=19, hour=20, min=12, sec=4}),
-["jm30305"] = os.time({year=2025, month=12, day=19, hour=20, min=21, sec=56})
+["Jm30305"] = os.time({year=2025, month=12, day=19, hour=20, min=53, sec=10})
 }
