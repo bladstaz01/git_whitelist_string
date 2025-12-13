@@ -395,7 +395,7 @@ return {
 ["Zabr33nah"] = os.time({year=2025, month=12, day=13, hour=20, min=9, sec=53}),
 ["Yatsuse15"] = os.time({year=2026, month=1, day=5, hour=22, min=25, sec=18}),
 ["Lynxzcvx"] = os.time({year=2025, month=12, day=13, hour=23, min=2, sec=12}),
-["Kiara_samiii"] = os.time({year=2025, month=12, day=13, hour=23, min=10, sec=41}),
+["Kiara_samiii"] = os.time({year=2025, month=12, day=14, hour=23, min=10, sec=41}),
 ["BabyGlazel"] = os.time({year=2025, month=12, day=7, hour=23, min=19, sec=20}),
 ["Ooopsssieeee"] = os.time({year=2026, month=7, day=5, hour=0, min=11, sec=34}),
 ["nailbreke_alt"] = os.time({year=2025, month=12, day=14, hour=4, min=23, sec=25}),
