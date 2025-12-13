@@ -1,5 +1,5 @@
 return {
-["iBeast_28"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
+["iBeast_28"] = os.time({year=2023, month=1, day=2, hour=0, min=0, sec=0}),
 ["DustinKenot"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
 ["Matsukawa09"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
 ["iNikoru10"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
@@ -521,5 +521,5 @@ return {
 ["Albuto1234567"] = os.time({year=2025, month=12, day=14, hour=19, min=42, sec=2}),
 ["langusad321"] = os.time({year=2025, month=12, day=14, hour=22, min=0, sec=23}),
 ["dragliken"] = os.time({year=2025, month=12, day=14, hour=22, min=7, sec=13}),
-["iBeast_28"] = os.time({year=2024, month=12, day=14, hour=22, min=32, sec=29})
+["iBeast_28"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0})
 }
