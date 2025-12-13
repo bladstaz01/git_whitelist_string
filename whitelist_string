@@ -249,7 +249,7 @@ return {
 ["Kuling424"] = os.time({year=2025, month=12, day=6, hour=12, min=6, sec=41}),
 ["kczxyc"] = os.time({year=2025, month=12, day=6, hour=12, min=21, sec=50}),
 ["lalalalance1105"] = os.time({year=2025, month=12, day=14, hour=12, min=35, sec=25}),
-["Delt4320"] = os.time({year=2025, month=12, day=14, hour=15, min=12, sec=53}),
+["Delt4320"] = os.time({year=2025, month=12, day=21, hour=15, min=12, sec=53}),
 ["Aldrianccc"] = os.time({year=2025, month=12, day=22, hour=1, min=20, sec=6}),
 ["joax_gav23"] = os.time({year=2025, month=12, day=14, hour=19, min=17, sec=39}),
 ["cleftiee"] = os.time({year=2025, month=12, day=13, hour=19, min=25, sec=19}),
