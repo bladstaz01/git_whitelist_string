@@ -400,7 +400,7 @@ return {
 ["Ooopsssieeee"] = os.time({year=2026, month=7, day=5, hour=0, min=11, sec=34}),
 ["nailbreke_alt"] = os.time({year=2025, month=12, day=14, hour=4, min=23, sec=25}),
 ["Skayredy"] = os.time({year=2025, month=12, day=14, hour=12, min=29, sec=4}),
-["lazyslyPNGLANGKA"] = os.time({year=2025, month=12, day=9, hour=13, min=40, sec=9}),
+["lazyslyPNGLANGKA"] = os.time({year=2025, month=12, day=15, hour=12, min=23, sec=45}),
 ["xXerygonXx"] = os.time({year=2026, month=1, day=6, hour=13, min=40, sec=54}),
 ["richie33950"] = os.time({year=2025, month=12, day=8, hour=13, min=56, sec=45}),
 ["sov626"] = os.time({year=2025, month=12, day=9, hour=14, min=4, sec=47}),
