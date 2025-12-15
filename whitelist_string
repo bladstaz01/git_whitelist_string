@@ -24,7 +24,7 @@ return {
 ["DemonSlayerBreath"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
 ["Senpai_Jemmmmm"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
 ["underscorenath"] = os.time({year=2025, month=12, day=23, hour=0, min=10, sec=58}),
-["xxfaufau0002"] = os.time({year=2025, month=12, day=15, hour=15, min=57, sec=22}),
+["xxfaufau0002"] = os.time({year=2025, month=12, day=22, hour=18, min=11, sec=7}),
 ["KrammmmQuatro"] = os.time({year=2025, month=12, day=15, hour=17, min=46, sec=13}),
 ["Dreii2611"] = os.time({year=2025, month=11, day=30, hour=11, min=45, sec=10}),
 ["Palevelx"] = os.time({year=2025, month=12, day=23, hour=13, min=23, sec=36}),
