@@ -549,7 +549,7 @@ return {
 ["continue2119"] = os.time({year=2025, month=12, day=16, hour=1, min=49, sec=42}),
 ["MasterFaithh"] = os.time({year=2025, month=12, day=22, hour=9, min=23, sec=24}),
 ["inikoru1010"] = os.time({year=2030, month=1, day=2, hour=0, min=0, sec=0}),
-["KyleTzY0997"] = os.time({year=2025, month=12, day=16, hour=10, min=55, sec=40}),
+["KyLeTzY0997"] = os.time({year=2025, month=12, day=16, hour=10, min=55, sec=40}),
 ["piattos2312"] = os.time({year=2025, month=12, day=16, hour=11, min=4, sec=15}),
 ["cuteacudel02"] = os.time({year=2025, month=12, day=16, hour=11, min=22, sec=53})
 }
