@@ -674,5 +674,5 @@ return {
 ["J_quinday"] = os.time({year=2026, month=1, day=2, hour=1, min=33, sec=3}),
 ["bongkies03"] = os.time({year=2025, month=12, day=19, hour=4, min=3, sec=20}),
 ["Yapie67"] = os.time({year=2025, month=12, day=19, hour=5, min=37, sec=59}),
-["yapie67"] = os.time({year=2025, month=12, day=19, hour=5, min=54, sec=56})
+["yapie67"] = os.time({year=2025, month=12, day=20, hour=5, min=54, sec=56})
 }
