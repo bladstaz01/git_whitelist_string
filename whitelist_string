@@ -650,5 +650,6 @@ return {
 ["@consumedego"] = os.time({year=2025, month=12, day=18, hour=18, min=36, sec=9}),
 ["morissette_9992"] = os.time({year=2025, month=12, day=18, hour=18, min=39, sec=25}),
 ["Santinoooo23456789"] = os.time({year=2026, month=1, day=1, hour=18, min=41, sec=24}),
-["Lazada2w"] = os.time({year=2025, month=12, day=18, hour=18, min=44, sec=33})
+["Lazada2w"] = os.time({year=2025, month=12, day=18, hour=18, min=44, sec=33}),
+["YOR866"] = os.time({year=2025, month=12, day=18, hour=18, min=53, sec=45})
 }
