@@ -457,7 +457,7 @@ return {
 ["kaiselinss"] = os.time({year=2026, month=1, day=9, hour=20, min=15, sec=24}),
 ["A_Eyaaaa"] = os.time({year=2025, month=12, day=18, hour=15, min=23, sec=9}),
 ["lll_god123"] = os.time({year=2025, month=12, day=11, hour=21, min=58, sec=19}),
-["HaplasSuperSale"] = os.time({year=2025, month=12, day=18, hour=3, min=1, sec=51}),
+["HaplasSuperSale"] = os.time({year=2025, month=12, day=25, hour=15, min=19, sec=1}),
 ["inikoru95"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["Nirelcyrel23"] = os.time({year=2026, month=1, day=10, hour=8, min=36, sec=40}),
 ["Jsenpai010"] = os.time({year=2026, month=1, day=10, hour=19, min=52, sec=27}),
