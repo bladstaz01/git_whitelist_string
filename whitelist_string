@@ -216,7 +216,7 @@ return {
 ["ddenvermc24"] = os.time({year=2025, month=11, day=30, hour=14, min=18, sec=34}),
 ["Blink00220"] = os.time({year=2025, month=12, day=29, hour=14, min=20, sec=16}),
 ["Official_msgaming"] = os.time({year=2025, month=12, day=6, hour=14, min=40, sec=5}),
-["sheynedc"] = os.time({year=2025, month=12, day=14, hour=14, min=53, sec=13}),
+["sheynedc"] = os.time({year=2025, month=12, day=25, hour=14, min=54, sec=38}),
 ["Kusakabe_258"] = os.time({year=2025, month=12, day=29, hour=3, min=53, sec=1}),
 ["werwerwer0111"] = os.time({year=2025, month=12, day=18, hour=21, min=34, sec=33}),
 ["FENNN_98"] = os.time({year=2025, month=12, day=29, hour=15, min=47, sec=37}),
