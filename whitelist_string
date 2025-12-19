@@ -266,7 +266,7 @@ return {
 ["lanzer0ne"] = os.time({year=2025, month=12, day=15, hour=0, min=1, sec=9}),
 ["UnKnownv253"] = os.time({year=2025, month=12, day=8, hour=2, min=1, sec=9}),
 ["Jarengirl1"] = os.time({year=2026, month=1, day=15, hour=0, min=35, sec=49}),
-["Kamunra_79"] = os.time({year=2025, month=12, day=2, hour=3, min=27, sec=4}),
+["Kamunra_79"] = os.time({year=2026, month=1, day=18, hour=22, min=19, sec=8}),
 ["n3dra4"] = os.time({year=2026, month=1, day=14, hour=21, min=11, sec=52}),
 ["squirtleolok"] = os.time({year=2026, month=1, day=7, hour=12, min=40, sec=10}),
 ["inatako1"] = os.time({year=2025, month=12, day=25, hour=21, min=1, sec=17}),
