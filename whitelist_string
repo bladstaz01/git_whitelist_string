@@ -572,7 +572,7 @@ return {
 ["straw_haaat"] = os.time({year=2025, month=12, day=19, hour=23, min=53, sec=22}),
 ["daveplayz123355"] = os.time({year=2025, month=12, day=25, hour=19, min=45, sec=0}),
 ["FIXSEZ5"] = os.time({year=2025, month=12, day=23, hour=19, min=59, sec=21}),
-["thelonglostrea"] = os.time({year=2025, month=12, day=17, hour=20, min=5, sec=1}),
+["thelonglostrea"] = os.time({year=2025, month=12, day=20, hour=21, min=19, sec=23}),
 ["angels_owner"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["jamesvincentlaloy7"] = os.time({year=2025, month=12, day=23, hour=20, min=21, sec=29}),
 ["raine_72014"] = os.time({year=2026, month=1, day=15, hour=20, min=22, sec=19}),
