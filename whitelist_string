@@ -768,5 +768,6 @@ return {
 ["OcsiPam"] = os.time({year=2025, month=12, day=21, hour=2, min=23, sec=33}),
 ["Tirso_025"] = os.time({year=2025, month=12, day=21, hour=2, min=36, sec=49}),
 ["313NvrNo5"] = os.time({year=2025, month=12, day=21, hour=2, min=41, sec=21}),
-["junpascua23"] = os.time({year=2026, month=1, day=4, hour=2, min=45, sec=22})
+["junpascua23"] = os.time({year=2026, month=1, day=4, hour=2, min=45, sec=22}),
+["nagi3265"] = os.time({year=2025, month=12, day=21, hour=2, min=50, sec=1})
 }
