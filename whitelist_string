@@ -742,5 +742,6 @@ return {
 ["gelonex27"] = os.time({year=2025, month=12, day=21, hour=16, min=55, sec=53}),
 ["shinra8462"] = os.time({year=2025, month=12, day=20, hour=17, min=1, sec=42}),
 ["pilpilpilz3"] = os.time({year=2025, month=12, day=20, hour=17, min=29, sec=3}),
-["BACON_PROZ40"] = os.time({year=2025, month=12, day=26, hour=17, min=53, sec=47})
+["BACON_PROZ40"] = os.time({year=2025, month=12, day=26, hour=17, min=53, sec=47}),
+["Skibidi_toylet66669"] = os.time({year=2025, month=12, day=26, hour=17, min=55, sec=49})
 }
