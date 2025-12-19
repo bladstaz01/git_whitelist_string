@@ -753,5 +753,6 @@ return {
 ["ren_rose05"] = os.time({year=2025, month=12, day=26, hour=22, min=1, sec=26}),
 ["ekalam_etlog"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["Spider_headleader"] = os.time({year=2025, month=12, day=20, hour=22, min=39, sec=51}),
-["Michikatsu_8002"] = os.time({year=2025, month=12, day=26, hour=23, min=37, sec=49})
+["Michikatsu_8002"] = os.time({year=2025, month=12, day=26, hour=23, min=37, sec=49}),
+["krungkrungrikapu"] = os.time({year=2025, month=12, day=20, hour=23, min=52, sec=0})
 }
