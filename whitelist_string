@@ -757,7 +757,6 @@ return {
 ["krungkrungrikapu"] = os.time({year=2025, month=12, day=20, hour=23, min=52, sec=0}),
 ["nigmatttblack"] = os.time({year=2025, month=12, day=21, hour=0, min=6, sec=12}),
 ["prettyL0317"] = os.time({year=2025, month=12, day=27, hour=0, min=11, sec=17}),
-["Jolobee"] = os.time({year=2025, month=12, day=27, hour=0, min=16, sec=7}),
 ["lukesbaconnoob"] = os.time({year=2025, month=12, day=27, hour=0, min=19, sec=50}),
 ["Tagapagmananangpera"] = os.time({year=2025, month=12, day=21, hour=0, min=40, sec=2}),
 ["@Growagardenplayer904"] = os.time({year=2025, month=12, day=27, hour=0, min=50, sec=14})
