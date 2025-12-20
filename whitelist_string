@@ -891,5 +891,8 @@ return {
 ["John_monarch5"] = os.time({year=2025, month=12, day=27, hour=23, min=12, sec=41}),
 ["likha_1011"] = os.time({year=2025, month=12, day=27, hour=23, min=14, sec=52}),
 ["shaishahwis"] = os.time({year=2025, month=12, day=21, hour=23, min=21, sec=2}),
-["159batang7"] = os.time({year=2025, month=12, day=21, hour=23, min=26, sec=30})
+["159batang7"] = os.time({year=2025, month=12, day=21, hour=23, min=26, sec=30}),
+["SuperN3k0"] = os.time({year=2025, month=12, day=21, hour=23, min=43, sec=13}),
+["SuperN3k0"] = os.time({year=2025, month=12, day=21, hour=23, min=43, sec=14}),
+["hanzsxie"] = os.time({year=2026, month=1, day=19, hour=23, min=43, sec=14})
 }
