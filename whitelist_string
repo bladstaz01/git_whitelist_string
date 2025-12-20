@@ -803,5 +803,6 @@ return {
 ["sdai366"] = os.time({year=2026, month=1, day=4, hour=12, min=33, sec=23}),
 ["@mjkupal12301"] = os.time({year=2025, month=12, day=27, hour=12, min=38, sec=44}),
 ["lestertugade1232"] = os.time({year=2025, month=12, day=21, hour=12, min=53, sec=11}),
-["ArborStuff"] = os.time({year=2025, month=12, day=27, hour=13, min=1, sec=5})
+["ArborStuff"] = os.time({year=2025, month=12, day=27, hour=13, min=1, sec=5}),
+["mjkupal12301"] = os.time({year=2025, month=12, day=27, hour=13, min=8, sec=57})
 }
