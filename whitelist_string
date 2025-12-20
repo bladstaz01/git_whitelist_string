@@ -792,5 +792,6 @@ return {
 ["supamat1e"] = os.time({year=2025, month=12, day=21, hour=11, min=9, sec=14}),
 ["zky_sky"] = os.time({year=2025, month=12, day=27, hour=11, min=19, sec=28}),
 ["Anicaa620"] = os.time({year=2025, month=12, day=21, hour=11, min=33, sec=22}),
-["katakuriiizxz"] = os.time({year=2025, month=12, day=27, hour=11, min=40, sec=14})
+["katakuriiizxz"] = os.time({year=2025, month=12, day=27, hour=11, min=40, sec=14}),
+["Antiinventory"] = os.time({year=2025, month=12, day=21, hour=11, min=52, sec=59})
 }
