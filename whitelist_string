@@ -861,5 +861,6 @@ return {
 ["DocMarkk2"] = os.time({year=2026, month=1, day=19, hour=18, min=53, sec=12}),
 ["kxshir0x"] = os.time({year=2026, month=1, day=19, hour=18, min=55, sec=58}),
 ["ranpocute123"] = os.time({year=2026, month=1, day=19, hour=18, min=57, sec=35}),
-["dobbyintiktolALT1"] = os.time({year=2025, month=12, day=21, hour=18, min=59, sec=56})
+["dobbyintiktolALT1"] = os.time({year=2025, month=12, day=21, hour=18, min=59, sec=56}),
+["PpiLucifer"] = os.time({year=2025, month=12, day=21, hour=19, min=9, sec=19})
 }
