@@ -910,5 +910,6 @@ return {
 ["iC3Coffeee"] = os.time({year=2026, month=1, day=5, hour=1, min=40, sec=43}),
 ["1redpulp"] = os.time({year=2026, month=1, day=5, hour=2, min=50, sec=27}),
 ["wroobot"] = os.time({year=2025, month=12, day=22, hour=2, min=54, sec=33}),
-["B4hram"] = os.time({year=2025, month=12, day=22, hour=2, min=58, sec=36})
+["B4hram"] = os.time({year=2025, month=12, day=22, hour=2, min=58, sec=36}),
+["moelmotod"] = os.time({year=2026, month=1, day=20, hour=6, min=11, sec=12})
 }
