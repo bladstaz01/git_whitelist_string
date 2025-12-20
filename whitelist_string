@@ -834,7 +834,6 @@ return {
 ["kouichi12334"] = os.time({year=2025, month=12, day=27, hour=16, min=51, sec=58}),
 ["Ace_kharl01"] = os.time({year=2025, month=12, day=27, hour=16, min=56, sec=33}),
 ["altloyy"] = os.time({year=2025, month=12, day=27, hour=16, min=57, sec=52}),
-["Uncensored004"] = os.time({year=2025, month=12, day=21, hour=17, min=0, sec=5}),
 ["uncensored004"] = os.time({year=2025, month=12, day=22, hour=17, min=2, sec=54}),
 ["anobatalagatayo143"] = os.time({year=2025, month=12, day=21, hour=17, min=17, sec=14}),
 ["HeyCloserLander"] = os.time({year=2025, month=12, day=27, hour=17, min=17, sec=42}),
