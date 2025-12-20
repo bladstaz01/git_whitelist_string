@@ -879,5 +879,6 @@ return {
 ["benimaru297"] = os.time({year=2025, month=12, day=21, hour=21, min=42, sec=35}),
 ["labubi1123"] = os.time({year=2025, month=12, day=21, hour=21, min=43, sec=15}),
 ["manman112618"] = os.time({year=2026, month=1, day=4, hour=21, min=51, sec=40}),
-["Earl2911kristine"] = os.time({year=2025, month=12, day=21, hour=21, min=55, sec=52})
+["Earl2911kristine"] = os.time({year=2025, month=12, day=21, hour=21, min=55, sec=52}),
+["dheeeeeekpe"] = os.time({year=2025, month=12, day=27, hour=21, min=56, sec=14})
 }
