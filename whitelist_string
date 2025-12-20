@@ -609,7 +609,7 @@ return {
 ["bibyanAlt"] = os.time({year=2025, month=12, day=28, hour=4, min=10, sec=36}),
 ["Claydel1121"] = os.time({year=2026, month=1, day=1, hour=18, min=25, sec=50}),
 ["buknoypabilic"] = os.time({year=2025, month=12, day=20, hour=15, min=6, sec=35}),
-["richard123q12"] = os.time({year=2025, month=12, day=18, hour=18, min=36, sec=24}),
+["richard123q12"] = os.time({year=2025, month=12, day=22, hour=6, min=41, sec=15}),
 ["s10iue"] = os.time({year=2025, month=12, day=18, hour=18, min=47, sec=10}),
 ["Kier2243"] = os.time({year=2025, month=12, day=24, hour=19, min=11, sec=43}),
 ["Rardszuuu03"] = os.time({year=2025, month=12, day=21, hour=23, min=32, sec=10}),
