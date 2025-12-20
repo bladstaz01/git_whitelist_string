@@ -807,5 +807,7 @@ return {
 ["Frerenx1"] = os.time({year=2025, month=12, day=21, hour=13, min=24, sec=8}),
 ["HATORI"] = os.time({year=2025, month=12, day=21, hour=13, min=35, sec=27}),
 ["@mjuan102003"] = os.time({year=2025, month=12, day=27, hour=13, min=39, sec=28}),
-["shhaaawwww"] = os.time({year=2025, month=12, day=27, hour=13, min=56, sec=17})
+["shhaaawwww"] = os.time({year=2025, month=12, day=27, hour=13, min=56, sec=17}),
+["Hatori216"] = os.time({year=2025, month=12, day=21, hour=14, min=3, sec=54}),
+["mjuan102003"] = os.time({year=2025, month=12, day=27, hour=14, min=3, sec=54})
 }
