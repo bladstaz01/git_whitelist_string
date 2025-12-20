@@ -796,5 +796,6 @@ return {
 ["Antiinventory"] = os.time({year=2025, month=12, day=21, hour=11, min=52, sec=59}),
 ["arongavin4"] = os.time({year=2025, month=12, day=21, hour=11, min=56, sec=29}),
 ["Channnnmnn"] = os.time({year=2025, month=12, day=21, hour=12, min=3, sec=33}),
-["Calyx_02604"] = os.time({year=2025, month=12, day=21, hour=12, min=6, sec=8})
+["Calyx_02604"] = os.time({year=2025, month=12, day=21, hour=12, min=6, sec=8}),
+["jimbossog1"] = os.time({year=2025, month=12, day=21, hour=12, min=8, sec=28})
 }
