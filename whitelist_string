@@ -834,5 +834,6 @@ return {
 ["Yukichi_0011"] = os.time({year=2025, month=12, day=21, hour=16, min=29, sec=55}),
 ["hakori_17"] = os.time({year=2026, month=1, day=4, hour=16, min=30, sec=57}),
 ["hightmex"] = os.time({year=2025, month=12, day=21, hour=16, min=41, sec=58}),
-["humba558"] = os.time({year=2026, month=1, day=4, hour=16, min=47, sec=45})
+["humba558"] = os.time({year=2026, month=1, day=4, hour=16, min=47, sec=45}),
+["kouichi12334"] = os.time({year=2025, month=12, day=27, hour=16, min=51, sec=58})
 }
