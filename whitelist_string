@@ -916,5 +916,6 @@ return {
 ["MGD_FortniteEden"] = os.time({year=2025, month=12, day=22, hour=6, min=34, sec=28}),
 ["droctroc80"] = os.time({year=2025, month=12, day=22, hour=6, min=34, sec=47}),
 ["apollonighh2"] = os.time({year=2025, month=12, day=22, hour=7, min=17, sec=49}),
-["Gyomei_230905"] = os.time({year=2025, month=12, day=28, hour=7, min=57, sec=31})
+["Gyomei_230905"] = os.time({year=2025, month=12, day=28, hour=7, min=57, sec=31}),
+["FinBlink1"] = os.time({year=2025, month=12, day=22, hour=8, min=55, sec=13})
 }
