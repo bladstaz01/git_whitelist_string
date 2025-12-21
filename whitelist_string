@@ -997,7 +997,6 @@ return {
 ["Bolbol91732"] = os.time({year=2025, month=12, day=28, hour=20, min=27, sec=39}),
 ["JUBBJUBB337"] = os.time({year=2025, month=12, day=28, hour=20, min=50, sec=2}),
 ["tsulelet2"] = os.time({year=2025, month=12, day=28, hour=20, min=55, sec=14}),
-["tsulelet2"] = os.time({year=2025, month=12, day=28, hour=20, min=55, sec=14}),
 ["coldsigmaboy5"] = os.time({year=2025, month=12, day=28, hour=20, min=55, sec=14}),
 ["Levsofinee"] = os.time({year=2025, month=12, day=28, hour=20, min=55, sec=52}),
 ["richchocooo2"] = os.time({year=2026, month=1, day=20, hour=20, min=56, sec=11}),
