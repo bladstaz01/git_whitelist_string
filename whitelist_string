@@ -504,7 +504,7 @@ return {
 ["Jeriemmy7"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["IvoMathew"] = os.time({year=2025, month=12, day=21, hour=3, min=4, sec=5}),
 ["Cozeelovehudassah"] = os.time({year=2025, month=12, day=25, hour=10, min=48, sec=19}),
-["ajsoriso12"] = os.time({year=2025, month=12, day=21, hour=8, min=59, sec=22}),
+["ajsoriso12"] = os.time({year=2025, month=12, day=28, hour=10, min=37, sec=15}),
 ["Tadssssssssssssssss"] = os.time({year=2025, month=12, day=21, hour=10, min=14, sec=31}),
 ["erozphyr"] = os.time({year=2026, month=1, day=21, hour=10, min=18, sec=32}),
 ["miksann26"] = os.time({year=2025, month=12, day=15, hour=11, min=1, sec=17}),
