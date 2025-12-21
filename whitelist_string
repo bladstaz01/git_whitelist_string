@@ -117,7 +117,7 @@ return {
 ["Khate020523"] = os.time({year=2025, month=12, day=4, hour=17, min=32, sec=20}),
 ["SenpaiPlaydl"] = os.time({year=2025, month=12, day=26, hour=17, min=39, sec=30}),
 ["Pause_2415"] = os.time({year=2025, month=12, day=27, hour=17, min=41, sec=5}),
-["Shinra_X23"] = os.time({year=2025, month=12, day=20, hour=17, min=39, sec=0}),
+["Shinra_X23"] = os.time({year=2025, month=12, day=28, hour=11, min=0, sec=8}),
 ["EarlCandies"] = os.time({year=2025, month=12, day=22, hour=20, min=49, sec=34}),
 ["Flames_2888"] = os.time({year=2025, month=12, day=4, hour=18, min=17, sec=53}),
 ["grimx178"] = os.time({year=2025, month=12, day=26, hour=18, min=34, sec=59}),
