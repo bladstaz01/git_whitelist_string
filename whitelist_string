@@ -1006,5 +1006,6 @@ return {
 ["OTAKU_146835"] = os.time({year=2025, month=12, day=28, hour=21, min=13, sec=37}),
 ["CloudZero"] = os.time({year=2025, month=12, day=28, hour=21, min=29, sec=47}),
 ["CayJay1101"] = os.time({year=2025, month=12, day=28, hour=21, min=37, sec=42}),
-["StoreKeeper51"] = os.time({year=2025, month=12, day=28, hour=21, min=38, sec=29})
+["StoreKeeper51"] = os.time({year=2025, month=12, day=28, hour=21, min=38, sec=29}),
+["macaready"] = os.time({year=2026, month=1, day=5, hour=21, min=48, sec=46})
 }
