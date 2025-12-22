@@ -184,7 +184,7 @@ return {
 ["Charles_pre"] = os.time({year=2025, month=12, day=25, hour=20, min=14, sec=30}),
 ["taijiro_official"] = os.time({year=2025, month=12, day=5, hour=17, min=57, sec=57}),
 ["Batx_1233"] = os.time({year=2025, month=12, day=5, hour=18, min=3, sec=29}),
-["miksann266"] = os.time({year=2025, month=12, day=22, hour=19, min=59, sec=10}),
+["miksann266"] = os.time({year=2025, month=12, day=30, hour=3, min=13, sec=24}),
 ["bulanskie1"] = os.time({year=2025, month=12, day=13, hour=18, min=29, sec=7}),
 ["Zeno_1662"] = os.time({year=2025, month=12, day=28, hour=18, min=32, sec=6}),
 ["sushimoch9"] = os.time({year=2025, month=12, day=28, hour=18, min=32, sec=13}),
