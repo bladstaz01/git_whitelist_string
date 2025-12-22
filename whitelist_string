@@ -1029,7 +1029,7 @@ return {
 ["sigmabwoi708"] = os.time({year=2026, month=1, day=21, hour=1, min=1, sec=53}),
 ["sswdwffwe"] = os.time({year=2026, month=1, day=5, hour=1, min=6, sec=51}),
 ["actzzyy"] = os.time({year=2025, month=12, day=29, hour=1, min=27, sec=7}),
-["CS_Kosuke"] = os.time({year=2025, month=12, day=23, hour=1, min=32, sec=10}),
+["CS_Kosuke"] = os.time({year=2025, month=12, day=24, hour=1, min=32, sec=10}),
 ["bluestormdevi1"] = os.time({year=2025, month=12, day=23, hour=1, min=37, sec=47}),
 ["bolbol91732"] = os.time({year=2026, month=1, day=5, hour=1, min=46, sec=8}),
 ["pengsakalam00"] = os.time({year=2025, month=12, day=23, hour=1, min=49, sec=22}),
