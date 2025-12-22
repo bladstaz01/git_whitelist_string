@@ -952,7 +952,7 @@ return {
 ["1uvxm"] = os.time({year=2025, month=12, day=28, hour=15, min=33, sec=59}),
 ["RayrayAOG"] = os.time({year=2025, month=12, day=28, hour=15, min=34, sec=22}),
 ["ShiGuang_4"] = os.time({year=2025, month=12, day=28, hour=15, min=47, sec=22}),
-["ggxtwohaha"] = os.time({year=2025, month=12, day=22, hour=15, min=49, sec=14}),
+["ggxtwohaha"] = os.time({year=2025, month=12, day=30, hour=7, min=31, sec=45}),
 ["sandqueen10"] = os.time({year=2025, month=12, day=28, hour=15, min=52, sec=24}),
 ["Clarkjohnparagsa"] = os.time({year=2025, month=12, day=23, hour=21, min=25, sec=21}),
 ["L3xIsAlwaysHere"] = os.time({year=2025, month=12, day=28, hour=15, min=57, sec=1}),
@@ -1186,5 +1186,6 @@ return {
 ["MrZurCute"] = os.time({year=2025, month=12, day=30, hour=7, min=19, sec=32}),
 ["zowohunter4"] = os.time({year=2025, month=12, day=24, hour=7, min=20, sec=37}),
 ["Rirry001"] = os.time({year=2025, month=12, day=30, hour=7, min=31, sec=8}),
-["Kaelzxcn"] = os.time({year=2025, month=12, day=30, hour=7, min=31, sec=24})
+["Kaelzxcn"] = os.time({year=2025, month=12, day=30, hour=7, min=31, sec=24}),
+["Lunaa_0324"] = os.time({year=2025, month=12, day=30, hour=7, min=32, sec=23})
 }
