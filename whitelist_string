@@ -1105,5 +1105,6 @@ return {
 ["ksuprmcy"] = os.time({year=2025, month=12, day=23, hour=15, min=28, sec=34}),
 ["Pooping0921"] = os.time({year=2025, month=12, day=23, hour=15, min=30, sec=59}),
 ["why_dapp"] = os.time({year=2025, month=12, day=29, hour=15, min=31, sec=11}),
-["ayanpo60"] = os.time({year=2025, month=12, day=29, hour=15, min=32, sec=9})
+["ayanpo60"] = os.time({year=2025, month=12, day=29, hour=15, min=32, sec=9}),
+["GodlySomeone315"] = os.time({year=2025, month=12, day=29, hour=15, min=36, sec=23})
 }
