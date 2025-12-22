@@ -1149,5 +1149,6 @@ return {
 ["TTsTRGoat"] = os.time({year=2026, month=1, day=21, hour=23, min=7, sec=16}),
 ["Crssht"] = os.time({year=2025, month=12, day=29, hour=23, min=8, sec=27}),
 ["Swukym"] = os.time({year=2025, month=12, day=29, hour=23, min=17, sec=5}),
-["fifuiroy"] = os.time({year=2025, month=12, day=29, hour=23, min=20, sec=32})
+["fifuiroy"] = os.time({year=2025, month=12, day=29, hour=23, min=20, sec=32}),
+["NotRealGlance"] = os.time({year=2025, month=12, day=29, hour=23, min=30, sec=23})
 }
