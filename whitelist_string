@@ -923,7 +923,7 @@ return {
 ["RyouThings"] = os.time({year=2025, month=12, day=28, hour=10, min=51, sec=26}),
 ["SitamakToman"] = os.time({year=2025, month=12, day=28, hour=11, min=2, sec=15}),
 ["Buttered_1000"] = os.time({year=2025, month=12, day=22, hour=11, min=6, sec=35}),
-["lawlawrnc3"] = os.time({year=2025, month=12, day=22, hour=11, min=20, sec=35}),
+["lawlawrnc3"] = os.time({year=2026, month=1, day=6, hour=14, min=42, sec=35}),
 ["binhello_6220"] = os.time({year=2025, month=12, day=23, hour=11, min=40, sec=33}),
 ["Jemzhop1"] = os.time({year=2025, month=12, day=22, hour=11, min=43, sec=37}),
 ["Joyboink"] = os.time({year=2025, month=12, day=28, hour=11, min=53, sec=52}),
