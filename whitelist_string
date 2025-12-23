@@ -1375,7 +1375,7 @@ return {
 ["XyKe_03"] = os.time({year=2025, month=12, day=30, hour=16, min=4, sec=33}),
 ["souly_504"] = os.time({year=2025, month=12, day=30, hour=16, min=4, sec=38}),
 ["pink_ysabella"] = os.time({year=2025, month=12, day=24, hour=16, min=4, sec=54}),
-["pink_ysabella"] = os.time({year=2025, month=12, day=24, hour=16, min=4, sec=55}),
+["pink_ysabella"] = os.time({year=2025, month=12, day=25, hour=16, min=4, sec=55}),
 ["pjmundo0"] = os.time({year=2025, month=12, day=30, hour=16, min=4, sec=55}),
 ["Fekfek293"] = os.time({year=2025, month=12, day=30, hour=16, min=4, sec=57}),
 ["jheid08"] = os.time({year=2025, month=12, day=24, hour=16, min=5, sec=24}),
