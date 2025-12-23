@@ -1534,7 +1534,7 @@ return {
 ["RCB_Calipre"] = os.time({year=2025, month=12, day=30, hour=22, min=1, sec=56}),
 ["taniee01"] = os.time({year=2025, month=12, day=30, hour=22, min=2, sec=52}),
 ["LaminzuDiTuli"] = os.time({year=2025, month=12, day=24, hour=22, min=8, sec=38}),
-["ChasingPavements201"] = os.time({year=2025, month=12, day=24, hour=22, min=8, sec=40}),
+["ChasingPavements201"] = os.time({year=2025, month=12, day=25, hour=22, min=8, sec=40}),
 ["akimoblue"] = os.time({year=2025, month=12, day=24, hour=22, min=8, sec=58}),
 ["Xantara29"] = os.time({year=2025, month=12, day=30, hour=22, min=10, sec=3}),
 ["josefffff15"] = os.time({year=2025, month=12, day=30, hour=22, min=11, sec=1}),
