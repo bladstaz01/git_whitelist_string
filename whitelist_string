@@ -1313,5 +1313,6 @@ return {
 ["boom_boll"] = os.time({year=2025, month=12, day=24, hour=13, min=59, sec=37}),
 ["Domdommm77"] = os.time({year=2025, month=12, day=30, hour=13, min=59, sec=45}),
 ["hashhash695"] = os.time({year=2025, month=12, day=24, hour=14, min=1, sec=27}),
-["Humble16"] = os.time({year=2025, month=12, day=24, hour=14, min=6, sec=8})
+["Humble16"] = os.time({year=2025, month=12, day=24, hour=14, min=6, sec=8}),
+["Margamenz"] = os.time({year=2025, month=12, day=24, hour=14, min=13, sec=43})
 }
