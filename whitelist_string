@@ -213,7 +213,7 @@ return {
 ["arerinal"] = os.time({year=2025, month=12, day=25, hour=10, min=11, sec=33}),
 ["knoxx_3005"] = os.time({year=2025, month=12, day=28, hour=13, min=40, sec=29}),
 ["uglygodisbomb"] = os.time({year=2025, month=12, day=29, hour=14, min=14, sec=42}),
-["ddenvermc24"] = os.time({year=2025, month=11, day=30, hour=14, min=18, sec=34}),
+["ddenvermc24"] = os.time({year=2025, month=12, day=30, hour=11, min=23, sec=3}),
 ["Blink00220"] = os.time({year=2025, month=12, day=29, hour=14, min=20, sec=16}),
 ["Official_msgaming"] = os.time({year=2025, month=12, day=6, hour=14, min=40, sec=5}),
 ["sheynedc"] = os.time({year=2025, month=12, day=25, hour=14, min=54, sec=38}),
