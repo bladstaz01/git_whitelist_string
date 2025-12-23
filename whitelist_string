@@ -118,7 +118,7 @@ return {
 ["SenpaiPlaydl"] = os.time({year=2026, month=1, day=2, hour=17, min=39, sec=30}),
 ["Pause_2415"] = os.time({year=2025, month=12, day=27, hour=17, min=41, sec=5}),
 ["Shinra_X23"] = os.time({year=2025, month=12, day=28, hour=11, min=0, sec=8}),
-["EarlCandies"] = os.time({year=2025, month=12, day=22, hour=20, min=49, sec=34}),
+["EarlCandies"] = os.time({year=2026, month=1, day=7, hour=8, min=45, sec=41}),
 ["Flames_2888"] = os.time({year=2025, month=12, day=4, hour=18, min=17, sec=53}),
 ["grimx178"] = os.time({year=2025, month=12, day=26, hour=18, min=34, sec=59}),
 ["Dyahandyahann"] = os.time({year=2026, month=1, day=10, hour=19, min=52, sec=27}),
@@ -1216,5 +1216,6 @@ return {
 ["Light_Max23"] = os.time({year=2025, month=12, day=30, hour=8, min=39, sec=41}),
 ["SilverCrow0005"] = os.time({year=2025, month=12, day=24, hour=8, min=41, sec=9}),
 ["rui_hatethegame"] = os.time({year=2025, month=12, day=30, hour=8, min=44, sec=4}),
-["Souei0522"] = os.time({year=2025, month=12, day=30, hour=8, min=44, sec=18})
+["Souei0522"] = os.time({year=2025, month=12, day=30, hour=8, min=44, sec=18}),
+["balbakwa777"] = os.time({year=2026, month=1, day=22, hour=8, min=45, sec=39})
 }
