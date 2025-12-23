@@ -624,7 +624,7 @@ return {
 ["SupZol"] = os.time({year=2025, month=12, day=28, hour=21, min=27, sec=26}),
 ["baycon_2507"] = os.time({year=2026, month=1, day=3, hour=5, min=37, sec=11}),
 ["lunch1015"] = os.time({year=2025, month=12, day=21, hour=15, min=14, sec=6}),
-["red_fox2125"] = os.time({year=2025, month=12, day=24, hour=1, min=17, sec=45}),
+["red_fox2125"] = os.time({year=2026, month=1, day=23, hour=6, min=29, sec=6}),
 ["DUDONG990"] = os.time({year=2026, month=1, day=16, hour=1, min=25, sec=21}),
 ["Novachrono88"] = os.time({year=2025, month=12, day=24, hour=1, min=36, sec=37}),
 ["kinanginamo1201"] = os.time({year=2025, month=12, day=26, hour=2, min=17, sec=48}),
