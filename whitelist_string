@@ -1603,5 +1603,6 @@ return {
 ["PetPosseDev01"] = os.time({year=2025, month=12, day=25, hour=2, min=37, sec=18}),
 ["kasabimu0"] = os.time({year=2025, month=12, day=31, hour=2, min=40, sec=20}),
 ["TG_xRin"] = os.time({year=2025, month=12, day=25, hour=2, min=49, sec=47}),
-["actzzy7"] = os.time({year=2025, month=12, day=31, hour=2, min=57, sec=19})
+["actzzy7"] = os.time({year=2025, month=12, day=31, hour=2, min=57, sec=19}),
+["Y4shiii"] = os.time({year=2025, month=12, day=25, hour=3, min=5, sec=32})
 }
