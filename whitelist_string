@@ -1331,5 +1331,6 @@ return {
 ["JoshyCantBeLoved"] = os.time({year=2026, month=1, day=7, hour=14, min=53, sec=14}),
 ["xairuuu"] = os.time({year=2025, month=12, day=24, hour=14, min=54, sec=16}),
 ["urkuyahmark"] = os.time({year=2025, month=12, day=24, hour=14, min=55, sec=16}),
-["hashfps_1"] = os.time({year=2025, month=12, day=30, hour=14, min=55, sec=29})
+["hashfps_1"] = os.time({year=2025, month=12, day=30, hour=14, min=55, sec=29}),
+["Aldjur26"] = os.time({year=2025, month=12, day=30, hour=14, min=56, sec=30})
 }
