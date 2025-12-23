@@ -1306,7 +1306,7 @@ return {
 ["rexxynp"] = os.time({year=2025, month=12, day=30, hour=13, min=41, sec=45}),
 ["Speed_speed0"] = os.time({year=2025, month=12, day=30, hour=13, min=43, sec=3}),
 ["@Namikaze28311"] = os.time({year=2025, month=12, day=30, hour=13, min=45, sec=18}),
-["SilentKraken02"] = os.time({year=2025, month=12, day=30, hour=13, min=50, sec=3}),
+["SilentKraken02"] = os.time({year=2026, month=1, day=6, hour=13, min=50, sec=3}),
 ["noncha3124"] = os.time({year=2025, month=12, day=30, hour=13, min=54, sec=16}),
 ["Tigerr011125"] = os.time({year=2025, month=12, day=24, hour=13, min=55, sec=45}),
 ["boom_boll"] = os.time({year=2025, month=12, day=24, hour=13, min=59, sec=37}),
