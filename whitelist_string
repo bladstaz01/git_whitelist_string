@@ -1466,5 +1466,6 @@ return {
 ["Tenjikuuo"] = os.time({year=2025, month=12, day=30, hour=19, min=7, sec=27}),
 ["FeralwolfTR"] = os.time({year=2025, month=12, day=24, hour=19, min=14, sec=39}),
 ["cokefeeee"] = os.time({year=2025, month=12, day=24, hour=19, min=16, sec=16}),
-["Khate_PagodNa"] = os.time({year=2025, month=12, day=30, hour=19, min=22, sec=22})
+["Khate_PagodNa"] = os.time({year=2025, month=12, day=30, hour=19, min=22, sec=22}),
+["4kgeni"] = os.time({year=2025, month=12, day=24, hour=19, min=26, sec=19})
 }
