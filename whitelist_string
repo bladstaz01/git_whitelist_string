@@ -1508,5 +1508,6 @@ return {
 ["Ruble_bank"] = os.time({year=2025, month=12, day=24, hour=21, min=12, sec=42}),
 ["httqs_kent"] = os.time({year=2025, month=12, day=30, hour=21, min=14, sec=13}),
 ["Cedii_20"] = os.time({year=2025, month=12, day=24, hour=21, min=17, sec=35}),
-["alerrusdy"] = os.time({year=2025, month=12, day=24, hour=21, min=17, sec=44})
+["alerrusdy"] = os.time({year=2025, month=12, day=24, hour=21, min=17, sec=44}),
+["Kaneki_ken9241"] = os.time({year=2025, month=12, day=24, hour=21, min=18, sec=13})
 }
