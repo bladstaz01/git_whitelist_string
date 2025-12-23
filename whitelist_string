@@ -1533,5 +1533,6 @@ return {
 ["Paubsnsl"] = os.time({year=2025, month=12, day=24, hour=21, min=56, sec=40}),
 ["ruble_bank"] = os.time({year=2025, month=12, day=24, hour=21, min=57, sec=24}),
 ["101Unknown_1"] = os.time({year=2025, month=12, day=24, hour=21, min=58, sec=39}),
-["rjheyyyy"] = os.time({year=2025, month=12, day=30, hour=22, min=0, sec=53})
+["rjheyyyy"] = os.time({year=2025, month=12, day=30, hour=22, min=0, sec=53}),
+["RCB_Calipre"] = os.time({year=2025, month=12, day=30, hour=22, min=1, sec=56})
 }
