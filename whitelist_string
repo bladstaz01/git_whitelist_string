@@ -1301,5 +1301,6 @@ return {
 ["xkiritoj1"] = os.time({year=2025, month=12, day=24, hour=13, min=25, sec=50}),
 ["Muhammadz333"] = os.time({year=2025, month=12, day=30, hour=13, min=29, sec=17}),
 ["onsewesley"] = os.time({year=2025, month=12, day=24, hour=13, min=31, sec=31}),
-["Jasper_roblox25"] = os.time({year=2025, month=12, day=30, hour=13, min=31, sec=40})
+["Jasper_roblox25"] = os.time({year=2025, month=12, day=30, hour=13, min=31, sec=40}),
+["palok2x32"] = os.time({year=2025, month=12, day=24, hour=13, min=35, sec=49})
 }
