@@ -1324,7 +1324,6 @@ return {
 ["dinpcj2"] = os.time({year=2025, month=12, day=30, hour=14, min=39, sec=55}),
 ["Zen32374"] = os.time({year=2025, month=12, day=24, hour=14, min=43, sec=31}),
 ["lawayduling1235"] = os.time({year=2026, month=1, day=22, hour=14, min=44, sec=21}),
-["Holywaterbyjunjun"] = os.time({year=2025, month=12, day=24, hour=14, min=48, sec=18}),
 ["stanordis20"] = os.time({year=2025, month=12, day=24, hour=14, min=48, sec=44}),
 ["RedFox20030"] = os.time({year=2025, month=12, day=24, hour=14, min=50, sec=51}),
 ["fixsez6"] = os.time({year=2025, month=12, day=24, hour=14, min=52, sec=31}),
