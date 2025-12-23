@@ -1434,5 +1434,6 @@ return {
 ["JkenqsStorage"] = os.time({year=2025, month=12, day=30, hour=17, min=27, sec=52}),
 ["S4itto"] = os.time({year=2025, month=12, day=24, hour=17, min=31, sec=40}),
 ["Sh_bhu"] = os.time({year=2026, month=1, day=22, hour=17, min=34, sec=16}),
-["Mamikomanok"] = os.time({year=2025, month=12, day=24, hour=17, min=36, sec=36})
+["Mamikomanok"] = os.time({year=2025, month=12, day=24, hour=17, min=36, sec=36}),
+["BlackKitsune70"] = os.time({year=2025, month=12, day=30, hour=17, min=40, sec=16})
 }
