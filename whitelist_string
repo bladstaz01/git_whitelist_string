@@ -1516,7 +1516,7 @@ return {
 ["@Xantara29"] = os.time({year=2025, month=12, day=30, hour=21, min=49, sec=21}),
 ["Balagadom05"] = os.time({year=2025, month=12, day=30, hour=21, min=52, sec=11}),
 ["hakdog01289577"] = os.time({year=2025, month=12, day=30, hour=21, min=52, sec=52}),
-["tawsog6"] = os.time({year=2025, month=12, day=24, hour=21, min=54, sec=2}),
+["tawsog6"] = os.time({year=2025, month=12, day=25, hour=21, min=54, sec=2}),
 ["ennui2005"] = os.time({year=2026, month=1, day=7, hour=21, min=55, sec=37}),
 ["Paubsnsl"] = os.time({year=2025, month=12, day=24, hour=21, min=56, sec=40}),
 ["ruble_bank"] = os.time({year=2025, month=12, day=25, hour=21, min=57, sec=24}),
