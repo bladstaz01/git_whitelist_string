@@ -1533,5 +1533,7 @@ return {
 ["101Unknown_1"] = os.time({year=2025, month=12, day=24, hour=21, min=58, sec=39}),
 ["rjheyyyy"] = os.time({year=2025, month=12, day=30, hour=22, min=0, sec=53}),
 ["RCB_Calipre"] = os.time({year=2025, month=12, day=30, hour=22, min=1, sec=56}),
-["taniee01"] = os.time({year=2025, month=12, day=30, hour=22, min=2, sec=52})
+["taniee01"] = os.time({year=2025, month=12, day=30, hour=22, min=2, sec=52}),
+["LaminzuDiTuli"] = os.time({year=2025, month=12, day=24, hour=22, min=8, sec=38}),
+["ChasingPavements201"] = os.time({year=2025, month=12, day=24, hour=22, min=8, sec=40})
 }
