@@ -1572,5 +1572,6 @@ return {
 ["yan_yan402"] = os.time({year=2026, month=1, day=8, hour=0, min=13, sec=50}),
 ["hayoung_023"] = os.time({year=2025, month=12, day=31, hour=0, min=20, sec=12}),
 ["DaeeDaee012"] = os.time({year=2025, month=12, day=25, hour=0, min=22, sec=37}),
-["Gamerx4164"] = os.time({year=2025, month=12, day=25, hour=0, min=33, sec=3})
+["Gamerx4164"] = os.time({year=2025, month=12, day=25, hour=0, min=33, sec=3}),
+["raizen101802"] = os.time({year=2025, month=12, day=31, hour=0, min=34, sec=20})
 }
