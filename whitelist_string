@@ -1478,5 +1478,7 @@ return {
 ["lloydgeorge14"] = os.time({year=2025, month=12, day=24, hour=19, min=52, sec=57}),
 ["ashh0630"] = os.time({year=2025, month=12, day=24, hour=19, min=56, sec=51}),
 ["Wolfshadow7371"] = os.time({year=2025, month=12, day=24, hour=19, min=57, sec=53}),
-["sujoy974"] = os.time({year=2025, month=12, day=30, hour=19, min=59, sec=8})
+["sujoy974"] = os.time({year=2025, month=12, day=30, hour=19, min=59, sec=8}),
+["jameskupal128"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
+["BuiltDfferent"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0})
 }
