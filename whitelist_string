@@ -1076,7 +1076,7 @@ return {
 ["nyarumeow"] = os.time({year=2026, month=1, day=21, hour=12, min=1, sec=4}),
 ["Jhen420"] = os.time({year=2025, month=12, day=29, hour=12, min=2, sec=11}),
 ["kazuto01120452"] = os.time({year=2025, month=12, day=29, hour=12, min=4, sec=44}),
-["Hatchking0"] = os.time({year=2025, month=12, day=23, hour=12, min=16, sec=57}),
+["Hatchking0"] = os.time({year=2025, month=12, day=24, hour=21, min=33, sec=21}),
 ["max_ml41"] = os.time({year=2025, month=12, day=29, hour=12, min=30, sec=21}),
 ["Devuuu015"] = os.time({year=2026, month=1, day=6, hour=12, min=37, sec=49}),
 ["NIELCJPRO"] = os.time({year=2025, month=12, day=29, hour=12, min=43, sec=40}),
@@ -1520,5 +1520,6 @@ return {
 ["marky19231"] = os.time({year=2025, month=12, day=30, hour=21, min=24, sec=35}),
 ["d4yumm81"] = os.time({year=2025, month=12, day=30, hour=21, min=27, sec=50}),
 ["hatdog6628"] = os.time({year=2025, month=12, day=30, hour=21, min=30, sec=40}),
-["ST4R_LANCE7"] = os.time({year=2025, month=12, day=24, hour=21, min=31, sec=44})
+["ST4R_LANCE7"] = os.time({year=2025, month=12, day=24, hour=21, min=31, sec=44}),
+["JoshyCantBeloved"] = os.time({year=2025, month=12, day=24, hour=21, min=33, sec=21})
 }
