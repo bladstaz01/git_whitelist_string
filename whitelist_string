@@ -586,7 +586,7 @@ return {
 ["Yasuuuyas"] = os.time({year=2025, month=12, day=31, hour=0, min=7, sec=37}),
 ["Toshiro7825"] = os.time({year=2025, month=12, day=24, hour=21, min=7, sec=51}),
 ["4kha4jr"] = os.time({year=2025, month=12, day=18, hour=5, min=56, sec=14}),
-["Voxtrevor2"] = os.time({year=2025, month=12, day=24, hour=6, min=16, sec=42}),
+["Voxtrevor2"] = os.time({year=2025, month=12, day=31, hour=12, min=23, sec=35}),
 ["xian5152"] = os.time({year=2026, month=1, day=1, hour=7, min=15, sec=41}),
 ["Xyn2163"] = os.time({year=2026, month=1, day=2, hour=8, min=18, sec=14}),
 ["DOKS2004"] = os.time({year=2025, month=12, day=24, hour=8, min=30, sec=30}),
