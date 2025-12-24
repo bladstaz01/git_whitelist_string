@@ -1641,7 +1641,7 @@ return {
 ["MAB_VP16"] = os.time({year=2025, month=12, day=31, hour=10, min=50, sec=7}),
 ["Kian_gwapo12347"] = os.time({year=2025, month=12, day=25, hour=11, min=3, sec=19}),
 ["claire82482"] = os.time({year=2025, month=12, day=31, hour=11, min=9, sec=42}),
-["Dumbdumb2516"] = os.time({year=2025, month=12, day=25, hour=11, min=15, sec=49}),
+["dumbdumb2516"] = os.time({year=2025, month=12, day=25, hour=11, min=15, sec=49}),
 ["KnightCode201413"] = os.time({year=2025, month=12, day=31, hour=11, min=22, sec=31}),
 ["Internoty_1233"] = os.time({year=2025, month=12, day=26, hour=11, min=22, sec=46}),
 ["RIP_Luffy325348"] = os.time({year=2025, month=12, day=31, hour=11, min=22, sec=47}),
