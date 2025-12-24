@@ -642,7 +642,7 @@ return {
 ["Thorfinn2120"] = os.time({year=2025, month=12, day=24, hour=14, min=38, sec=44}),
 ["mwin55907"] = os.time({year=2025, month=12, day=24, hour=15, min=14, sec=28}),
 ["Nezuko_0255"] = os.time({year=2025, month=12, day=24, hour=16, min=14, sec=31}),
-["kian_gwapo12347"] = os.time({year=2025, month=12, day=25, hour=12, min=43, sec=7}),
+["kian_gwapo12347"] = os.time({year=2025, month=12, day=26, hour=12, min=43, sec=7}),
 ["Rhapz_03"] = os.time({year=2025, month=12, day=24, hour=16, min=57, sec=23}),
 ["kerbi949"] = os.time({year=2025, month=12, day=25, hour=17, min=4, sec=51}),
 ["shangaiiiii"] = os.time({year=2025, month=12, day=30, hour=16, min=3, sec=0}),
