@@ -36,7 +36,7 @@ return {
 ["LoveYou199627"] = os.time({year=2025, month=12, day=28, hour=19, min=40, sec=9}),
 ["nneon_24"] = os.time({year=2025, month=12, day=30, hour=22, min=13, sec=14}),
 ["rensford44"] = os.time({year=2025, month=11, day=25, hour=18, min=46, sec=35}),
-["TANS0311"] = os.time({year=2025, month=12, day=24, hour=9, min=52, sec=37}),
+["TANS0311"] = os.time({year=2025, month=12, day=31, hour=9, min=52, sec=37}),
 ["TuksssGaming"] = os.time({year=2025, month=12, day=10, hour=15, min=50, sec=23}),
 ["Lyco0207"] = os.time({year=2025, month=12, day=30, hour=16, min=11, sec=39}),
 ["LEYOLS2"] = os.time({year=2025, month=12, day=24, hour=22, min=23, sec=11}),
