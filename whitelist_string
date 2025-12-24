@@ -1646,5 +1646,6 @@ return {
 ["Internoty_1233"] = os.time({year=2025, month=12, day=26, hour=11, min=22, sec=46}),
 ["RIP_Luffy325348"] = os.time({year=2025, month=12, day=31, hour=11, min=22, sec=47}),
 ["Sileeentttt"] = os.time({year=2025, month=12, day=31, hour=12, min=3, sec=49}),
-["Leby123451"] = os.time({year=2025, month=12, day=31, hour=12, min=19, sec=27})
+["Leby123451"] = os.time({year=2025, month=12, day=31, hour=12, min=19, sec=27}),
+["ohmyjessieg"] = os.time({year=2025, month=12, day=25, hour=12, min=53, sec=59})
 }
