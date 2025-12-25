@@ -80,7 +80,7 @@ return {
 ["franxx350"] = os.time({year=2025, month=12, day=4, hour=1, min=1, sec=24}),
 ["jlee23232"] = os.time({year=2026, month=1, day=11, hour=5, min=45, sec=26}),
 ["p3t_st0r463"] = os.time({year=2030, month=1, day=4, hour=0, min=0, sec=0}),
-["khalifax_47"] = os.time({year=2025, month=12, day=26, hour=20, min=8, sec=26}),
+["khalifax_47"] = os.time({year=2026, month=1, day=2, hour=20, min=8, sec=26}),
 ["akirayaaa1"] = os.time({year=2026, month=1, day=18, hour=2, min=17, sec=53}),
 ["jorendaks1"] = os.time({year=2025, month=12, day=12, hour=1, min=52, sec=44}),
 ["teampolss"] = os.time({year=2025, month=11, day=28, hour=2, min=45, sec=9}),
