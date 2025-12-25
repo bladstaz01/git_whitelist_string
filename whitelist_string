@@ -817,7 +817,7 @@ return {
 ["marbleeeqt"] = os.time({year=2025, month=12, day=28, hour=15, min=21, sec=28}),
 ["ledzeppelin0118"] = os.time({year=2025, month=12, day=28, hour=15, min=34, sec=59}),
 ["johnmeldrich"] = os.time({year=2025, month=12, day=28, hour=15, min=46, sec=23}),
-["kojiacc04"] = os.time({year=NaN, month=NaN, day=NaN, hour=NaN, min=NaN, sec=NaN}),
+["kojiacc04"] = os.time({year=2026, month=1, day=5, hour=16, min=1, sec=13}),
 ["lilipadako1234"] = os.time({year=2025, month=12, day=28, hour=16, min=10, sec=34}),
 ["keandra1m0"] = os.time({year=2026, month=1, day=5, hour=16, min=17, sec=24}),
 ["xinnnnnnnn1"] = os.time({year=2025, month=12, day=28, hour=16, min=20, sec=8}),
