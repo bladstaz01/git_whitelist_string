@@ -1,5 +1,5 @@
 return {
-["ibeast_28"] = os.time({year=2030, month=1, day=11, hour=0, min=0, sec=0}),
+["ibeast_28"] = os.time({year=2030, month=1, day=12, hour=0, min=0, sec=0}),
 ["dustinkenot"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["kenot999"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
 ["matsukawa09"] = os.time({year=2030, month=1, day=3, hour=0, min=0, sec=0}),
