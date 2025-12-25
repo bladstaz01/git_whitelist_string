@@ -936,7 +936,7 @@ return {
 ["Cutiechamp_27"] = os.time({year=2025, month=12, day=31, hour=13, min=36, sec=27}),
 ["wawawa5055"] = os.time({year=2025, month=12, day=22, hour=13, min=53, sec=46}),
 ["Gelow1407"] = os.time({year=2025, month=12, day=28, hour=14, min=4, sec=34}),
-["Amity021605"] = os.time({year=2025, month=12, day=25, hour=21, min=17, sec=0}),
+["Amity021605"] = os.time({year=2025, month=12, day=26, hour=23, min=36, sec=20}),
 ["Seresa0126"] = os.time({year=2025, month=12, day=28, hour=14, min=29, sec=4}),
 ["Ace_annedria"] = os.time({year=2025, month=12, day=26, hour=20, min=18, sec=9}),
 ["zaijohn1k"] = os.time({year=2025, month=12, day=22, hour=14, min=38, sec=8}),
