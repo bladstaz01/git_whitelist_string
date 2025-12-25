@@ -1475,7 +1475,6 @@ return {
 ["ikoy213467"] = os.time({year=2025, month=12, day=30, hour=20, min=54, sec=11}),
 ["Url_Vinz"] = os.time({year=2025, month=12, day=30, hour=20, min=56, sec=4}),
 ["@MIL0P0G1"] = os.time({year=2025, month=12, day=30, hour=20, min=56, sec=30}),
-["@fasthand321"] = os.time({year=2025, month=12, day=30, hour=20, min=56, sec=31}),
 ["chrisamolo13"] = os.time({year=2025, month=12, day=30, hour=20, min=58, sec=4}),
 ["moskov5615"] = os.time({year=2025, month=12, day=24, hour=20, min=59, sec=50}),
 ["janryfvillarente090"] = os.time({year=2025, month=12, day=30, hour=21, min=1, sec=43}),
