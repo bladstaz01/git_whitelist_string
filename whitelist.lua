@@ -19,7 +19,8 @@ local function to_exact_string(ts)
 end
 
 function W.verify(username)
-	local expiry=whitelist[username]
+	local loweredUsername = string.lower(username)
+	local expiry=whitelist[loweredUsername]
 	if not expiry then
 		return false
 	end
@@ -27,7 +28,8 @@ function W.verify(username)
 end
 
 function W.getExpiry(username)
-	local expiry=whitelist[username]
+	local loweredUsername = string.lower(username)
+	local expiry=whitelist[loweredUsername]
 	if not expiry then
 		return nil
 	end
