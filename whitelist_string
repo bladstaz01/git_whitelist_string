@@ -1775,5 +1775,6 @@ return {
 ["kuyaram03"] = os.time({year=2026, month=1, day=2, hour=22, min=53, sec=27}),
 ["shadowcid2025"] = os.time({year=2026, month=1, day=2, hour=23, min=14, sec=6}),
 ["julandtnt"] = os.time({year=2026, month=1, day=2, hour=23, min=23, sec=36}),
-["infinityhex14"] = os.time({year=2026, month=1, day=25, hour=23, min=28, sec=19})
+["infinityhex14"] = os.time({year=2026, month=1, day=25, hour=23, min=28, sec=19}),
+["saykopa_8"] = os.time({year=2026, month=1, day=25, hour=23, min=50, sec=29})
 }
