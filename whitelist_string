@@ -1746,5 +1746,6 @@ return {
 ["chino091205"] = os.time({year=2025, month=12, day=27, hour=10, min=34, sec=13}),
 ["luna_050434"] = os.time({year=2026, month=1, day=2, hour=11, min=1, sec=22}),
 ["ginisang_saluyot"] = os.time({year=2026, month=1, day=2, hour=12, min=38, sec=2}),
-["warff03"] = os.time({year=2026, month=1, day=2, hour=12, min=59, sec=9})
+["warff03"] = os.time({year=2026, month=1, day=2, hour=12, min=59, sec=9}),
+["nieljohn875"] = os.time({year=2026, month=1, day=2, hour=14, min=5, sec=47})
 }
