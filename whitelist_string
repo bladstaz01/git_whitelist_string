@@ -685,7 +685,7 @@ return {
 ["siskadgc"] = os.time({year=2026, month=1, day=18, hour=10, min=21, sec=51}),
 ["siskadgczens1"] = os.time({year=2026, month=1, day=18, hour=10, min=22, sec=40}),
 ["tinetzy03"] = os.time({year=2025, month=12, day=26, hour=10, min=44, sec=13}),
-["zurielcabras"] = os.time({year=2025, month=12, day=26, hour=11, min=9, sec=35}),
+["zurielcabras"] = os.time({year=2026, month=1, day=2, hour=14, min=34, sec=27}),
 ["arham_6573"] = os.time({year=2025, month=12, day=20, hour=11, min=47, sec=40}),
 ["dewblee_2"] = os.time({year=2026, month=1, day=2, hour=13, min=26, sec=7}),
 ["mrcrab2128"] = os.time({year=2026, month=1, day=23, hour=21, min=33, sec=7}),
