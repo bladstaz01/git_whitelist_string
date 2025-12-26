@@ -1773,5 +1773,5 @@ return {
 ["tu_carafea1"] = os.time({year=2026, month=1, day=2, hour=22, min=48, sec=20}),
 ["enan1117"] = os.time({year=2025, month=12, day=27, hour=22, min=48, sec=46}),
 ["kuyaram03"] = os.time({year=2026, month=1, day=2, hour=22, min=53, sec=27}),
-["igrisloop"] = os.time({year=2026, month=1, day=2, hour=23, min=14, sec=6})
+["shadowcid2025"] = os.time({year=2026, month=1, day=2, hour=23, min=14, sec=6})
 }
