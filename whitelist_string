@@ -1816,5 +1816,6 @@ return {
 ["beacon_avocado17"] = os.time({year=2026, month=1, day=26, hour=22, min=24, sec=12}),
 ["baconalt12304"] = os.time({year=2026, month=1, day=3, hour=22, min=41, sec=1}),
 ["fallin223"] = os.time({year=2026, month=1, day=3, hour=22, min=44, sec=54}),
-["rimu_1798"] = os.time({year=2026, month=1, day=11, hour=22, min=45, sec=22})
+["rimu_1798"] = os.time({year=2026, month=1, day=11, hour=22, min=45, sec=22}),
+["dotndd"] = os.time({year=2025, month=12, day=28, hour=22, min=48, sec=46})
 }
