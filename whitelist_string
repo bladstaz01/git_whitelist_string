@@ -1340,7 +1340,7 @@ return {
 ["avoids_123"] = os.time({year=2025, month=12, day=31, hour=15, min=23, sec=13}),
 ["marvils071"] = os.time({year=2025, month=12, day=31, hour=15, min=23, sec=54}),
 ["k4j1r00"] = os.time({year=2025, month=12, day=31, hour=15, min=24, sec=9}),
-["redfox20030"] = os.time({year=2025, month=12, day=28, hour=9, min=49, sec=42}),
+["redfox20030"] = os.time({year=2025, month=12, day=29, hour=9, min=49, sec=42}),
 ["hiaymred"] = os.time({year=2025, month=12, day=31, hour=15, min=26, sec=7}),
 ["musafuentes4"] = os.time({year=2026, month=1, day=23, hour=15, min=27, sec=5}),
 ["touchofwinter"] = os.time({year=2025, month=12, day=27, hour=0, min=10, sec=13}),
