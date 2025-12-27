@@ -1457,7 +1457,7 @@ return {
 ["giratss"] = os.time({year=2025, month=12, day=25, hour=20, min=14, sec=31}),
 ["lenardgame12345"] = os.time({year=2026, month=1, day=7, hour=20, min=17, sec=56}),
 ["alex_sy5"] = os.time({year=2025, month=12, day=31, hour=20, min=20, sec=12}),
-["cer00008"] = os.time({year=2025, month=12, day=27, hour=16, min=44, sec=26}),
+["cer00008"] = os.time({year=2025, month=12, day=28, hour=21, min=17, sec=12}),
 ["rizalivy062323"] = os.time({year=2025, month=12, day=31, hour=20, min=23, sec=55}),
 ["joel12312377"] = os.time({year=2025, month=12, day=25, hour=20, min=24, sec=45}),
 ["mallory_092909"] = os.time({year=2025, month=12, day=26, hour=20, min=29, sec=19}),
