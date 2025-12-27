@@ -600,7 +600,7 @@ return {
 ["darildarel8"] = os.time({year=2026, month=1, day=17, hour=11, min=25, sec=14}),
 ["noobynoob09765"] = os.time({year=2026, month=1, day=1, hour=20, min=57, sec=47}),
 ["thiharta"] = os.time({year=2026, month=1, day=2, hour=7, min=50, sec=35}),
-["durtkix3"] = os.time({year=2025, month=12, day=26, hour=14, min=58, sec=27}),
+["durtkix3"] = os.time({year=2025, month=12, day=29, hour=7, min=36, sec=39}),
 ["ipursueimmortal"] = os.time({year=2025, month=12, day=30, hour=2, min=0, sec=27}),
 ["osigex"] = os.time({year=2026, month=1, day=25, hour=7, min=19, sec=42}),
 ["nit0438"] = os.time({year=2026, month=1, day=1, hour=16, min=52, sec=37}),
