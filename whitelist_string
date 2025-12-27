@@ -1824,5 +1824,6 @@ return {
 ["backsgalore"] = os.time({year=2026, month=1, day=4, hour=1, min=21, sec=36}),
 ["red_rider14"] = os.time({year=2025, month=12, day=29, hour=1, min=47, sec=51}),
 ["heuuu10"] = os.time({year=2025, month=12, day=29, hour=2, min=46, sec=8}),
-["optimum02"] = os.time({year=2026, month=1, day=4, hour=2, min=53, sec=11})
+["optimum02"] = os.time({year=2026, month=1, day=4, hour=2, min=53, sec=11}),
+["jem000011"] = os.time({year=2030, month=1, day=14, hour=0, min=0, sec=0})
 }
