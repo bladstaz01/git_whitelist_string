@@ -1820,5 +1820,6 @@ return {
 ["dotndd"] = os.time({year=2025, month=12, day=28, hour=22, min=48, sec=46}),
 ["crazychicll"] = os.time({year=2025, month=12, day=28, hour=22, min=49, sec=49}),
 ["jhaykiez7"] = os.time({year=2026, month=1, day=4, hour=0, min=2, sec=55}),
-["yukiidewkie"] = os.time({year=2026, month=1, day=4, hour=0, min=6, sec=51})
+["yukiidewkie"] = os.time({year=2026, month=1, day=4, hour=0, min=6, sec=51}),
+["backsgalore"] = os.time({year=2026, month=1, day=4, hour=1, min=21, sec=36})
 }
