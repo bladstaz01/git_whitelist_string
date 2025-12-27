@@ -878,7 +878,7 @@ return {
 ["rog_1983"] = os.time({year=2025, month=12, day=28, hour=15, min=23, sec=35}),
 ["bitlog109"] = os.time({year=2025, month=12, day=31, hour=8, min=42, sec=10}),
 ["hero8640"] = os.time({year=2025, month=12, day=29, hour=22, min=56, sec=9}),
-["bloxfruits2792"] = os.time({year=2025, month=12, day=28, hour=23, min=3, sec=11}),
+["bloxfruits2792"] = os.time({year=2026, month=1, day=4, hour=23, min=3, sec=11}),
 ["lukesbaconnoob"] = os.time({year=2025, month=12, day=28, hour=23, min=9, sec=30}),
 ["todibaby13"] = os.time({year=2025, month=12, day=31, hour=9, min=33, sec=53}),
 ["grow_kyutie3"] = os.time({year=2025, month=12, day=28, hour=23, min=12, sec=41}),
