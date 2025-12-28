@@ -100,7 +100,7 @@ return {
 ["firmi0912"] = os.time({year=2026, month=1, day=11, hour=14, min=32, sec=26}),
 ["pawzung000"] = os.time({year=2026, month=1, day=3, hour=19, min=55, sec=18}),
 ["kantoner0o"] = os.time({year=2025, month=12, day=4, hour=14, min=49, sec=51}),
-["dasioke"] = os.time({year=2025, month=12, day=28, hour=2, min=11, sec=36}),
+["dasioke"] = os.time({year=2026, month=1, day=4, hour=11, min=21, sec=31}),
 ["e1li0nx"] = os.time({year=2026, month=1, day=24, hour=19, min=48, sec=59}),
 ["reeex_27"] = os.time({year=2025, month=12, day=4, hour=19, min=27, sec=12}),
 ["mhadelyn6"] = os.time({year=2026, month=1, day=4, hour=22, min=4, sec=14}),
