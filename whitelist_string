@@ -1753,7 +1753,7 @@ return {
 ["all_robuzer"] = os.time({year=2025, month=12, day=29, hour=19, min=29, sec=6}),
 ["dance_monkey0803"] = os.time({year=2026, month=1, day=2, hour=14, min=36, sec=31}),
 ["akimitsu478"] = os.time({year=2026, month=1, day=4, hour=21, min=58, sec=54}),
-["4kelkind2"] = os.time({year=2025, month=12, day=27, hour=15, min=57, sec=10}),
+["4kelkind2"] = os.time({year=2026, month=1, day=4, hour=22, min=11, sec=47}),
 ["saitan149"] = os.time({year=2026, month=1, day=2, hour=16, min=52, sec=10}),
 ["im_best709"] = os.time({year=2026, month=1, day=2, hour=17, min=25, sec=44}),
 ["boss_ayam12"] = os.time({year=2026, month=1, day=2, hour=17, min=54, sec=37}),
