@@ -700,7 +700,7 @@ return {
 ["amma1562"] = os.time({year=2025, month=12, day=26, hour=21, min=5, sec=42}),
 ["kairaa_zuy"] = os.time({year=2025, month=12, day=26, hour=21, min=27, sec=39}),
 ["noxthyr"] = os.time({year=2025, month=12, day=28, hour=11, min=16, sec=38}),
-["reynard1512"] = os.time({year=2025, month=12, day=29, hour=0, min=25, sec=40}),
+["reynard1512"] = os.time({year=2026, month=1, day=13, hour=1, min=16, sec=15}),
 ["pilpilpilz2"] = os.time({year=2026, month=1, day=21, hour=22, min=18, sec=28}),
 ["jjoy231"] = os.time({year=2025, month=12, day=29, hour=18, min=2, sec=14}),
 ["holy_user04"] = os.time({year=2025, month=12, day=28, hour=1, min=22, sec=53}),
