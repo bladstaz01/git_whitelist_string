@@ -1817,7 +1817,7 @@ return {
 ["baconalt12304"] = os.time({year=2026, month=1, day=3, hour=22, min=41, sec=1}),
 ["fallin223"] = os.time({year=2026, month=1, day=3, hour=22, min=44, sec=54}),
 ["rimu_1798"] = os.time({year=2026, month=1, day=11, hour=22, min=45, sec=22}),
-["dotndd"] = os.time({year=2025, month=12, day=30, hour=0, min=3, sec=13}),
+["dotndd"] = os.time({year=2025, month=12, day=31, hour=0, min=3, sec=13}),
 ["crazychicll"] = os.time({year=2025, month=12, day=28, hour=22, min=49, sec=49}),
 ["jhaykiez7"] = os.time({year=2026, month=1, day=4, hour=0, min=2, sec=55}),
 ["yukiidewkie"] = os.time({year=2026, month=1, day=4, hour=0, min=6, sec=51}),
