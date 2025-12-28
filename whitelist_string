@@ -1833,5 +1833,6 @@ return {
 ["petsimxbot_4"] = os.time({year=2026, month=1, day=27, hour=10, min=8, sec=47}),
 ["alexahhhhhhhhhh1"] = os.time({year=2026, month=1, day=4, hour=10, min=21, sec=42}),
 ["havoc_0100"] = os.time({year=2026, month=1, day=4, hour=10, min=33, sec=47}),
-["zillow753"] = os.time({year=2025, month=12, day=29, hour=12, min=0, sec=13})
+["zillow753"] = os.time({year=2025, month=12, day=29, hour=12, min=0, sec=13}),
+["w4rrup3"] = os.time({year=2026, month=1, day=4, hour=13, min=23, sec=1})
 }
