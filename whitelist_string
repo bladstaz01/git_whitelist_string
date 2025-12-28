@@ -1370,7 +1370,7 @@ return {
 ["meowv88"] = os.time({year=2025, month=12, day=31, hour=16, min=9, sec=58}),
 ["monsieurjaw7"] = os.time({year=2026, month=1, day=10, hour=19, min=57, sec=42}),
 ["strikeforrichest"] = os.time({year=2025, month=12, day=31, hour=16, min=11, sec=30}),
-["jairoplaysbloxfruits"] = os.time({year=2026, month=3, day=24, hour=16, min=12, sec=31}),
+["jimken080"] = os.time({year=2026, month=3, day=24, hour=16, min=12, sec=31}),
 ["anobatalagatayo143"] = os.time({year=2025, month=12, day=31, hour=16, min=12, sec=38}),
 ["matchaaaaaaa872"] = os.time({year=2025, month=12, day=27, hour=21, min=2, sec=47}),
 ["cajegas07"] = os.time({year=2025, month=12, day=28, hour=22, min=13, sec=40}),
@@ -1837,5 +1837,6 @@ return {
 ["w4rrup3"] = os.time({year=2026, month=1, day=4, hour=13, min=23, sec=1}),
 ["sunsetlov3rrr"] = os.time({year=2026, month=1, day=4, hour=13, min=33, sec=12}),
 ["extrememen0929"] = os.time({year=2025, month=12, day=29, hour=13, min=35, sec=47}),
-["pets2petsrou"] = os.time({year=2026, month=1, day=4, hour=14, min=48, sec=14})
+["pets2petsrou"] = os.time({year=2026, month=1, day=4, hour=14, min=48, sec=14}),
+["light220509"] = os.time({year=2025, month=12, day=29, hour=15, min=50, sec=43})
 }
