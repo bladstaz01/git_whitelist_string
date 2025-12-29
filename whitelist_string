@@ -755,7 +755,7 @@ return {
 ["michikatsu_8002"] = os.time({year=2025, month=12, day=27, hour=23, min=37, sec=49}),
 ["krungkrungrikapu"] = os.time({year=2025, month=12, day=21, hour=23, min=52, sec=0}),
 ["nigmatttblack"] = os.time({year=2025, month=12, day=30, hour=13, min=50, sec=29}),
-["prettyl0317"] = os.time({year=2025, month=12, day=28, hour=0, min=11, sec=17}),
+["prettyl0317"] = os.time({year=2026, month=1, day=5, hour=22, min=51, sec=55}),
 ["tagapagmananangpera"] = os.time({year=2026, month=1, day=21, hour=0, min=40, sec=2}),
 ["growagardenplayer904"] = os.time({year=2026, month=1, day=4, hour=4, min=7, sec=50}),
 ["webberss02"] = os.time({year=2025, month=12, day=28, hour=1, min=1, sec=27}),
