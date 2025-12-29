@@ -1005,7 +1005,7 @@ return {
 ["macaready"] = os.time({year=2026, month=1, day=6, hour=21, min=48, sec=46}),
 ["shadowglpyh"] = os.time({year=2026, month=1, day=5, hour=22, min=12, sec=23}),
 ["wandertheblaster"] = os.time({year=2025, month=12, day=29, hour=22, min=14, sec=26}),
-["hatjot72020"] = os.time({year=2025, month=12, day=29, hour=22, min=44, sec=57}),
+["hatjot72020"] = os.time({year=2026, month=1, day=5, hour=22, min=44, sec=57}),
 ["godmarkos222"] = os.time({year=2025, month=12, day=29, hour=22, min=48, sec=14}),
 ["dynz_miller"] = os.time({year=2025, month=12, day=29, hour=23, min=4, sec=19}),
 ["racconplsordragonfly"] = os.time({year=2025, month=12, day=29, hour=23, min=14, sec=40}),
