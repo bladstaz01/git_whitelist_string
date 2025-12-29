@@ -211,7 +211,7 @@ return {
 ["chaira88888"] = os.time({year=2026, month=1, day=1, hour=4, min=16, sec=2}),
 ["unknown012057"] = os.time({year=2026, month=1, day=8, hour=10, min=18, sec=19}),
 ["arerinal"] = os.time({year=2026, month=1, day=10, hour=19, min=34, sec=26}),
-["knoxx_3005"] = os.time({year=2025, month=12, day=29, hour=13, min=40, sec=29}),
+["knoxx_3005"] = os.time({year=2026, month=1, day=13, hour=13, min=40, sec=29}),
 ["uglygodisbomb"] = os.time({year=2025, month=12, day=30, hour=14, min=14, sec=42}),
 ["ddenvermc24"] = os.time({year=2025, month=12, day=31, hour=11, min=23, sec=3}),
 ["blink00220"] = os.time({year=2026, month=1, day=29, hour=14, min=20, sec=16}),
