@@ -1918,5 +1918,6 @@ return {
 ["unluck00000009"] = os.time({year=2025, month=12, day=31, hour=3, min=11, sec=8}),
 ["unlucky00000009"] = os.time({year=2026, month=1, day=1, hour=3, min=19, sec=58}),
 ["georgedriod94"] = os.time({year=2026, month=1, day=14, hour=3, min=42, sec=55}),
-["jerald_2616"] = os.time({year=2025, month=12, day=31, hour=6, min=48, sec=42})
+["jerald_2616"] = os.time({year=2025, month=12, day=31, hour=6, min=48, sec=42}),
+["naunsa19"] = os.time({year=2026, month=1, day=6, hour=7, min=29, sec=28})
 }
