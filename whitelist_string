@@ -155,7 +155,7 @@ return {
 ["jabamiyumeko109"] = os.time({year=2026, month=1, day=3, hour=14, min=7, sec=21}),
 ["meynard_ii"] = os.time({year=2026, month=1, day=8, hour=14, min=22, sec=57}),
 ["mane_qu33n"] = os.time({year=2025, month=12, day=6, hour=14, min=16, sec=3}),
-["erio0307"] = os.time({year=2025, month=12, day=30, hour=15, min=18, sec=29}),
+["erio0307"] = os.time({year=2026, month=1, day=14, hour=15, min=18, sec=29}),
 ["kaizakee_18"] = os.time({year=2025, month=12, day=21, hour=23, min=0, sec=42}),
 ["jnshiii"] = os.time({year=2025, month=12, day=6, hour=14, min=58, sec=47}),
 ["kliff0987"] = os.time({year=2025, month=12, day=14, hour=15, min=2, sec=5}),
