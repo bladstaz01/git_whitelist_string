@@ -1900,5 +1900,6 @@ return {
 ["slahtarlevelservice"] = os.time({year=2026, month=1, day=5, hour=19, min=20, sec=9}),
 ["shiro_8506"] = os.time({year=2026, month=1, day=5, hour=19, min=30, sec=10}),
 ["bleybley2313"] = os.time({year=2026, month=1, day=28, hour=20, min=4, sec=21}),
-["nicoooolet9"] = os.time({year=2025, month=12, day=30, hour=20, min=24, sec=7})
+["nicoooolet9"] = os.time({year=2025, month=12, day=30, hour=20, min=24, sec=7}),
+["maxxkskss"] = os.time({year=2025, month=12, day=30, hour=20, min=54, sec=26})
 }
