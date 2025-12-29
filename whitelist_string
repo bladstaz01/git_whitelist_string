@@ -1043,7 +1043,7 @@ return {
 ["loop74123"] = os.time({year=2025, month=12, day=30, hour=2, min=54, sec=42}),
 ["soleyabadzzz"] = os.time({year=2025, month=12, day=30, hour=2, min=59, sec=33}),
 ["diego62901"] = os.time({year=2025, month=12, day=30, hour=3, min=9, sec=9}),
-["perrocosmico12312"] = os.time({year=2025, month=12, day=30, hour=3, min=40, sec=21}),
+["perrocosmico12312"] = os.time({year=2026, month=1, day=6, hour=4, min=22, sec=5}),
 ["no_nameeeeeeee4"] = os.time({year=2025, month=12, day=30, hour=3, min=45, sec=33}),
 ["shikuce"] = os.time({year=2026, month=1, day=1, hour=3, min=47, sec=35}),
 ["atlasgaming0612"] = os.time({year=2026, month=1, day=8, hour=12, min=11, sec=25}),
