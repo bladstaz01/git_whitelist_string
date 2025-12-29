@@ -568,7 +568,7 @@ return {
 ["chano_tyz"] = os.time({year=2026, month=1, day=1, hour=20, min=32, sec=11}),
 ["pablojoaquin13"] = os.time({year=2025, month=12, day=25, hour=18, min=35, sec=36}),
 ["mines4231"] = os.time({year=2025, month=12, day=31, hour=19, min=9, sec=17}),
-["straw_haaat"] = os.time({year=2025, month=12, day=29, hour=13, min=3, sec=57}),
+["straw_haaat"] = os.time({year=2026, month=1, day=5, hour=16, min=28, sec=26}),
 ["daveplayz123355"] = os.time({year=2026, month=1, day=14, hour=19, min=45, sec=0}),
 ["fixsez5"] = os.time({year=2025, month=12, day=31, hour=19, min=59, sec=21}),
 ["thelonglostrea"] = os.time({year=2025, month=12, day=21, hour=21, min=19, sec=23}),
