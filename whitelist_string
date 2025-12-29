@@ -662,7 +662,7 @@ return {
 ["malupitan1222"] = os.time({year=2025, month=12, day=19, hour=22, min=25, sec=57}),
 ["supremo251816"] = os.time({year=2025, month=12, day=29, hour=14, min=7, sec=38}),
 ["bang_zyle99"] = os.time({year=2025, month=12, day=19, hour=22, min=50, sec=49}),
-["ajmathewfarm1"] = os.time({year=2025, month=12, day=29, hour=15, min=5, sec=17}),
+["ajmathewfarm1"] = os.time({year=2025, month=12, day=30, hour=15, min=36, sec=8}),
 ["paredesadriel02"] = os.time({year=2026, month=1, day=1, hour=23, min=2, sec=2}),
 ["bembang13327"] = os.time({year=2025, month=12, day=30, hour=0, min=37, sec=39}),
 ["aki19391"] = os.time({year=2026, month=1, day=18, hour=23, min=5, sec=27}),
