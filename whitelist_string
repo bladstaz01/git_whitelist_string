@@ -218,7 +218,7 @@ return {
 ["official_msgaming"] = os.time({year=2025, month=12, day=7, hour=14, min=40, sec=5}),
 ["sheynedc"] = os.time({year=2025, month=12, day=26, hour=14, min=54, sec=38}),
 ["kusakabe_258"] = os.time({year=2025, month=12, day=30, hour=3, min=53, sec=1}),
-["werwerwer0111"] = os.time({year=2025, month=12, day=25, hour=11, min=13, sec=27}),
+["werwerwer0111"] = os.time({year=2025, month=12, day=30, hour=13, min=47, sec=13}),
 ["fennn_98"] = os.time({year=2025, month=12, day=30, hour=15, min=47, sec=37}),
 ["letmebetheonee"] = os.time({year=2026, month=1, day=15, hour=13, min=22, sec=52}),
 ["stillanoobafterall"] = os.time({year=2025, month=12, day=30, hour=16, min=29, sec=22}),
