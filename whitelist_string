@@ -1467,7 +1467,7 @@ return {
 ["htdg_blu3"] = os.time({year=2025, month=12, day=25, hour=20, min=41, sec=49}),
 ["k1ngkong3416"] = os.time({year=2025, month=12, day=26, hour=22, min=25, sec=41}),
 ["husakikainpepe"] = os.time({year=2026, month=1, day=23, hour=20, min=52, sec=10}),
-["yunisanginamo"] = os.time({year=2025, month=12, day=29, hour=14, min=45, sec=20}),
+["yunisanginamo"] = os.time({year=2026, month=1, day=5, hour=21, min=34, sec=24}),
 ["ikoy213467"] = os.time({year=2025, month=12, day=31, hour=20, min=54, sec=11}),
 ["url_vinz"] = os.time({year=2025, month=12, day=31, hour=20, min=56, sec=4}),
 ["chrisamolo13"] = os.time({year=2025, month=12, day=31, hour=20, min=58, sec=4}),
