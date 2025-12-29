@@ -1349,7 +1349,7 @@ return {
 ["jmkl_xinnn"] = os.time({year=2025, month=12, day=25, hour=15, min=39, sec=38}),
 ["heartzyygg"] = os.time({year=2026, month=1, day=5, hour=9, min=15, sec=37}),
 ["cohnnaa"] = os.time({year=2025, month=12, day=31, hour=15, min=42, sec=32}),
-["r_soren"] = os.time({year=2026, month=1, day=1, hour=15, min=43, sec=6}),
+["r_soren"] = os.time({year=2026, month=1, day=8, hour=15, min=43, sec=6}),
 ["chan_chan25"] = os.time({year=2026, month=1, day=8, hour=15, min=43, sec=8}),
 ["jhofernas"] = os.time({year=2025, month=12, day=31, hour=15, min=44, sec=32}),
 ["guzhinamura"] = os.time({year=2026, month=1, day=9, hour=15, min=49, sec=19}),
