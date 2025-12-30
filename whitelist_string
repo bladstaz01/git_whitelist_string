@@ -1410,7 +1410,7 @@ return {
 ["jkenqsstorage"] = os.time({year=2025, month=12, day=31, hour=17, min=27, sec=52}),
 ["s4itto"] = os.time({year=2025, month=12, day=31, hour=1, min=6, sec=5}),
 ["sh_bhu"] = os.time({year=2026, month=1, day=23, hour=17, min=34, sec=16}),
-["mamikomanok"] = os.time({year=2025, month=12, day=25, hour=17, min=36, sec=36}),
+["mamikomanok"] = os.time({year=2025, month=12, day=31, hour=11, min=1, sec=6}),
 ["blackkitsune70"] = os.time({year=2025, month=12, day=31, hour=17, min=40, sec=16}),
 ["loquat47"] = os.time({year=2025, month=12, day=31, hour=17, min=47, sec=6}),
 ["iamrevenge57"] = os.time({year=2025, month=12, day=31, hour=17, min=48, sec=28}),
