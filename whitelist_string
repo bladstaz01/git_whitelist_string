@@ -1528,7 +1528,7 @@ return {
 ["roblox_user_9178370012"] = os.time({year=2025, month=12, day=31, hour=23, min=9, sec=29}),
 ["testing_roblox0109"] = os.time({year=2025, month=12, day=31, hour=23, min=9, sec=33}),
 ["josefffff15"] = os.time({year=2026, month=1, day=1, hour=23, min=10, sec=28}),
-["kaneki_ken9241"] = os.time({year=2025, month=12, day=26, hour=23, min=11, sec=57}),
+["kaneki_ken9241"] = os.time({year=2025, month=12, day=31, hour=13, min=15, sec=56}),
 ["aggin12879"] = os.time({year=2025, month=12, day=31, hour=23, min=13, sec=47}),
 ["honjo_1"] = os.time({year=2025, month=12, day=31, hour=23, min=16, sec=0}),
 ["pataklangbabi123"] = os.time({year=2025, month=12, day=31, hour=23, min=19, sec=34}),
