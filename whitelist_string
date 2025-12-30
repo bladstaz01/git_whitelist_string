@@ -1914,7 +1914,7 @@ return {
 ["oveyourie"] = os.time({year=2026, month=1, day=1, hour=1, min=1, sec=33}),
 ["azcay456"] = os.time({year=2026, month=1, day=1, hour=1, min=2, sec=46}),
 ["tiklopkaybea"] = os.time({year=2026, month=1, day=1, hour=1, min=42, sec=16}),
-["ryuu02200"] = os.time({year=2026, month=1, day=1, hour=2, min=21, sec=27}),
+["ryuu02200"] = os.time({year=2026, month=1, day=2, hour=2, min=21, sec=27}),
 ["unluck00000009"] = os.time({year=2026, month=1, day=1, hour=3, min=11, sec=8}),
 ["unlucky00000009"] = os.time({year=2026, month=1, day=2, hour=3, min=19, sec=58}),
 ["georgedriod94"] = os.time({year=2026, month=1, day=15, hour=3, min=42, sec=55}),
