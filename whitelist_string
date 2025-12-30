@@ -620,7 +620,7 @@ return {
 ["w3nd3llj0hn"] = os.time({year=2026, month=1, day=26, hour=12, min=56, sec=18}),
 ["hammyy_22"] = os.time({year=2026, month=1, day=17, hour=23, min=25, sec=55}),
 ["unolorenzo147"] = os.time({year=2026, month=1, day=3, hour=0, min=48, sec=20}),
-["supzol"] = os.time({year=2025, month=12, day=30, hour=21, min=27, sec=26}),
+["supzol"] = os.time({year=2026, month=1, day=1, hour=0, min=33, sec=0}),
 ["baycon_2507"] = os.time({year=2026, month=1, day=5, hour=5, min=37, sec=11}),
 ["lunch1015"] = os.time({year=2025, month=12, day=31, hour=12, min=35, sec=0}),
 ["red_fox2125"] = os.time({year=2026, month=1, day=25, hour=6, min=29, sec=6}),
