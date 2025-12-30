@@ -1928,5 +1928,6 @@ return {
 ["accngongiare830"] = os.time({year=2026, month=1, day=13, hour=13, min=8, sec=24}),
 ["5kbuds"] = os.time({year=2026, month=1, day=6, hour=13, min=27, sec=47}),
 ["kit_e0o"] = os.time({year=2025, month=12, day=31, hour=13, min=46, sec=13}),
-["manjiro_sano2467"] = os.time({year=2026, month=1, day=6, hour=13, min=58, sec=49})
+["manjiro_sano2467"] = os.time({year=2026, month=1, day=6, hour=13, min=58, sec=49}),
+["lepania0712"] = os.time({year=2025, month=12, day=31, hour=14, min=41, sec=42})
 }
