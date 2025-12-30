@@ -499,7 +499,7 @@ return {
 ["cioudzero"] = os.time({year=2026, month=1, day=2, hour=0, min=30, sec=5}),
 ["007hohi"] = os.time({year=2025, month=12, day=16, hour=20, min=9, sec=9}),
 ["aldos_killer123"] = os.time({year=2025, month=12, day=31, hour=14, min=54, sec=20}),
-["jm30305"] = os.time({year=2026, month=1, day=1, hour=7, min=22, sec=46}),
+["jm30305"] = os.time({year=2026, month=1, day=8, hour=7, min=22, sec=46}),
 ["elineedsyou24"] = os.time({year=2026, month=1, day=2, hour=0, min=21, sec=15}),
 ["jeriemmy7"] = os.time({year=2030, month=1, day=5, hour=0, min=0, sec=0}),
 ["ivomathew"] = os.time({year=2026, month=1, day=22, hour=17, min=18, sec=55}),
