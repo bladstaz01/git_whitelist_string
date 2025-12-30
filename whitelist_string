@@ -1953,5 +1953,6 @@ return {
 ["yangbilat"] = os.time({year=2025, month=12, day=31, hour=23, min=16, sec=8}),
 ["flaven09"] = os.time({year=2026, month=1, day=29, hour=23, min=57, sec=19}),
 ["kunnoochan"] = os.time({year=2026, month=1, day=1, hour=0, min=7, sec=41}),
-["le_vi090"] = os.time({year=2026, month=1, day=7, hour=0, min=56, sec=50})
+["le_vi090"] = os.time({year=2026, month=1, day=7, hour=0, min=56, sec=50}),
+["astaft3"] = os.time({year=2026, month=1, day=1, hour=1, min=38, sec=12})
 }
