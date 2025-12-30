@@ -1826,7 +1826,7 @@ return {
 ["optimum02"] = os.time({year=2026, month=1, day=4, hour=2, min=53, sec=11}),
 ["jem000011"] = os.time({year=2030, month=1, day=14, hour=0, min=0, sec=0}),
 ["asakadaa07"] = os.time({year=2026, month=1, day=12, hour=8, min=10, sec=19}),
-["qwertype0"] = os.time({year=2025, month=12, day=30, hour=11, min=15, sec=55}),
+["qwertype0"] = os.time({year=2025, month=12, day=31, hour=11, min=29, sec=39}),
 ["bwpiw1"] = os.time({year=2026, month=1, day=4, hour=8, min=37, sec=17}),
 ["narddd122004"] = os.time({year=2026, month=1, day=12, hour=9, min=49, sec=49}),
 ["petsimxbot_4"] = os.time({year=2026, month=1, day=27, hour=10, min=8, sec=47}),
