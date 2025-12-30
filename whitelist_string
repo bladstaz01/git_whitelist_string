@@ -1436,7 +1436,7 @@ return {
 ["tenjikuuo"] = os.time({year=2025, month=12, day=31, hour=19, min=7, sec=27}),
 ["feralwolftr"] = os.time({year=2025, month=12, day=25, hour=19, min=14, sec=39}),
 ["cokefeeee"] = os.time({year=2025, month=12, day=25, hour=19, min=16, sec=16}),
-["khate_pagodna"] = os.time({year=2025, month=12, day=31, hour=19, min=22, sec=22}),
+["khate_pagodna"] = os.time({year=2026, month=1, day=7, hour=19, min=22, sec=22}),
 ["4kgeni"] = os.time({year=2025, month=12, day=25, hour=19, min=26, sec=19}),
 ["bh_siucuteowo"] = os.time({year=2025, month=12, day=31, hour=19, min=28, sec=8}),
 ["shamia_008"] = os.time({year=2026, month=1, day=7, hour=19, min=30, sec=0}),
