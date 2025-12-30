@@ -223,7 +223,7 @@ return {
 ["letmebetheonee"] = os.time({year=2026, month=1, day=15, hour=13, min=22, sec=52}),
 ["stillanoobafterall"] = os.time({year=2025, month=12, day=30, hour=16, min=29, sec=22}),
 ["twinkle_sola"] = os.time({year=2025, month=12, day=15, hour=16, min=30, sec=37}),
-["z3rochil"] = os.time({year=2025, month=12, day=26, hour=9, min=46, sec=34}),
+["z3rochil"] = os.time({year=2025, month=12, day=31, hour=17, min=44, sec=33}),
 ["fgs_yukki"] = os.time({year=2026, month=1, day=2, hour=16, min=38, sec=31}),
 ["niloslatoja24"] = os.time({year=2026, month=1, day=2, hour=10, min=46, sec=7}),
 ["mochimirabels"] = os.time({year=2030, month=1, day=4, hour=0, min=0, sec=0}),
