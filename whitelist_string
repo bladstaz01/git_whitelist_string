@@ -1075,7 +1075,7 @@ return {
 ["jhen420"] = os.time({year=2025, month=12, day=30, hour=12, min=2, sec=11}),
 ["kazuto01120452"] = os.time({year=2025, month=12, day=30, hour=12, min=4, sec=44}),
 ["hatchking0"] = os.time({year=2025, month=12, day=27, hour=1, min=28, sec=47}),
-["max_ml41"] = os.time({year=2025, month=12, day=30, hour=12, min=30, sec=21}),
+["max_ml41"] = os.time({year=2026, month=1, day=6, hour=14, min=52, sec=14}),
 ["devuuu015"] = os.time({year=2026, month=1, day=7, hour=12, min=37, sec=49}),
 ["nielcjpro"] = os.time({year=2025, month=12, day=30, hour=12, min=43, sec=40}),
 ["ghoultail09"] = os.time({year=2025, month=12, day=30, hour=12, min=54, sec=10}),
