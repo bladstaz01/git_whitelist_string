@@ -1868,7 +1868,7 @@ return {
 ["rnzjy17"] = os.time({year=2026, month=1, day=5, hour=7, min=6, sec=57}),
 ["becongod28"] = os.time({year=2026, month=1, day=13, hour=7, min=12, sec=17}),
 ["jehitsroblox"] = os.time({year=2026, month=1, day=28, hour=7, min=51, sec=32}),
-["jhaykun1"] = os.time({year=2025, month=12, day=30, hour=8, min=12, sec=10}),
+["jhaykun1"] = os.time({year=2025, month=12, day=31, hour=12, min=48, sec=8}),
 ["khysonking20"] = os.time({year=2026, month=1, day=28, hour=8, min=51, sec=44}),
 ["onlyjimx"] = os.time({year=2026, month=1, day=5, hour=10, min=10, sec=18}),
 ["bygon_lamok"] = os.time({year=2026, month=1, day=6, hour=10, min=23, sec=46}),
