@@ -1099,7 +1099,7 @@ return {
 ["pooping0921"] = os.time({year=2025, month=12, day=28, hour=23, min=31, sec=4}),
 ["why_dapp"] = os.time({year=2025, month=12, day=31, hour=15, min=31, sec=11}),
 ["ayanpo60"] = os.time({year=2026, month=1, day=7, hour=15, min=32, sec=9}),
-["godlysomeone315"] = os.time({year=2025, month=12, day=31, hour=15, min=36, sec=23}),
+["godlysomeone315"] = os.time({year=2026, month=1, day=8, hour=3, min=54, sec=24}),
 ["kiki_nouzen"] = os.time({year=2025, month=12, day=31, hour=15, min=48, sec=15}),
 ["paman123470"] = os.time({year=2025, month=12, day=31, hour=15, min=55, sec=40}),
 ["balabalangto"] = os.time({year=2026, month=1, day=7, hour=16, min=16, sec=24}),
