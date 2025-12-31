@@ -246,7 +246,7 @@ return {
 ["determinedryann"] = os.time({year=2026, month=1, day=31, hour=3, min=13, sec=0}),
 ["exi_lar"] = os.time({year=2025, month=12, day=9, hour=5, min=23, sec=51}),
 ["studups"] = os.time({year=2026, month=1, day=31, hour=6, min=58, sec=2}),
-["darkprinceo22"] = os.time({year=2026, month=1, day=1, hour=12, min=2, sec=18}),
+["darkprinceo22"] = os.time({year=2026, month=1, day=31, hour=12, min=2, sec=18}),
 ["kuling424"] = os.time({year=2026, month=1, day=3, hour=0, min=17, sec=46}),
 ["kczxyc"] = os.time({year=2026, month=1, day=14, hour=22, min=46, sec=20}),
 ["lalalalance1105"] = os.time({year=2025, month=12, day=17, hour=12, min=35, sec=25}),
