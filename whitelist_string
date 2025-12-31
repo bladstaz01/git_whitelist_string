@@ -1977,5 +1977,6 @@ return {
 ["tired2130"] = os.time({year=2026, month=1, day=30, hour=20, min=56, sec=24}),
 ["patipato100x"] = os.time({year=2026, month=1, day=1, hour=22, min=30, sec=23}),
 ["pogikosobra582"] = os.time({year=2026, month=1, day=1, hour=22, min=50, sec=24}),
-["xearnessop5"] = os.time({year=2026, month=1, day=7, hour=22, min=52, sec=23})
+["xearnessop5"] = os.time({year=2026, month=1, day=7, hour=22, min=52, sec=23}),
+["carlsoxee"] = os.time({year=2026, month=1, day=7, hour=23, min=16, sec=25})
 }
