@@ -241,7 +241,7 @@ return {
 ["superje200x"] = os.time({year=2025, month=12, day=8, hour=22, min=46, sec=58}),
 ["artkitto"] = os.time({year=2025, month=12, day=8, hour=23, min=12, sec=56}),
 ["aiseee000"] = os.time({year=2026, month=1, day=7, hour=23, min=10, sec=30}),
-["feelslikeholiday"] = os.time({year=2025, month=12, day=31, hour=15, min=25, sec=37}),
+["feelslikeholiday"] = os.time({year=2026, month=1, day=7, hour=20, min=0, sec=22}),
 ["unoliciouss"] = os.time({year=2026, month=1, day=1, hour=2, min=53, sec=10}),
 ["determinedryann"] = os.time({year=2026, month=1, day=31, hour=3, min=13, sec=0}),
 ["exi_lar"] = os.time({year=2025, month=12, day=9, hour=5, min=23, sec=51}),
