@@ -1654,7 +1654,7 @@ return {
 ["crazy_rac111"] = os.time({year=2026, month=1, day=2, hour=17, min=25, sec=29}),
 ["alt_nicla"] = os.time({year=2025, month=12, day=27, hour=17, min=42, sec=29}),
 ["taweng_819"] = os.time({year=2026, month=1, day=2, hour=18, min=16, sec=10}),
-["chinji60"] = os.time({year=2026, month=1, day=2, hour=18, min=20, sec=56}),
+["chinji60"] = os.time({year=2026, month=1, day=9, hour=18, min=20, sec=56}),
 ["r33n160"] = os.time({year=2026, month=1, day=2, hour=19, min=1, sec=10}),
 ["3r_izdaneym"] = os.time({year=2026, month=1, day=2, hour=19, min=12, sec=24}),
 ["ilovebacom4"] = os.time({year=2025, month=12, day=27, hour=19, min=17, sec=38}),
