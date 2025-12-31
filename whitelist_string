@@ -1147,7 +1147,7 @@ return {
 ["ttstrgoat"] = os.time({year=2026, month=1, day=23, hour=23, min=7, sec=16}),
 ["crssht"] = os.time({year=2025, month=12, day=31, hour=23, min=8, sec=27}),
 ["swukym"] = os.time({year=2026, month=1, day=14, hour=23, min=17, sec=5}),
-["fifuiroy"] = os.time({year=2025, month=12, day=31, hour=23, min=20, sec=32}),
+["fifuiroy"] = os.time({year=2026, month=1, day=8, hour=2, min=13, sec=23}),
 ["notrealglance"] = os.time({year=2025, month=12, day=31, hour=23, min=30, sec=23}),
 ["f9ebxusk"] = os.time({year=2025, month=12, day=31, hour=23, min=47, sec=34}),
 ["nomozayt"] = os.time({year=2025, month=12, day=31, hour=23, min=55, sec=18}),
