@@ -1677,7 +1677,7 @@ return {
 ["natsupot14"] = os.time({year=2026, month=1, day=25, hour=22, min=41, sec=12}),
 ["15_68900"] = os.time({year=2026, month=1, day=2, hour=23, min=57, sec=18}),
 ["aariz2239"] = os.time({year=2026, month=1, day=28, hour=0, min=40, sec=7}),
-["hipack1st"] = os.time({year=2026, month=1, day=3, hour=1, min=17, sec=57}),
+["hipack1st"] = os.time({year=2026, month=1, day=10, hour=1, min=17, sec=57}),
 ["kuruyashikii01"] = os.time({year=2026, month=1, day=3, hour=2, min=19, sec=33}),
 ["savage_legends"] = os.time({year=2025, month=12, day=28, hour=3, min=19, sec=40}),
 ["valenzuela_niellan20"] = os.time({year=2025, month=12, day=28, hour=5, min=24, sec=22}),
