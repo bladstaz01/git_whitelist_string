@@ -1962,5 +1962,6 @@ return {
 ["gazo123321"] = os.time({year=2026, month=1, day=1, hour=9, min=39, sec=26}),
 ["acacius_2024"] = os.time({year=2026, month=1, day=7, hour=11, min=12, sec=22}),
 ["kramzyyv2"] = os.time({year=2026, month=1, day=1, hour=11, min=27, sec=23}),
-["dark_tzy4567"] = os.time({year=2026, month=1, day=7, hour=11, min=43, sec=22})
+["dark_tzy4567"] = os.time({year=2026, month=1, day=7, hour=11, min=43, sec=22}),
+["tulitparagsa"] = os.time({year=2026, month=1, day=1, hour=11, min=50, sec=24})
 }
