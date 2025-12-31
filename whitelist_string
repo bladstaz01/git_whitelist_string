@@ -1936,7 +1936,7 @@ return {
 ["maulkejepit"] = os.time({year=2026, month=1, day=7, hour=15, min=52, sec=50}),
 ["serah0888"] = os.time({year=2026, month=1, day=30, hour=16, min=5, sec=59}),
 ["new_skin124"] = os.time({year=2026, month=1, day=7, hour=16, min=52, sec=14}),
-["rip_aldous5000"] = os.time({year=2026, month=1, day=1, hour=17, min=1, sec=15}),
+["rip_aldous5000"] = os.time({year=2026, month=1, day=2, hour=17, min=1, sec=15}),
 ["silentkraken12"] = os.time({year=2026, month=1, day=7, hour=17, min=19, sec=15}),
 ["21chris2004"] = os.time({year=2026, month=1, day=7, hour=17, min=27, sec=28}),
 ["rwin_sol"] = os.time({year=2026, month=1, day=15, hour=17, min=37, sec=21}),
