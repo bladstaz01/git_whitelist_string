@@ -1273,7 +1273,7 @@ return {
 ["wrn007j"] = os.time({year=2026, month=1, day=1, hour=12, min=33, sec=57}),
 ["arayyyko54"] = os.time({year=2026, month=1, day=1, hour=12, min=36, sec=50}),
 ["sungjin706"] = os.time({year=2026, month=1, day=1, hour=12, min=37, sec=6}),
-["akwjhwbsjskskkw"] = os.time({year=2026, month=1, day=1, hour=12, min=40, sec=50}),
+["akwjhwbsjskskkw"] = os.time({year=2026, month=1, day=8, hour=21, min=7, sec=23}),
 ["huji_067"] = os.time({year=2026, month=1, day=1, hour=12, min=45, sec=10}),
 ["totpikes"] = os.time({year=2025, month=12, day=26, hour=12, min=47, sec=30}),
 ["shinteksu"] = os.time({year=2026, month=1, day=9, hour=12, min=48, sec=6}),
