@@ -1282,7 +1282,7 @@ return {
 ["razcx_9"] = os.time({year=2026, month=1, day=4, hour=13, min=2, sec=14}),
 ["xnecromancer01"] = os.time({year=2026, month=1, day=8, hour=12, min=49, sec=25}),
 ["kerby20050"] = os.time({year=2026, month=1, day=2, hour=12, min=49, sec=51}),
-["b1tteravocado"] = os.time({year=2026, month=1, day=1, hour=12, min=52, sec=16}),
+["b1tteravocado"] = os.time({year=2026, month=1, day=8, hour=19, min=39, sec=24}),
 ["glasstablexo"] = os.time({year=2026, month=1, day=1, hour=12, min=53, sec=5}),
 ["gisingboisss"] = os.time({year=2026, month=1, day=1, hour=12, min=53, sec=56}),
 ["mrxcris7"] = os.time({year=2026, month=1, day=1, hour=12, min=54, sec=13}),
