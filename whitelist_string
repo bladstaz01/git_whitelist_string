@@ -548,7 +548,7 @@ return {
 ["continue2119"] = os.time({year=2025, month=12, day=20, hour=9, min=30, sec=49}),
 ["masterfaithh"] = os.time({year=2025, month=12, day=25, hour=9, min=23, sec=24}),
 ["inikoru1010"] = os.time({year=2030, month=1, day=5, hour=0, min=0, sec=0}),
-["kyletzy0997"] = os.time({year=2025, month=12, day=19, hour=10, min=55, sec=40}),
+["kyletzy0997"] = os.time({year=2026, month=1, day=2, hour=16, min=21, sec=25}),
 ["piattos2312"] = os.time({year=2025, month=12, day=19, hour=11, min=4, sec=15}),
 ["cuteacudel02"] = os.time({year=2025, month=12, day=28, hour=23, min=23, sec=28}),
 ["sepherdooalt"] = os.time({year=2026, month=1, day=17, hour=12, min=33, sec=0}),
@@ -1990,5 +1990,6 @@ return {
 ["player242105"] = os.time({year=2030, month=1, day=15, hour=0, min=0, sec=0}),
 ["00fizzle00"] = os.time({year=2026, month=1, day=8, hour=14, min=26, sec=23}),
 ["pham13888"] = os.time({year=2026, month=1, day=8, hour=14, min=32, sec=23}),
-["holykenzuu"] = os.time({year=2026, month=1, day=8, hour=14, min=32, sec=23})
+["holykenzuu"] = os.time({year=2026, month=1, day=8, hour=14, min=32, sec=23}),
+["realdemise141"] = os.time({year=2026, month=1, day=8, hour=16, min=21, sec=25})
 }
