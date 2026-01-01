@@ -1999,5 +1999,6 @@ return {
 ["dayyyaanng"] = os.time({year=2026, month=1, day=31, hour=18, min=52, sec=25}),
 ["jollyhotdogzzzz"] = os.time({year=2026, month=1, day=8, hour=19, min=1, sec=23}),
 ["kozen280"] = os.time({year=2026, month=1, day=2, hour=19, min=34, sec=24}),
-["jayrald_10"] = os.time({year=2026, month=1, day=2, hour=20, min=14, sec=24})
+["jayrald_10"] = os.time({year=2026, month=1, day=2, hour=20, min=14, sec=24}),
+["chessmanshess"] = os.time({year=2026, month=1, day=31, hour=20, min=33, sec=23})
 }
