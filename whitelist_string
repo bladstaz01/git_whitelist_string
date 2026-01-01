@@ -1304,7 +1304,7 @@ return {
 ["noncha3124"] = os.time({year=2026, month=1, day=1, hour=13, min=54, sec=16}),
 ["tigerr011125"] = os.time({year=2025, month=12, day=26, hour=13, min=55, sec=45}),
 ["boom_boll"] = os.time({year=2026, month=1, day=2, hour=13, min=59, sec=37}),
-["domdommm77"] = os.time({year=2026, month=1, day=1, hour=13, min=59, sec=45}),
+["domdommm77"] = os.time({year=2026, month=1, day=2, hour=16, min=38, sec=24}),
 ["hashhash695"] = os.time({year=2025, month=12, day=29, hour=0, min=8, sec=10}),
 ["humble16"] = os.time({year=2025, month=12, day=26, hour=14, min=6, sec=8}),
 ["margamenz"] = os.time({year=2025, month=12, day=26, hour=14, min=13, sec=43}),
