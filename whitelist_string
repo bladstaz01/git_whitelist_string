@@ -2002,5 +2002,6 @@ return {
 ["jayrald_10"] = os.time({year=2026, month=1, day=2, hour=20, min=14, sec=24}),
 ["chessmanshess"] = os.time({year=2026, month=1, day=31, hour=20, min=33, sec=23}),
 ["kam_0ten"] = os.time({year=2026, month=1, day=2, hour=20, min=35, sec=24}),
-["jr29599"] = os.time({year=2026, month=1, day=2, hour=22, min=10, sec=23})
+["jr29599"] = os.time({year=2026, month=1, day=2, hour=22, min=10, sec=23}),
+["xxiloveanjelxx"] = os.time({year=2026, month=1, day=8, hour=22, min=32, sec=25})
 }
