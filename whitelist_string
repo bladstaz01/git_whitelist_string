@@ -2007,5 +2007,6 @@ return {
 ["kylegaah"] = os.time({year=2026, month=1, day=16, hour=22, min=59, sec=22}),
 ["real_name09486"] = os.time({year=2026, month=1, day=8, hour=23, min=5, sec=23}),
 ["doffymani2"] = os.time({year=2026, month=1, day=2, hour=23, min=16, sec=23}),
-["nitrate572"] = os.time({year=2026, month=1, day=2, hour=23, min=28, sec=23})
+["nitrate572"] = os.time({year=2026, month=1, day=2, hour=23, min=28, sec=23}),
+["ispamezcuzyoubad"] = os.time({year=2026, month=1, day=2, hour=23, min=35, sec=22})
 }
