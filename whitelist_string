@@ -1378,7 +1378,7 @@ return {
 ["tukmol_067"] = os.time({year=2026, month=1, day=2, hour=17, min=35, sec=51}),
 ["pampua08012"] = os.time({year=2025, month=12, day=28, hour=9, min=51, sec=38}),
 ["ngala_23"] = os.time({year=2025, month=12, day=26, hour=16, min=27, sec=50}),
-["dragosdiealready"] = os.time({year=2026, month=1, day=1, hour=16, min=29, sec=5}),
+["dragosdiealready"] = os.time({year=2026, month=1, day=8, hour=18, min=20, sec=23}),
 ["monarchced"] = os.time({year=2026, month=1, day=1, hour=16, min=29, sec=26}),
 ["cid6699"] = os.time({year=2026, month=1, day=8, hour=16, min=30, sec=37}),
 ["kaaarl_30"] = os.time({year=2026, month=1, day=1, hour=16, min=30, sec=47}),
