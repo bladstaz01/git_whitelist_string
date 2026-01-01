@@ -1995,5 +1995,6 @@ return {
 ["4thnavs"] = os.time({year=2026, month=1, day=8, hour=16, min=46, sec=25}),
 ["lil_milo9900"] = os.time({year=2026, month=1, day=3, hour=17, min=54, sec=23}),
 ["davidlaidrhy"] = os.time({year=2026, month=1, day=31, hour=18, min=17, sec=38}),
-["jiwoo2498"] = os.time({year=2026, month=1, day=16, hour=18, min=38, sec=25})
+["jiwoo2498"] = os.time({year=2026, month=1, day=16, hour=18, min=38, sec=25}),
+["dayyyaanng"] = os.time({year=2026, month=1, day=31, hour=18, min=52, sec=25})
 }
