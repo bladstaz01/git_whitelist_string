@@ -2021,5 +2021,5 @@ return {
 ["joyubas_g"] = os.time({year=2026, month=2, day=1, hour=11, min=55, sec=23}),
 ["micoleivan"] = os.time({year=2026, month=1, day=9, hour=11, min=58, sec=24}),
 ["etha7ne"] = os.time({year=2026, month=1, day=9, hour=12, min=18, sec=25}),
-["ubasjoy"] = os.time({year=2026, month=1, day=3, hour=12, min=34, sec=25})
+["ubasjoy"] = os.time({year=2026, month=1, day=4, hour=12, min=34, sec=25})
 }
