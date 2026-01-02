@@ -2037,5 +2037,6 @@ return {
 ["hidanstorage07"] = os.time({year=2026, month=1, day=9, hour=19, min=6, sec=23}),
 ["idyeysii"] = os.time({year=2026, month=1, day=9, hour=19, min=19, sec=23}),
 ["jeizxcs"] = os.time({year=2026, month=1, day=3, hour=19, min=21, sec=26}),
-["heikkocosmic"] = os.time({year=2026, month=1, day=3, hour=20, min=6, sec=27})
+["heikkocosmic"] = os.time({year=2026, month=1, day=3, hour=20, min=6, sec=27}),
+["rip_yoshiksks"] = os.time({year=2026, month=1, day=9, hour=20, min=23, sec=25})
 }
