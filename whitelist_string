@@ -31,7 +31,7 @@ return {
 ["malakixp"] = os.time({year=2026, month=1, day=25, hour=17, min=1, sec=10}),
 ["nathanfinds"] = os.time({year=2025, month=11, day=27, hour=18, min=46, sec=35}),
 ["laijakabuntalan"] = os.time({year=2025, month=12, day=8, hour=13, min=25, sec=41}),
-["haplasforsale"] = os.time({year=2026, month=1, day=26, hour=19, min=57, sec=34}),
+["haplasforsale"] = os.time({year=2030, month=1, day=15, hour=0, min=0, sec=0}),
 ["lyc0002"] = os.time({year=2025, month=11, day=27, hour=18, min=46, sec=35}),
 ["loveyou199627"] = os.time({year=2025, month=12, day=30, hour=19, min=40, sec=9}),
 ["nneon_24"] = os.time({year=2026, month=1, day=31, hour=22, min=13, sec=14}),
@@ -2048,5 +2048,6 @@ return {
 ["dontsaid23"] = os.time({year=2026, month=1, day=3, hour=22, min=42, sec=26}),
 ["kurr31y"] = os.time({year=2026, month=1, day=3, hour=23, min=7, sec=25}),
 ["pjmundoo"] = os.time({year=2026, month=1, day=17, hour=23, min=48, sec=50}),
-["pade_rrrr"] = os.time({year=2026, month=1, day=17, hour=23, min=48, sec=50})
+["pade_rrrr"] = os.time({year=2026, month=1, day=17, hour=23, min=48, sec=50}),
+["eynayani_14"] = os.time({year=2026, month=1, day=4, hour=0, min=9, sec=23})
 }
