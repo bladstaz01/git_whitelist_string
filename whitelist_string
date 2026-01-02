@@ -2042,5 +2042,6 @@ return {
 ["slayer_12554"] = os.time({year=2026, month=1, day=3, hour=20, min=27, sec=26}),
 ["imong12766"] = os.time({year=2026, month=1, day=3, hour=20, min=46, sec=23}),
 ["invent_only"] = os.time({year=2026, month=1, day=9, hour=20, min=52, sec=5}),
-["lexnice666"] = os.time({year=2026, month=1, day=9, hour=21, min=1, sec=25})
+["lexnice666"] = os.time({year=2026, month=1, day=9, hour=21, min=1, sec=25}),
+["biniqpal"] = os.time({year=2026, month=1, day=3, hour=22, min=14, sec=24})
 }
