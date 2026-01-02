@@ -2016,5 +2016,6 @@ return {
 ["nitrate34"] = os.time({year=2026, month=1, day=3, hour=4, min=48, sec=23}),
 ["owkei02"] = os.time({year=2026, month=1, day=9, hour=4, min=53, sec=25}),
 ["jrenz_tf"] = os.time({year=2026, month=1, day=9, hour=7, min=48, sec=24}),
-["super_amoy06"] = os.time({year=2026, month=1, day=3, hour=9, min=45, sec=23})
+["super_amoy06"] = os.time({year=2026, month=1, day=3, hour=9, min=45, sec=23}),
+["ararong211"] = os.time({year=2026, month=1, day=9, hour=11, min=16, sec=24})
 }
