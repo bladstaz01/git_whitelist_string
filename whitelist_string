@@ -1613,7 +1613,7 @@ return {
 ["archhappy77"] = os.time({year=2026, month=1, day=2, hour=8, min=16, sec=10}),
 ["chipmunkey15"] = os.time({year=2026, month=1, day=2, hour=8, min=39, sec=49}),
 ["qinshihuang366"] = os.time({year=2026, month=1, day=2, hour=8, min=46, sec=25}),
-["amarillis093"] = os.time({year=2026, month=1, day=2, hour=8, min=48, sec=57}),
+["amarillis093"] = os.time({year=2026, month=1, day=9, hour=13, min=14, sec=24}),
 ["zyre_2004"] = os.time({year=2025, month=12, day=27, hour=9, min=19, sec=3}),
 ["melindarose1"] = os.time({year=2026, month=1, day=2, hour=9, min=34, sec=8}),
 ["kuri_auhsojalt3"] = os.time({year=2026, month=1, day=2, hour=9, min=34, sec=36}),
