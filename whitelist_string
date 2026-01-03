@@ -1744,7 +1744,7 @@ return {
 ["iwishpokefriendedme"] = os.time({year=2026, month=1, day=18, hour=13, min=36, sec=25}),
 ["kanjuro201995"] = os.time({year=2026, month=1, day=5, hour=9, min=19, sec=36}),
 ["chino091205"] = os.time({year=2026, month=1, day=5, hour=3, min=13, sec=0}),
-["luna_050434"] = os.time({year=2026, month=1, day=3, hour=11, min=1, sec=22}),
+["luna_050434"] = os.time({year=2026, month=2, day=2, hour=15, min=48, sec=23}),
 ["ginisang_saluyot"] = os.time({year=2026, month=1, day=3, hour=12, min=38, sec=2}),
 ["warff03"] = os.time({year=2026, month=1, day=10, hour=14, min=1, sec=23}),
 ["nieljohn875"] = os.time({year=2026, month=1, day=3, hour=14, min=5, sec=47}),
