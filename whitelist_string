@@ -1782,7 +1782,7 @@ return {
 ["elli_vei"] = os.time({year=2025, month=12, day=30, hour=1, min=21, sec=3}),
 ["shuriqeeeeeen"] = os.time({year=2026, month=1, day=27, hour=3, min=44, sec=46}),
 ["wond3r3r_3"] = os.time({year=2025, month=12, day=29, hour=4, min=56, sec=51}),
-["d3monbloxyt"] = os.time({year=2026, month=1, day=4, hour=6, min=41, sec=17}),
+["d3monbloxyt"] = os.time({year=2026, month=1, day=11, hour=7, min=51, sec=25}),
 ["knoxx0730"] = os.time({year=2026, month=1, day=4, hour=8, min=35, sec=8}),
 ["itsketsukayt"] = os.time({year=2025, month=12, day=29, hour=9, min=6, sec=19}),
 ["s4ro_o"] = os.time({year=2025, month=12, day=29, hour=10, min=7, sec=21}),
