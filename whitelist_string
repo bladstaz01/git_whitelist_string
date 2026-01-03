@@ -1173,7 +1173,7 @@ return {
 ["dimsongkang1"] = os.time({year=2026, month=1, day=1, hour=3, min=3, sec=53}),
 ["ikansarden872"] = os.time({year=2026, month=1, day=1, hour=3, min=9, sec=10}),
 ["theguyi75"] = os.time({year=2026, month=1, day=1, hour=3, min=18, sec=38}),
-["hotdog_corndog8"] = os.time({year=2025, month=12, day=26, hour=4, min=9, sec=26}),
+["hotdog_corndog8"] = os.time({year=2026, month=1, day=4, hour=10, min=15, sec=23}),
 ["testcode_01"] = os.time({year=2026, month=1, day=2, hour=11, min=8, sec=36}),
 ["codeyada"] = os.time({year=2026, month=1, day=24, hour=5, min=27, sec=44}),
 ["ezydump11"] = os.time({year=2026, month=1, day=16, hour=7, min=7, sec=23}),
