@@ -1671,7 +1671,7 @@ return {
 ["cr_emas"] = os.time({year=2026, month=1, day=17, hour=21, min=14, sec=56}),
 ["budhajake"] = os.time({year=2026, month=1, day=2, hour=21, min=25, sec=5}),
 ["boahanc1"] = os.time({year=2026, month=1, day=9, hour=21, min=38, sec=42}),
-["cozyymouse"] = os.time({year=2026, month=1, day=3, hour=15, min=28, sec=23}),
+["cozyymouse"] = os.time({year=2026, month=1, day=4, hour=17, min=1, sec=23}),
 ["toy_rob20"] = os.time({year=2026, month=1, day=3, hour=19, min=4, sec=23}),
 ["mattythegreat999"] = os.time({year=2026, month=1, day=10, hour=9, min=32, sec=24}),
 ["natsupot14"] = os.time({year=2026, month=1, day=25, hour=22, min=41, sec=12}),
