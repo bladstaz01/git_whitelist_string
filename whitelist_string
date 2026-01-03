@@ -1778,7 +1778,7 @@ return {
 ["infinityhex14"] = os.time({year=2026, month=1, day=26, hour=23, min=28, sec=19}),
 ["saykopa_8"] = os.time({year=2026, month=1, day=26, hour=23, min=50, sec=29}),
 ["heuuu104"] = os.time({year=2026, month=1, day=30, hour=3, min=24, sec=21}),
-["jirushi_11"] = os.time({year=2026, month=1, day=4, hour=0, min=43, sec=4}),
+["jirushi_11"] = os.time({year=2026, month=1, day=11, hour=3, min=12, sec=23}),
 ["elli_vei"] = os.time({year=2025, month=12, day=30, hour=1, min=21, sec=3}),
 ["shuriqeeeeeen"] = os.time({year=2026, month=1, day=27, hour=3, min=44, sec=46}),
 ["wond3r3r_3"] = os.time({year=2025, month=12, day=29, hour=4, min=56, sec=51}),
