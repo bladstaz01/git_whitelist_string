@@ -2026,7 +2026,7 @@ return {
 ["gojs2928"] = os.time({year=2026, month=1, day=10, hour=13, min=40, sec=25}),
 ["3korai3"] = os.time({year=2026, month=1, day=4, hour=16, min=30, sec=24}),
 ["sheyzieweyzie"] = os.time({year=2026, month=2, day=1, hour=14, min=26, sec=22}),
-["shintar0o0o"] = os.time({year=2026, month=1, day=3, hour=14, min=41, sec=25}),
+["shintar0o0o"] = os.time({year=2026, month=1, day=5, hour=23, min=8, sec=23}),
 ["djdanluz"] = os.time({year=2026, month=1, day=9, hour=14, min=43, sec=25}),
 ["nurie_sohma"] = os.time({year=2026, month=1, day=3, hour=15, min=13, sec=23}),
 ["gamaboko_tanj1ro"] = os.time({year=2026, month=1, day=4, hour=19, min=35, sec=25}),
