@@ -1548,7 +1548,7 @@ return {
 ["yan_yan402"] = os.time({year=2026, month=1, day=10, hour=0, min=13, sec=50}),
 ["hayoung_023"] = os.time({year=2026, month=1, day=2, hour=0, min=20, sec=12}),
 ["daeedaee012"] = os.time({year=2026, month=2, day=2, hour=17, min=9, sec=23}),
-["gamerx4164"] = os.time({year=2025, month=12, day=31, hour=19, min=34, sec=6}),
+["gamerx4164"] = os.time({year=2026, month=1, day=5, hour=15, min=25, sec=23}),
 ["raizen101802"] = os.time({year=2026, month=1, day=2, hour=0, min=34, sec=20}),
 ["zx_valerie"] = os.time({year=2026, month=1, day=10, hour=0, min=35, sec=49}),
 ["bisayakiller143mwa"] = os.time({year=2026, month=1, day=11, hour=11, min=19, sec=3}),
