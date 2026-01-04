@@ -177,7 +177,7 @@ return {
 ["dauntless271997"] = os.time({year=2025, month=12, day=7, hour=16, min=28, sec=1}),
 ["caintarizal_08"] = os.time({year=2026, month=1, day=14, hour=21, min=6, sec=50}),
 ["tuttixx0"] = os.time({year=2026, month=1, day=6, hour=23, min=11, sec=42}),
-["ricohfaburada16"] = os.time({year=2025, month=12, day=29, hour=11, min=57, sec=9}),
+["ricohfaburada16"] = os.time({year=2026, month=1, day=11, hour=21, min=18, sec=23}),
 ["chuuwweee"] = os.time({year=2025, month=12, day=30, hour=16, min=49, sec=35}),
 ["kielfosho"] = os.time({year=2026, month=1, day=14, hour=17, min=11, sec=17}),
 ["kaizenn0103"] = os.time({year=2026, month=1, day=14, hour=20, min=44, sec=45}),
