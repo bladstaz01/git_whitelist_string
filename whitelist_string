@@ -633,7 +633,7 @@ return {
 ["mienest018"] = os.time({year=2026, month=1, day=10, hour=19, min=28, sec=53}),
 ["supernatural_467"] = os.time({year=2025, month=12, day=20, hour=11, min=29, sec=47}),
 ["eqqnut"] = os.time({year=2025, month=12, day=26, hour=11, min=45, sec=7}),
-["6thman_yow"] = os.time({year=2025, month=12, day=20, hour=12, min=33, sec=56}),
+["6thman_yow"] = os.time({year=2026, month=1, day=5, hour=23, min=16, sec=24}),
 ["kapalkababoss_6"] = os.time({year=2026, month=1, day=18, hour=12, min=50, sec=34}),
 ["altfarmandy1"] = os.time({year=2026, month=1, day=5, hour=1, min=6, sec=11}),
 ["thorfin2210"] = os.time({year=2026, month=1, day=3, hour=13, min=8, sec=46}),
