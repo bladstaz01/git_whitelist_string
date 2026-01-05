@@ -489,7 +489,7 @@ return {
 ["leogaming186"] = os.time({year=2026, month=1, day=6, hour=17, min=33, sec=40}),
 ["matcha231777"] = os.time({year=2026, month=1, day=14, hour=12, min=29, sec=52}),
 ["f1nnjc"] = os.time({year=2026, month=1, day=14, hour=13, min=25, sec=40}),
-["lizzyyyy_20"] = os.time({year=2026, month=1, day=5, hour=17, min=18, sec=46}),
+["lizzyyyy_20"] = os.time({year=2026, month=1, day=12, hour=20, min=2, sec=25}),
 ["dadadaka7896"] = os.time({year=2025, month=12, day=16, hour=14, min=10, sec=42}),
 ["t1g3r1221"] = os.time({year=2026, month=1, day=14, hour=16, min=6, sec=13}),
 ["nichii51"] = os.time({year=2025, month=12, day=30, hour=16, min=18, sec=3}),
