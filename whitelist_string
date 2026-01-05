@@ -315,7 +315,7 @@ return {
 ["jf_ncl03"] = os.time({year=2026, month=1, day=18, hour=23, min=5, sec=23}),
 ["gosuhoon_rip"] = os.time({year=2026, month=1, day=1, hour=1, min=42, sec=3}),
 ["mirudupe"] = os.time({year=2026, month=1, day=3, hour=23, min=8, sec=20}),
-["wheee_151"] = os.time({year=2026, month=1, day=5, hour=14, min=2, sec=45}),
+["wheee_151"] = os.time({year=2026, month=1, day=20, hour=16, min=24, sec=25}),
 ["d1zero23t"] = os.time({year=2026, month=2, day=2, hour=23, min=35, sec=58}),
 ["rey11rblx"] = os.time({year=2025, month=12, day=10, hour=21, min=58, sec=19}),
 ["franco10844"] = os.time({year=2025, month=12, day=11, hour=23, min=49, sec=38}),
