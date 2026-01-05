@@ -1662,7 +1662,7 @@ return {
 ["decko_247"] = os.time({year=2026, month=1, day=10, hour=19, min=42, sec=30}),
 ["yuji10aa5"] = os.time({year=2026, month=1, day=10, hour=20, min=25, sec=33}),
 ["zephy2333"] = os.time({year=2025, month=12, day=27, hour=20, min=31, sec=21}),
-["ancaved"] = os.time({year=2026, month=1, day=2, hour=20, min=41, sec=42}),
+["ancaved"] = os.time({year=2026, month=1, day=7, hour=4, min=28, sec=27}),
 ["growyourbeard08"] = os.time({year=2026, month=1, day=25, hour=20, min=45, sec=36}),
 ["zaif5569"] = os.time({year=2026, month=1, day=25, hour=20, min=56, sec=51}),
 ["nahme345"] = os.time({year=2026, month=1, day=4, hour=2, min=36, sec=26}),
