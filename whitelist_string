@@ -2097,7 +2097,7 @@ return {
 ["eysualts2"] = os.time({year=2030, month=1, day=15, hour=0, min=0, sec=0}),
 ["nicoooolet6"] = os.time({year=2026, month=1, day=11, hour=16, min=45, sec=22}),
 ["jaildsy"] = os.time({year=2026, month=1, day=5, hour=17, min=0, sec=27}),
-["joyubas_g"] = os.time({year=2026, month=1, day=5, hour=17, min=53, sec=23}),
+["joyubas_g"] = os.time({year=2026, month=1, day=7, hour=1, min=47, sec=29}),
 ["tatinprogi09"] = os.time({year=2026, month=1, day=6, hour=20, min=22, sec=24}),
 ["notaiga1"] = os.time({year=2026, month=1, day=5, hour=19, min=0, sec=25}),
 ["jackielucky99"] = os.time({year=2026, month=1, day=5, hour=19, min=9, sec=25}),
