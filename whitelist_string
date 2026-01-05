@@ -2109,7 +2109,6 @@ return {
 ["kyujin3216"] = os.time({year=2026, month=1, day=11, hour=23, min=42, sec=23}),
 ["ddenvermc"] = os.time({year=2026, month=1, day=6, hour=1, min=0, sec=23}),
 ["aaax4th"] = os.time({year=2026, month=1, day=12, hour=1, min=7, sec=25}),
-["#ridewithmaru"] = os.time({year=2026, month=1, day=12, hour=1, min=49, sec=23}),
 ["alrfarmandy1"] = os.time({year=2026, month=1, day=6, hour=3, min=8, sec=25}),
 ["kangcroachz"] = os.time({year=2026, month=1, day=12, hour=5, min=18, sec=24}),
 ["serious0516"] = os.time({year=2026, month=1, day=6, hour=8, min=52, sec=23}),
