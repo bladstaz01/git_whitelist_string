@@ -2052,7 +2052,7 @@ return {
 ["nit0438"] = os.time({year=2030, month=1, day=15, hour=0, min=0, sec=0}),
 ["khaito_senin"] = os.time({year=2026, month=2, day=22, hour=10, min=18, sec=32}),
 ["ifreenz6y"] = os.time({year=2026, month=1, day=10, hour=0, min=25, sec=22}),
-["bun28303"] = os.time({year=2026, month=1, day=5, hour=12, min=31, sec=23}),
+["bun28303"] = os.time({year=2026, month=1, day=6, hour=13, min=49, sec=23}),
 ["rentzy196"] = os.time({year=2026, month=1, day=10, hour=1, min=34, sec=23}),
 ["seiyannnz"] = os.time({year=2026, month=1, day=5, hour=10, min=21, sec=24}),
 ["00cosette"] = os.time({year=2026, month=1, day=10, hour=6, min=19, sec=24}),
