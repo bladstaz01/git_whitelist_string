@@ -2140,5 +2140,6 @@ return {
 ["roblox_user_5803390975"] = os.time({year=2026, month=1, day=14, hour=1, min=3, sec=27}),
 ["cart_j1"] = os.time({year=2026, month=2, day=6, hour=2, min=17, sec=25}),
 ["mac0y00"] = os.time({year=2026, month=2, day=6, hour=2, min=25, sec=23}),
-["kingthegreat_32"] = os.time({year=2026, month=2, day=6, hour=2, min=52, sec=24})
+["kingthegreat_32"] = os.time({year=2026, month=2, day=6, hour=2, min=52, sec=24}),
+["saturogojjjiooo"] = os.time({year=2026, month=1, day=8, hour=4, min=45, sec=24})
 }
