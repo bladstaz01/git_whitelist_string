@@ -824,7 +824,7 @@ return {
 ["crljmsxx"] = os.time({year=2025, month=12, day=29, hour=16, min=23, sec=36}),
 ["yukichi_0011"] = os.time({year=2026, month=1, day=2, hour=3, min=3, sec=28}),
 ["hakori_17"] = os.time({year=2026, month=1, day=6, hour=16, min=30, sec=57}),
-["hightmex"] = os.time({year=2026, month=1, day=6, hour=16, min=41, sec=58}),
+["hightmex"] = os.time({year=2026, month=1, day=13, hour=17, min=59, sec=23}),
 ["humba558"] = os.time({year=2026, month=1, day=6, hour=16, min=47, sec=45}),
 ["kouichi12334"] = os.time({year=2026, month=1, day=6, hour=17, min=6, sec=15}),
 ["ace_kharl01"] = os.time({year=2025, month=12, day=29, hour=16, min=56, sec=33}),
