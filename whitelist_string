@@ -1277,7 +1277,7 @@ return {
 ["huji_067"] = os.time({year=2026, month=1, day=1, hour=12, min=45, sec=10}),
 ["totpikes"] = os.time({year=2026, month=1, day=7, hour=12, min=27, sec=26}),
 ["shinteksu"] = os.time({year=2026, month=1, day=9, hour=12, min=48, sec=6}),
-["villegasraven"] = os.time({year=2026, month=1, day=5, hour=0, min=31, sec=24}),
+["villegasraven"] = os.time({year=2026, month=1, day=7, hour=21, min=4, sec=26}),
 ["siahehhwqh"] = os.time({year=2026, month=1, day=10, hour=20, min=7, sec=24}),
 ["razcx_9"] = os.time({year=2026, month=1, day=11, hour=13, min=2, sec=14}),
 ["xnecromancer01"] = os.time({year=2026, month=1, day=8, hour=12, min=49, sec=25}),
