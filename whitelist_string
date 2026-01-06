@@ -839,7 +839,7 @@ return {
 ["shikuce3"] = os.time({year=2026, month=1, day=6, hour=2, min=16, sec=18}),
 ["ewayz_375"] = os.time({year=2025, month=12, day=23, hour=17, min=28, sec=48}),
 ["help_melp1"] = os.time({year=2025, month=12, day=29, hour=17, min=32, sec=16}),
-["puppybrad6"] = os.time({year=2026, month=1, day=6, hour=17, min=44, sec=46}),
+["puppybrad6"] = os.time({year=2026, month=1, day=22, hour=3, min=32, sec=26}),
 ["kolsura151"] = os.time({year=2026, month=1, day=8, hour=0, min=19, sec=24}),
 ["mayviz00"] = os.time({year=2026, month=1, day=6, hour=18, min=24, sec=20}),
 ["melancholy104"] = os.time({year=2025, month=12, day=29, hour=18, min=32, sec=37}),
