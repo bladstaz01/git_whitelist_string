@@ -784,7 +784,7 @@ return {
 ["j0v3n001"] = os.time({year=2025, month=12, day=29, hour=10, min=25, sec=16}),
 ["josh_0133"] = os.time({year=2026, month=1, day=5, hour=10, min=49, sec=4}),
 ["soraasusualz"] = os.time({year=2026, month=1, day=6, hour=10, min=49, sec=59}),
-["blue_lightning103"] = os.time({year=2026, month=1, day=4, hour=16, min=19, sec=23}),
+["blue_lightning103"] = os.time({year=2026, month=1, day=7, hour=22, min=0, sec=23}),
 ["supamat1e"] = os.time({year=2026, month=1, day=8, hour=19, min=35, sec=23}),
 ["zky_sky"] = os.time({year=2026, month=1, day=12, hour=22, min=14, sec=23}),
 ["anicaa620"] = os.time({year=2025, month=12, day=23, hour=11, min=33, sec=22}),
