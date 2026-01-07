@@ -1,6 +1,6 @@
 return {
 ["ibeast_28"] = os.time({year=2030, month=1, day=16, hour=0, min=0, sec=0}),
-["dustinkenot"] = os.time({year=2030, month=1, day=6, hour=0, min=0, sec=0}),
+["dustinkenot"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["kenot999"] = os.time({year=2030, month=1, day=6, hour=0, min=0, sec=0}),
 ["matsukawa09"] = os.time({year=2030, month=1, day=6, hour=0, min=0, sec=0}),
 ["inikoru10"] = os.time({year=2030, month=1, day=6, hour=0, min=0, sec=0}),
@@ -1178,7 +1178,7 @@ return {
 ["codeyada"] = os.time({year=2026, month=1, day=25, hour=5, min=27, sec=44}),
 ["ezydump11"] = os.time({year=2026, month=1, day=17, hour=7, min=7, sec=23}),
 ["apollog1700"] = os.time({year=2026, month=1, day=9, hour=5, min=54, sec=56}),
-["blazzz132"] = os.time({year=2026, month=1, day=9, hour=6, min=24, sec=7}),
+["blazzz132"] = os.time({year=2026, month=1, day=16, hour=6, min=24, sec=7}),
 ["cis0399"] = os.time({year=2026, month=1, day=4, hour=21, min=34, sec=25}),
 ["chaseno113"] = os.time({year=2026, month=1, day=25, hour=7, min=9, sec=1}),
 ["mrzurcute"] = os.time({year=2026, month=1, day=2, hour=7, min=19, sec=32}),
