@@ -763,7 +763,7 @@ return {
 ["yuzosheck"] = os.time({year=2025, month=12, day=23, hour=1, min=26, sec=53}),
 ["jamboef"] = os.time({year=2026, month=1, day=13, hour=12, min=25, sec=25}),
 ["ocsipam"] = os.time({year=2026, month=1, day=7, hour=2, min=23, sec=33}),
-["tirso_025"] = os.time({year=2026, month=1, day=7, hour=15, min=7, sec=23}),
+["tirso_025"] = os.time({year=2026, month=1, day=8, hour=17, min=56, sec=23}),
 ["313nvrno5"] = os.time({year=2026, month=1, day=1, hour=7, min=10, sec=25}),
 ["junpascua23"] = os.time({year=2026, month=1, day=6, hour=2, min=45, sec=22}),
 ["nagi3265"] = os.time({year=2026, month=1, day=10, hour=4, min=14, sec=44}),
