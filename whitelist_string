@@ -409,7 +409,7 @@ return {
 ["loydieee_7"] = os.time({year=2026, month=1, day=13, hour=17, min=44, sec=24}),
 ["jah7_h"] = os.time({year=2030, month=1, day=5, hour=0, min=0, sec=0}),
 ["hexjarell"] = os.time({year=2030, month=1, day=5, hour=0, min=0, sec=0}),
-["fushicat1"] = os.time({year=2026, month=1, day=4, hour=20, min=59, sec=26}),
+["fushicat1"] = os.time({year=2026, month=1, day=8, hour=17, min=53, sec=23}),
 ["shinkazeo"] = os.time({year=2025, month=12, day=15, hour=8, min=27, sec=28}),
 ["gray_light8"] = os.time({year=2025, month=12, day=11, hour=18, min=54, sec=48}),
 ["unlistock"] = os.time({year=2026, month=1, day=3, hour=13, min=51, sec=25}),
@@ -2141,5 +2141,6 @@ return {
 ["cart_j1"] = os.time({year=2026, month=2, day=6, hour=2, min=17, sec=25}),
 ["mac0y00"] = os.time({year=2026, month=2, day=6, hour=2, min=25, sec=23}),
 ["kingthegreat_32"] = os.time({year=2026, month=2, day=6, hour=2, min=52, sec=24}),
-["saturogojjjiooo"] = os.time({year=2026, month=1, day=8, hour=4, min=45, sec=24})
+["saturogojjjiooo"] = os.time({year=2026, month=1, day=8, hour=4, min=45, sec=24}),
+["akirorobosa121"] = os.time({year=2026, month=1, day=8, hour=17, min=53, sec=23})
 }
