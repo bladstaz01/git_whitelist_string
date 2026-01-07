@@ -1955,7 +1955,7 @@ return {
 ["kunnoochan"] = os.time({year=2026, month=1, day=5, hour=20, min=37, sec=23}),
 ["le_vi090"] = os.time({year=2026, month=1, day=7, hour=0, min=56, sec=50}),
 ["astaft3"] = os.time({year=2026, month=1, day=7, hour=22, min=4, sec=25}),
-["jhaysee20"] = os.time({year=2026, month=1, day=7, hour=1, min=42, sec=54}),
+["jhaysee20"] = os.time({year=2026, month=1, day=14, hour=17, min=59, sec=23}),
 ["apollonighh"] = os.time({year=2026, month=1, day=1, hour=2, min=39, sec=9}),
 ["collectorsbooth"] = os.time({year=2030, month=1, day=15, hour=0, min=0, sec=0}),
 ["musafuentes2"] = os.time({year=2026, month=1, day=30, hour=9, min=6, sec=26}),
@@ -2142,5 +2142,6 @@ return {
 ["mac0y00"] = os.time({year=2026, month=2, day=6, hour=2, min=25, sec=23}),
 ["kingthegreat_32"] = os.time({year=2026, month=2, day=6, hour=2, min=52, sec=24}),
 ["saturogojjjiooo"] = os.time({year=2026, month=1, day=8, hour=4, min=45, sec=24}),
-["akirorobosa121"] = os.time({year=2026, month=1, day=8, hour=17, min=53, sec=23})
+["akirorobosa121"] = os.time({year=2026, month=1, day=8, hour=17, min=53, sec=23}),
+["chaliaae"] = os.time({year=2026, month=1, day=14, hour=17, min=59, sec=23})
 }
