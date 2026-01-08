@@ -2150,5 +2150,6 @@ return {
 ["randomsniper88"] = os.time({year=2026, month=1, day=15, hour=1, min=14, sec=24}),
 ["leilyoichi"] = os.time({year=2026, month=1, day=15, hour=2, min=22, sec=24}),
 ["winada1318"] = os.time({year=2026, month=1, day=9, hour=6, min=25, sec=23}),
-["redzhub_v32"] = os.time({year=2026, month=1, day=9, hour=11, min=6, sec=40})
+["redzhub_v32"] = os.time({year=2026, month=1, day=9, hour=11, min=6, sec=40}),
+["jaceelisse"] = os.time({year=2026, month=2, day=7, hour=15, min=3, sec=38})
 }
