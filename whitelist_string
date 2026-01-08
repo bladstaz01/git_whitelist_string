@@ -1136,7 +1136,7 @@ return {
 ["abarakadabara7"] = os.time({year=2026, month=1, day=9, hour=3, min=45, sec=24}),
 ["yoneelll"] = os.time({year=2026, month=1, day=9, hour=6, min=6, sec=23}),
 ["sassskeehhh"] = os.time({year=2026, month=1, day=1, hour=21, min=58, sec=22}),
-["j1nshiii"] = os.time({year=2026, month=1, day=8, hour=21, min=59, sec=29}),
+["j1nshiii"] = os.time({year=2026, month=1, day=15, hour=21, min=59, sec=29}),
 ["kronovatv"] = os.time({year=2026, month=1, day=24, hour=22, min=5, sec=50}),
 ["levon_ash"] = os.time({year=2026, month=1, day=8, hour=22, min=9, sec=34}),
 ["ellvie_scoups"] = os.time({year=2026, month=1, day=1, hour=22, min=24, sec=54}),
