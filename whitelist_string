@@ -2153,5 +2153,6 @@ return {
 ["redzhub_v32"] = os.time({year=2026, month=1, day=9, hour=11, min=6, sec=40}),
 ["jaceelisse"] = os.time({year=2026, month=2, day=7, hour=15, min=3, sec=38}),
 ["ken_takakura"] = os.time({year=2026, month=1, day=9, hour=17, min=59, sec=39}),
-["r0ok_07"] = os.time({year=2026, month=1, day=9, hour=18, min=12, sec=43})
+["r0ok_07"] = os.time({year=2026, month=1, day=9, hour=18, min=12, sec=43}),
+["exectestpldt"] = os.time({year=2030, month=1, day=17, hour=0, min=0, sec=0})
 }
