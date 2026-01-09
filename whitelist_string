@@ -1989,7 +1989,7 @@ return {
 ["porkchoppp55"] = os.time({year=2026, month=1, day=11, hour=21, min=6, sec=23}),
 ["player242105"] = os.time({year=2030, month=1, day=16, hour=0, min=0, sec=0}),
 ["00fizzle00"] = os.time({year=2026, month=1, day=16, hour=18, min=44, sec=40}),
-["glamorless"] = os.time({year=2026, month=1, day=9, hour=14, min=32, sec=23}),
+["glamorless"] = os.time({year=2026, month=1, day=17, hour=3, min=49, sec=42}),
 ["holykenzuu"] = os.time({year=2026, month=1, day=9, hour=14, min=32, sec=23}),
 ["realdemise141"] = os.time({year=2026, month=1, day=9, hour=16, min=21, sec=25}),
 ["4thnavs"] = os.time({year=2026, month=1, day=9, hour=16, min=46, sec=25}),
