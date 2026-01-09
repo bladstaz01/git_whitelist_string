@@ -1439,7 +1439,7 @@ return {
 ["khate_pagodna"] = os.time({year=2026, month=1, day=9, hour=19, min=22, sec=22}),
 ["4kgeni"] = os.time({year=2025, month=12, day=27, hour=19, min=26, sec=19}),
 ["bh_siucuteowo"] = os.time({year=2026, month=1, day=15, hour=14, min=16, sec=40}),
-["shamia_008"] = os.time({year=2026, month=1, day=9, hour=19, min=30, sec=0}),
+["shamia_008"] = os.time({year=2026, month=1, day=16, hour=19, min=30, sec=0}),
 ["ashleb12345"] = os.time({year=2025, month=12, day=29, hour=19, min=30, sec=49}),
 ["papasusej67"] = os.time({year=2026, month=1, day=11, hour=23, min=36, sec=23}),
 ["toyztg"] = os.time({year=2026, month=1, day=2, hour=19, min=47, sec=27}),
