@@ -2157,5 +2157,6 @@ return {
 ["exectestpldt"] = os.time({year=2030, month=1, day=17, hour=0, min=0, sec=0}),
 ["keithaarei"] = os.time({year=2026, month=1, day=10, hour=2, min=42, sec=38}),
 ["zephyrrrr_0"] = os.time({year=2026, month=1, day=10, hour=2, min=49, sec=40}),
-["zyrozch"] = os.time({year=2026, month=1, day=16, hour=14, min=30, sec=46})
+["zyrozch"] = os.time({year=2026, month=1, day=16, hour=14, min=30, sec=46}),
+["y5baku"] = os.time({year=2026, month=1, day=10, hour=15, min=47, sec=42})
 }
