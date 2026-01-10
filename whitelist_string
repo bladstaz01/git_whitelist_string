@@ -1380,7 +1380,7 @@ return {
 ["ngala_23"] = os.time({year=2025, month=12, day=27, hour=16, min=27, sec=50}),
 ["dragosdiealready"] = os.time({year=2026, month=1, day=9, hour=18, min=20, sec=23}),
 ["monarchced"] = os.time({year=2026, month=1, day=2, hour=16, min=29, sec=26}),
-["cid6699"] = os.time({year=2026, month=1, day=9, hour=16, min=30, sec=37}),
+["cid6699"] = os.time({year=2026, month=1, day=17, hour=9, min=40, sec=38}),
 ["kaaarl_30"] = os.time({year=2026, month=1, day=2, hour=16, min=30, sec=47}),
 ["faizspanda"] = os.time({year=2026, month=1, day=6, hour=10, min=37, sec=22}),
 ["clarajoy101"] = os.time({year=2026, month=1, day=11, hour=13, min=5, sec=23}),
