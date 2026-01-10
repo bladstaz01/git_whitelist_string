@@ -780,7 +780,7 @@ return {
 ["armgamequest8"] = os.time({year=2026, month=1, day=1, hour=7, min=24, sec=58}),
 ["greenlight207"] = os.time({year=2025, month=12, day=24, hour=9, min=40, sec=41}),
 ["96pstn"] = os.time({year=2025, month=12, day=24, hour=10, min=10, sec=51}),
-["ninja_hahaha2"] = os.time({year=2026, month=1, day=6, hour=15, min=5, sec=23}),
+["ninja_hahaha2"] = os.time({year=2026, month=1, day=11, hour=22, min=48, sec=39}),
 ["j0v3n001"] = os.time({year=2025, month=12, day=30, hour=10, min=25, sec=16}),
 ["josh_0133"] = os.time({year=2026, month=1, day=6, hour=10, min=49, sec=4}),
 ["soraasusualz"] = os.time({year=2026, month=1, day=7, hour=10, min=49, sec=59}),
