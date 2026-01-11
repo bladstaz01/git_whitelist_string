@@ -1208,7 +1208,7 @@ return {
 ["petsweek"] = os.time({year=2026, month=1, day=2, hour=8, min=38, sec=31}),
 ["light_max23"] = os.time({year=2026, month=1, day=17, hour=22, min=35, sec=42}),
 ["silvercrow0005"] = os.time({year=2026, month=1, day=3, hour=8, min=41, sec=9}),
-["rui_hatethegame"] = os.time({year=2026, month=1, day=9, hour=8, min=44, sec=4}),
+["rui_hatethegame"] = os.time({year=2026, month=1, day=13, hour=1, min=23, sec=37}),
 ["souei0522"] = os.time({year=2026, month=1, day=2, hour=8, min=44, sec=18}),
 ["balbakwa777"] = os.time({year=2026, month=1, day=25, hour=8, min=45, sec=39}),
 ["bayotpakjo"] = os.time({year=2025, month=12, day=27, hour=8, min=47, sec=59}),
