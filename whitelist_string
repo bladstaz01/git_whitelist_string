@@ -1738,7 +1738,7 @@ return {
 ["seongjiyuk247"] = os.time({year=2026, month=1, day=4, hour=6, min=32, sec=32}),
 ["itsmehazelmae"] = os.time({year=2026, month=1, day=4, hour=7, min=31, sec=43}),
 ["tylsalt"] = os.time({year=2025, month=12, day=29, hour=7, min=41, sec=12}),
-["superjay5550"] = os.time({year=2026, month=1, day=11, hour=9, min=9, sec=27}),
+["superjay5550"] = os.time({year=2026, month=1, day=18, hour=9, min=18, sec=41}),
 ["chocosmith1"] = os.time({year=2030, month=1, day=6, hour=0, min=0, sec=0}),
 ["chor1zomuncher"] = os.time({year=2025, month=12, day=29, hour=8, min=45, sec=12}),
 ["iwishpokefriendedme"] = os.time({year=2026, month=1, day=19, hour=13, min=36, sec=25}),
