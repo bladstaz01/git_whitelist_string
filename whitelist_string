@@ -710,7 +710,7 @@ return {
 ["maeve101618"] = os.time({year=2025, month=12, day=22, hour=22, min=28, sec=34}),
 ["angelo_20037"] = os.time({year=2026, month=1, day=5, hour=22, min=53, sec=6}),
 ["siij3131"] = os.time({year=2026, month=1, day=18, hour=13, min=39, sec=39}),
-["rectifierdiode1"] = os.time({year=2026, month=1, day=5, hour=13, min=36, sec=25}),
+["rectifierdiode1"] = os.time({year=2026, month=1, day=12, hour=14, min=56, sec=38}),
 ["krizztiyannn"] = os.time({year=2026, month=1, day=20, hour=23, min=16, sec=55}),
 ["balanoba123"] = os.time({year=2026, month=1, day=17, hour=23, min=57, sec=40}),
 ["jolobee1220"] = os.time({year=2026, month=1, day=9, hour=17, min=58, sec=23}),
