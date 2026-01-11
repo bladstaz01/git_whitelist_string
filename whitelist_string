@@ -599,7 +599,7 @@ return {
 ["crusader0008"] = os.time({year=2026, month=1, day=11, hour=13, min=0, sec=18}),
 ["darildarel8"] = os.time({year=2026, month=1, day=19, hour=11, min=25, sec=14}),
 ["noobynoob09765"] = os.time({year=2026, month=1, day=11, hour=11, min=22, sec=22}),
-["thiharta"] = os.time({year=2026, month=1, day=4, hour=7, min=50, sec=35}),
+["thiharta"] = os.time({year=2026, month=1, day=18, hour=21, min=39, sec=39}),
 ["durtkix3"] = os.time({year=2025, month=12, day=31, hour=7, min=36, sec=39}),
 ["ipursueimmortal"] = os.time({year=2026, month=1, day=16, hour=13, min=9, sec=58}),
 ["osigex"] = os.time({year=2026, month=1, day=27, hour=7, min=19, sec=42}),
