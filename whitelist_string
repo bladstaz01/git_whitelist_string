@@ -1914,7 +1914,7 @@ return {
 ["oveyourie"] = os.time({year=2026, month=1, day=4, hour=9, min=12, sec=25}),
 ["azcay456"] = os.time({year=2026, month=1, day=2, hour=1, min=2, sec=46}),
 ["tiklopkaybea"] = os.time({year=2026, month=1, day=2, hour=1, min=42, sec=16}),
-["ryuu02200"] = os.time({year=2026, month=1, day=6, hour=14, min=53, sec=24}),
+["ryuu02200"] = os.time({year=2026, month=1, day=12, hour=19, min=2, sec=42}),
 ["unluck00000009"] = os.time({year=2026, month=1, day=2, hour=3, min=11, sec=8}),
 ["unlucky00000009"] = os.time({year=2026, month=1, day=3, hour=3, min=19, sec=58}),
 ["georgedriod94"] = os.time({year=2026, month=1, day=16, hour=3, min=42, sec=55}),
@@ -2180,5 +2180,6 @@ return {
 ["mariel_ricio12345"] = os.time({year=2026, month=1, day=18, hour=10, min=15, sec=45}),
 ["xxxmplvtxxx"] = os.time({year=2026, month=2, day=10, hour=10, min=29, sec=39}),
 ["smurfy_gtt"] = os.time({year=2026, month=2, day=10, hour=11, min=24, sec=39}),
-["scatter10xwinner"] = os.time({year=2026, month=1, day=12, hour=12, min=24, sec=39})
+["scatter10xwinner"] = os.time({year=2026, month=1, day=12, hour=12, min=24, sec=39}),
+["iamjaken10"] = os.time({year=2026, month=2, day=10, hour=19, min=2, sec=41})
 }
