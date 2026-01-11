@@ -2179,5 +2179,6 @@ return {
 ["yuriwakura"] = os.time({year=2026, month=1, day=18, hour=5, min=1, sec=42}),
 ["mariel_ricio12345"] = os.time({year=2026, month=1, day=18, hour=10, min=15, sec=45}),
 ["xxxmplvtxxx"] = os.time({year=2026, month=2, day=10, hour=10, min=29, sec=39}),
-["smurfy_gtt"] = os.time({year=2026, month=2, day=10, hour=11, min=24, sec=39})
+["smurfy_gtt"] = os.time({year=2026, month=2, day=10, hour=11, min=24, sec=39}),
+["scatter10xwinner"] = os.time({year=2026, month=1, day=12, hour=12, min=24, sec=39})
 }
