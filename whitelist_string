@@ -2183,5 +2183,6 @@ return {
 ["scatter10xwinner"] = os.time({year=2026, month=1, day=12, hour=12, min=24, sec=39}),
 ["iamjaken10"] = os.time({year=2026, month=2, day=10, hour=19, min=2, sec=41}),
 ["jandeltagalog01"] = os.time({year=2026, month=2, day=10, hour=19, min=12, sec=42}),
-["hseoh_2"] = os.time({year=2026, month=1, day=12, hour=19, min=38, sec=40})
+["hseoh_2"] = os.time({year=2026, month=1, day=12, hour=19, min=38, sec=40}),
+["krim2nite"] = os.time({year=2026, month=1, day=12, hour=23, min=1, sec=39})
 }
