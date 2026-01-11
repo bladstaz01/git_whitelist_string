@@ -94,7 +94,7 @@ return {
 ["manyamankunimal2"] = os.time({year=2025, month=12, day=14, hour=12, min=13, sec=39}),
 ["bolture7"] = os.time({year=2026, month=1, day=5, hour=12, min=27, sec=36}),
 ["pisces_0693"] = os.time({year=2025, month=12, day=6, hour=12, min=34, sec=31}),
-["cuttipie1602"] = os.time({year=2026, month=1, day=7, hour=17, min=27, sec=6}),
+["cuttipie1602"] = os.time({year=2026, month=1, day=13, hour=0, min=51, sec=39}),
 ["corrpse123"] = os.time({year=2026, month=1, day=5, hour=21, min=48, sec=23}),
 ["myaw0015"] = os.time({year=2025, month=12, day=6, hour=14, min=15, sec=45}),
 ["firmi0912"] = os.time({year=2026, month=1, day=13, hour=14, min=32, sec=26}),
