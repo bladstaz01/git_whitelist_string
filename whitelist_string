@@ -1369,7 +1369,7 @@ return {
 ["ytprocamp1"] = os.time({year=2026, month=2, day=1, hour=21, min=5, sec=25}),
 ["meowv88"] = os.time({year=2026, month=1, day=9, hour=16, min=9, sec=58}),
 ["monsieurjaw7"] = os.time({year=2026, month=1, day=12, hour=19, min=57, sec=42}),
-["strikeforrichest"] = os.time({year=2026, month=1, day=2, hour=16, min=11, sec=30}),
+["strikeforrichest"] = os.time({year=2026, month=1, day=19, hour=13, min=8, sec=39}),
 ["jimken080"] = os.time({year=2026, month=3, day=26, hour=16, min=12, sec=31}),
 ["anobatalagatayo143"] = os.time({year=2026, month=1, day=9, hour=23, min=20, sec=26}),
 ["matchaaaaaaa872"] = os.time({year=2025, month=12, day=29, hour=21, min=2, sec=47}),
