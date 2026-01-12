@@ -463,7 +463,7 @@ return {
 ["jsenpai010"] = os.time({year=2026, month=2, day=13, hour=19, min=52, sec=27}),
 ["jem00001"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["shadowreal_10"] = os.time({year=2025, month=12, day=22, hour=22, min=32, sec=48}),
-["sydnar4lt2"] = os.time({year=2026, month=1, day=13, hour=15, min=9, sec=23}),
+["sydnar4lt2"] = os.time({year=2026, month=1, day=20, hour=15, min=9, sec=23}),
 ["moldez12b"] = os.time({year=2026, month=1, day=7, hour=21, min=39, sec=42}),
 ["raz050811"] = os.time({year=2025, month=12, day=23, hour=0, min=35, sec=54}),
 ["tinayyy4444"] = os.time({year=2026, month=1, day=3, hour=3, min=49, sec=34}),
