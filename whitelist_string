@@ -637,7 +637,7 @@ return {
 ["kapalkababoss_6"] = os.time({year=2026, month=1, day=20, hour=12, min=50, sec=34}),
 ["altfarmandy1"] = os.time({year=2026, month=1, day=15, hour=21, min=47, sec=25}),
 ["thorfin2210"] = os.time({year=2026, month=1, day=5, hour=13, min=8, sec=46}),
-["jhonnyblaze06"] = os.time({year=2025, month=12, day=24, hour=16, min=49, sec=26}),
+["jhonnyblaze06"] = os.time({year=2026, month=1, day=19, hour=21, min=56, sec=42}),
 ["thorfinn2120"] = os.time({year=2026, month=1, day=12, hour=14, min=52, sec=0}),
 ["mwin55907"] = os.time({year=2026, month=1, day=7, hour=17, min=15, sec=18}),
 ["nezuko_0255"] = os.time({year=2025, month=12, day=28, hour=16, min=14, sec=31}),
