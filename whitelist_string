@@ -1096,7 +1096,7 @@ return {
 ["vypr52"] = os.time({year=2025, month=12, day=26, hour=15, min=22, sec=26}),
 ["ayanpo60"] = os.time({year=2025, month=12, day=26, hour=15, min=26, sec=28}),
 ["ksuprmcy"] = os.time({year=2026, month=1, day=11, hour=19, min=53, sec=23}),
-["pooping0921"] = os.time({year=2025, month=12, day=29, hour=23, min=31, sec=4}),
+["pooping0921"] = os.time({year=2026, month=1, day=13, hour=9, min=17, sec=38}),
 ["why_dapp"] = os.time({year=2026, month=1, day=1, hour=15, min=31, sec=11}),
 ["ayanpo60"] = os.time({year=2026, month=1, day=8, hour=15, min=32, sec=9}),
 ["godlysomeone315"] = os.time({year=2026, month=1, day=9, hour=3, min=54, sec=24}),
