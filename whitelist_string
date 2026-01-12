@@ -1503,7 +1503,7 @@ return {
 ["paubsnsl"] = os.time({year=2026, month=1, day=13, hour=1, min=3, sec=23}),
 ["ruble_bank"] = os.time({year=2026, month=1, day=3, hour=19, min=4, sec=24}),
 ["101unknown_1"] = os.time({year=2026, month=1, day=11, hour=16, min=27, sec=39}),
-["rjheyyyy"] = os.time({year=2026, month=1, day=2, hour=22, min=0, sec=53}),
+["rjheyyyy"] = os.time({year=2026, month=1, day=19, hour=17, min=47, sec=40}),
 ["rcb_calipre"] = os.time({year=2026, month=1, day=12, hour=15, min=46, sec=25}),
 ["taniee01"] = os.time({year=2026, month=1, day=2, hour=22, min=2, sec=52}),
 ["laminzudituli"] = os.time({year=2025, month=12, day=28, hour=22, min=8, sec=38}),
