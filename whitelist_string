@@ -589,7 +589,7 @@ return {
 ["xian5152"] = os.time({year=2026, month=1, day=5, hour=7, min=15, sec=41}),
 ["xyn2163"] = os.time({year=2026, month=1, day=13, hour=8, min=24, sec=23}),
 ["doks2004"] = os.time({year=2026, month=1, day=13, hour=7, min=34, sec=24}),
-["lance_alimbango"] = os.time({year=2026, month=1, day=14, hour=12, min=10, sec=23}),
+["lance_alimbango"] = os.time({year=2026, month=1, day=21, hour=12, min=10, sec=23}),
 ["jemwellanorio123"] = os.time({year=2026, month=1, day=6, hour=21, min=1, sec=40}),
 ["natoy5560"] = os.time({year=2025, month=12, day=28, hour=9, min=57, sec=59}),
 ["saucy_bonkha"] = os.time({year=2026, month=1, day=11, hour=14, min=36, sec=25}),
