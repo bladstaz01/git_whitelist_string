@@ -2037,7 +2037,7 @@ return {
 ["hidanstorage07"] = os.time({year=2026, month=1, day=20, hour=18, min=49, sec=39}),
 ["idyeysii"] = os.time({year=2026, month=1, day=19, hour=20, min=59, sec=49}),
 ["jeizxcs"] = os.time({year=2026, month=1, day=14, hour=18, min=28, sec=38}),
-["heikkocosmic"] = os.time({year=2026, month=1, day=13, hour=16, min=9, sec=40}),
+["heikkocosmic"] = os.time({year=2026, month=1, day=15, hour=6, min=59, sec=38}),
 ["rip_yoshiksks"] = os.time({year=2026, month=1, day=11, hour=20, min=23, sec=25}),
 ["slayer_12554"] = os.time({year=2026, month=1, day=5, hour=20, min=27, sec=26}),
 ["imong12766"] = os.time({year=2026, month=1, day=5, hour=20, min=46, sec=23}),
