@@ -179,7 +179,7 @@ return {
 ["tuttixx0"] = os.time({year=2026, month=1, day=8, hour=23, min=11, sec=42}),
 ["ricohfaburada16"] = os.time({year=2026, month=1, day=13, hour=21, min=18, sec=23}),
 ["chuuwweee"] = os.time({year=2026, month=1, day=1, hour=16, min=49, sec=35}),
-["kielfosho"] = os.time({year=2026, month=1, day=16, hour=17, min=11, sec=17}),
+["kielfosho"] = os.time({year=2026, month=2, day=15, hour=17, min=11, sec=17}),
 ["kaizenn0103"] = os.time({year=2026, month=1, day=16, hour=20, min=44, sec=45}),
 ["charles_pre"] = os.time({year=2026, month=1, day=12, hour=23, min=54, sec=25}),
 ["taijiro_official"] = os.time({year=2025, month=12, day=9, hour=17, min=57, sec=57}),
