@@ -751,7 +751,7 @@ return {
 ["koaling27"] = os.time({year=2026, month=1, day=14, hour=21, min=53, sec=16}),
 ["ren_rose05"] = os.time({year=2026, month=1, day=21, hour=22, min=1, sec=26}),
 ["ekalam_etlog"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
-["spider_headleader"] = os.time({year=2026, month=1, day=10, hour=14, min=34, sec=23}),
+["spider_headleader"] = os.time({year=2026, month=1, day=17, hour=20, min=6, sec=40}),
 ["michikatsu_8002"] = os.time({year=2025, month=12, day=30, hour=23, min=37, sec=49}),
 ["krungkrungrikapu"] = os.time({year=2025, month=12, day=24, hour=23, min=52, sec=0}),
 ["nigmatttblack"] = os.time({year=2026, month=1, day=18, hour=10, min=20, sec=39}),
