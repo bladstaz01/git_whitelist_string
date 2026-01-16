@@ -1045,7 +1045,7 @@ return {
 ["perrocosmico12312"] = os.time({year=2026, month=1, day=16, hour=17, min=48, sec=24}),
 ["no_nameeeeeeee4"] = os.time({year=2026, month=1, day=2, hour=3, min=45, sec=33}),
 ["shikuce"] = os.time({year=2026, month=1, day=21, hour=23, min=23, sec=24}),
-["atlasgaming0612"] = os.time({year=2026, month=1, day=11, hour=12, min=11, sec=25}),
+["atlasgaming0612"] = os.time({year=2026, month=1, day=23, hour=14, min=15, sec=38}),
 ["pangalawasalahat02"] = os.time({year=2025, month=12, day=27, hour=4, min=4, sec=0}),
 ["ximdasellerx"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["jpblue0111"] = os.time({year=2026, month=1, day=2, hour=4, min=56, sec=46}),
