@@ -1929,7 +1929,7 @@ return {
 ["kit_e0o"] = os.time({year=2026, month=1, day=4, hour=16, min=14, sec=22}),
 ["manjiro_sano2467"] = os.time({year=2026, month=1, day=9, hour=13, min=58, sec=49}),
 ["lepania0712"] = os.time({year=2026, month=1, day=3, hour=14, min=41, sec=42}),
-["renzooo_855"] = os.time({year=2026, month=1, day=16, hour=15, min=14, sec=57}),
+["renzooo_855"] = os.time({year=2026, month=1, day=25, hour=7, min=57, sec=38}),
 ["sigma288882u"] = os.time({year=2026, month=1, day=15, hour=19, min=48, sec=40}),
 ["babysnow220"] = os.time({year=2026, month=1, day=24, hour=20, min=9, sec=39}),
 ["maulkejepit"] = os.time({year=2026, month=1, day=9, hour=15, min=52, sec=50}),
