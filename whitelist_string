@@ -2048,7 +2048,7 @@ return {
 ["kurr31y"] = os.time({year=2026, month=1, day=10, hour=22, min=8, sec=39}),
 ["pade_rrrr"] = os.time({year=2026, month=1, day=19, hour=23, min=48, sec=50}),
 ["eynayani_14"] = os.time({year=2026, month=1, day=7, hour=5, min=25, sec=22}),
-["nit0438"] = os.time({year=2030, month=1, day=17, hour=0, min=0, sec=0}),
+["nit0438"] = os.time({year=2025, month=1, day=17, hour=0, min=0, sec=0}),
 ["khaito_senin"] = os.time({year=2026, month=2, day=24, hour=10, min=18, sec=32}),
 ["ifreenz6y"] = os.time({year=2026, month=1, day=12, hour=0, min=25, sec=22}),
 ["bun28303"] = os.time({year=2026, month=1, day=17, hour=19, min=12, sec=40}),
