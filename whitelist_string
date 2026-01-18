@@ -2235,5 +2235,6 @@ return {
 ["ssad_froppy890"] = os.time({year=2026, month=1, day=19, hour=4, min=41, sec=45}),
 ["pr1nc3_lyr4d"] = os.time({year=2026, month=1, day=19, hour=6, min=26, sec=40}),
 ["kielki38"] = os.time({year=2026, month=1, day=19, hour=8, min=26, sec=39}),
-["rinn_arin7"] = os.time({year=2026, month=1, day=25, hour=13, min=56, sec=39})
+["rinn_arin7"] = os.time({year=2026, month=1, day=25, hour=13, min=56, sec=39}),
+["gbs_natsu7"] = os.time({year=2026, month=1, day=25, hour=14, min=7, sec=40})
 }
