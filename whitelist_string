@@ -1953,7 +1953,7 @@ return {
 ["flaven09"] = os.time({year=2026, month=1, day=31, hour=23, min=57, sec=19}),
 ["kunnoochan"] = os.time({year=2026, month=1, day=18, hour=22, min=14, sec=40}),
 ["le_vi090"] = os.time({year=2026, month=1, day=9, hour=0, min=56, sec=50}),
-["astaft3"] = os.time({year=2026, month=1, day=11, hour=23, min=39, sec=39}),
+["astaft3"] = os.time({year=2026, month=1, day=19, hour=16, min=52, sec=43}),
 ["jhaysee20"] = os.time({year=2026, month=1, day=23, hour=17, min=59, sec=23}),
 ["apollonighh"] = os.time({year=2026, month=1, day=3, hour=2, min=39, sec=9}),
 ["collectorsbooth"] = os.time({year=2030, month=1, day=17, hour=0, min=0, sec=0}),
