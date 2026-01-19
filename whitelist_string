@@ -1454,7 +1454,7 @@ return {
 ["newbie72535"] = os.time({year=2026, month=1, day=3, hour=20, min=5, sec=13}),
 ["sungjayvee"] = os.time({year=2026, month=1, day=12, hour=13, min=0, sec=25}),
 ["giratss"] = os.time({year=2025, month=12, day=28, hour=20, min=14, sec=31}),
-["lenardgame12345"] = os.time({year=2026, month=1, day=12, hour=23, min=9, sec=39}),
+["lenardgame12345"] = os.time({year=2026, month=1, day=26, hour=23, min=22, sec=48}),
 ["alex_sy5"] = os.time({year=2026, month=1, day=11, hour=1, min=30, sec=22}),
 ["cer00008"] = os.time({year=2026, month=1, day=7, hour=8, min=26, sec=24}),
 ["rizalivy062323"] = os.time({year=2026, month=1, day=13, hour=1, min=1, sec=24}),
