@@ -2012,7 +2012,7 @@ return {
 ["tibiki12345678910"] = os.time({year=2026, month=1, day=11, hour=0, min=44, sec=23}),
 ["vhanvhan_68"] = os.time({year=2026, month=1, day=5, hour=3, min=48, sec=23}),
 ["nitrate34"] = os.time({year=2026, month=1, day=5, hour=4, min=48, sec=23}),
-["owkei02"] = os.time({year=2026, month=1, day=20, hour=8, min=2, sec=44}),
+["owkei02"] = os.time({year=2026, month=1, day=28, hour=5, min=56, sec=45}),
 ["jrenz_tf"] = os.time({year=2026, month=1, day=11, hour=7, min=48, sec=24}),
 ["super_amoy06"] = os.time({year=2026, month=1, day=5, hour=9, min=45, sec=23}),
 ["ararong211"] = os.time({year=2026, month=1, day=11, hour=11, min=16, sec=24}),
