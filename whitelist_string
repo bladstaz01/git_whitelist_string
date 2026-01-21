@@ -1130,7 +1130,7 @@ return {
 ["givesomefruitspls0"] = os.time({year=2026, month=1, day=18, hour=18, min=20, sec=37}),
 ["xskillzqt"] = os.time({year=2026, month=1, day=2, hour=20, min=54, sec=59}),
 ["papa91964"] = os.time({year=2026, month=1, day=2, hour=21, min=14, sec=29}),
-["han_svrjsk"] = os.time({year=2026, month=1, day=18, hour=16, min=28, sec=12}),
+["han_svrjsk"] = os.time({year=2026, month=1, day=28, hour=21, min=30, sec=44}),
 ["abarakadabara7"] = os.time({year=2026, month=1, day=25, hour=9, min=54, sec=46}),
 ["yoneelll"] = os.time({year=2026, month=1, day=23, hour=14, min=22, sec=38}),
 ["sassskeehhh"] = os.time({year=2026, month=1, day=2, hour=21, min=58, sec=22}),
