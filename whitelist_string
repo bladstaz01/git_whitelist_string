@@ -1999,7 +1999,7 @@ return {
 ["kozen280"] = os.time({year=2026, month=1, day=19, hour=3, min=21, sec=44}),
 ["jayrald_10"] = os.time({year=2026, month=1, day=19, hour=6, min=53, sec=43}),
 ["chessmanshess"] = os.time({year=2026, month=2, day=2, hour=20, min=33, sec=23}),
-["kam_0ten"] = os.time({year=2026, month=1, day=20, hour=12, min=50, sec=41}),
+["kam_0ten"] = os.time({year=2026, month=1, day=22, hour=8, min=27, sec=41}),
 ["jr29599"] = os.time({year=2026, month=1, day=21, hour=20, min=4, sec=47}),
 ["xxiloveanjelxx"] = os.time({year=2026, month=1, day=24, hour=22, min=32, sec=25}),
 ["kylegaah"] = os.time({year=2026, month=1, day=18, hour=22, min=59, sec=22}),
