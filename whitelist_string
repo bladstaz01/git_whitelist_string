@@ -1601,7 +1601,7 @@ return {
 ["hidankiller1414"] = os.time({year=2025, month=12, day=29, hour=6, min=7, sec=34}),
 ["rolbux1000"] = os.time({year=2026, month=1, day=27, hour=6, min=27, sec=27}),
 ["izu_02"] = os.time({year=2025, month=12, day=30, hour=6, min=32, sec=13}),
-["izumeee011"] = os.time({year=2025, month=12, day=29, hour=6, min=45, sec=20}),
+["izumeee011"] = os.time({year=2026, month=1, day=30, hour=8, min=42, sec=44}),
 ["luffytaro302170"] = os.time({year=2025, month=12, day=29, hour=6, min=46, sec=22}),
 ["khinos12"] = os.time({year=2026, month=1, day=10, hour=17, min=46, sec=24}),
 ["tiaaaaaaaaaaaan1"] = os.time({year=2026, month=1, day=27, hour=7, min=10, sec=26}),
