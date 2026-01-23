@@ -1294,7 +1294,7 @@ return {
 ["muhammadz333"] = os.time({year=2026, month=1, day=3, hour=13, min=29, sec=17}),
 ["onsewesley"] = os.time({year=2026, month=1, day=13, hour=20, min=28, sec=25}),
 ["jasper_roblox25"] = os.time({year=2026, month=1, day=24, hour=22, min=31, sec=43}),
-["palok2x32"] = os.time({year=2026, month=1, day=14, hour=12, min=57, sec=22}),
+["palok2x32"] = os.time({year=2026, month=1, day=30, hour=17, min=5, sec=43}),
 ["eyvan0323"] = os.time({year=2025, month=12, day=28, hour=13, min=40, sec=52}),
 ["rexxynp"] = os.time({year=2026, month=1, day=3, hour=13, min=41, sec=45}),
 ["speed_speed0"] = os.time({year=2026, month=1, day=3, hour=13, min=43, sec=3}),
