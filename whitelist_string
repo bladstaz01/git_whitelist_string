@@ -2163,7 +2163,7 @@ return {
 ["glaiii_23"] = os.time({year=2026, month=1, day=17, hour=23, min=20, sec=42}),
 ["ejung26"] = os.time({year=2026, month=1, day=12, hour=3, min=12, sec=41}),
 ["imbentorikolng"] = os.time({year=2026, month=1, day=12, hour=3, min=13, sec=40}),
-["khinos14"] = os.time({year=2026, month=1, day=20, hour=14, min=29, sec=43}),
+["khinos14"] = os.time({year=2026, month=1, day=24, hour=16, min=40, sec=41}),
 ["neytopre"] = os.time({year=2026, month=1, day=12, hour=11, min=17, sec=38}),
 ["dino_nuggwiez"] = os.time({year=2026, month=1, day=12, hour=11, min=32, sec=38}),
 ["g_abriella8"] = os.time({year=2026, month=2, day=10, hour=17, min=26, sec=38}),
