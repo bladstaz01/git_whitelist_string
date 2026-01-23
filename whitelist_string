@@ -69,7 +69,7 @@ return {
 ["kiiyokick123"] = os.time({year=2025, month=12, day=14, hour=20, min=2, sec=20}),
 ["sene12345786"] = os.time({year=2025, month=12, day=14, hour=21, min=5, sec=36}),
 ["manyamansigang"] = os.time({year=2025, month=12, day=20, hour=21, min=16, sec=9}),
-["yuri121176"] = os.time({year=2026, month=1, day=12, hour=23, min=4, sec=52}),
+["yuri121176"] = os.time({year=2026, month=1, day=30, hour=20, min=42, sec=40}),
 ["atsei4"] = os.time({year=2026, month=1, day=5, hour=0, min=32, sec=24}),
 ["bangst_luh"] = os.time({year=2025, month=12, day=14, hour=22, min=57, sec=56}),
 ["weirdo1658"] = os.time({year=2025, month=12, day=6, hour=23, min=0, sec=55}),
