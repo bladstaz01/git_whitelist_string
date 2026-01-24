@@ -925,7 +925,7 @@ return {
 ["joyboink"] = os.time({year=2026, month=1, day=29, hour=0, min=58, sec=43}),
 ["qweetyype0"] = os.time({year=2026, month=1, day=14, hour=21, min=52, sec=14}),
 ["night_trash1"] = os.time({year=2026, month=1, day=8, hour=23, min=48, sec=6}),
-["hahahaduken1"] = os.time({year=2026, month=1, day=15, hour=21, min=37, sec=24}),
+["hahahaduken1"] = os.time({year=2026, month=1, day=26, hour=7, min=30, sec=41}),
 ["robertzon021"] = os.time({year=2026, month=2, day=2, hour=10, min=51, sec=23}),
 ["marsonmanyak"] = os.time({year=2025, month=12, day=29, hour=11, min=3, sec=10}),
 ["nickrenhax"] = os.time({year=2025, month=12, day=26, hour=12, min=44, sec=46}),
