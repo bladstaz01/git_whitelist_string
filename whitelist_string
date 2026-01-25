@@ -618,7 +618,7 @@ return {
 ["darkwolf_256"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["da3kside0777"] = os.time({year=2025, month=12, day=23, hour=8, min=12, sec=58}),
 ["w3nd3llj0hn"] = os.time({year=2026, month=1, day=28, hour=12, min=56, sec=18}),
-["hammyy_22"] = os.time({year=2026, month=1, day=19, hour=23, min=25, sec=55}),
+["hammyy_22"] = os.time({year=2026, month=2, day=9, hour=17, min=53, sec=39}),
 ["unolorenzo147"] = os.time({year=2026, month=1, day=5, hour=0, min=48, sec=20}),
 ["supzol"] = os.time({year=2026, month=1, day=3, hour=0, min=33, sec=0}),
 ["baycon_2507"] = os.time({year=2026, month=1, day=13, hour=12, min=8, sec=38}),
