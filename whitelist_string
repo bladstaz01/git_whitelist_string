@@ -2267,5 +2267,6 @@ return {
 ["mehestia3"] = os.time({year=2026, month=2, day=2, hour=0, min=41, sec=41}),
 ["vanguards194"] = os.time({year=2026, month=2, day=10, hour=7, min=53, sec=41}),
 ["hisoka20255"] = os.time({year=2026, month=2, day=2, hour=10, min=23, sec=41}),
-["keevrobloxfarm_2"] = os.time({year=2026, month=2, day=10, hour=12, min=23, sec=41})
+["keevrobloxfarm_2"] = os.time({year=2026, month=2, day=10, hour=12, min=23, sec=41}),
+["black_flash809"] = os.time({year=2026, month=2, day=2, hour=15, min=3, sec=45})
 }
