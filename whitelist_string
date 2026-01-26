@@ -874,7 +874,7 @@ return {
 ["bachichai1"] = os.time({year=2026, month=1, day=31, hour=14, min=51, sec=39}),
 ["venus_12067"] = os.time({year=2026, month=1, day=8, hour=21, min=23, sec=7}),
 ["rog_1983"] = os.time({year=2026, month=1, day=24, hour=23, min=0, sec=48}),
-["bitlog109"] = os.time({year=2026, month=1, day=26, hour=10, min=53, sec=40}),
+["bitlog109"] = os.time({year=2026, month=2, day=2, hour=17, min=57, sec=44}),
 ["hero8640"] = os.time({year=2026, month=1, day=9, hour=16, min=20, sec=36}),
 ["bloxfruits2792"] = os.time({year=2026, month=1, day=7, hour=23, min=3, sec=11}),
 ["lukesbaconnoob"] = os.time({year=2025, month=12, day=31, hour=23, min=9, sec=30}),
@@ -2268,5 +2268,6 @@ return {
 ["vanguards194"] = os.time({year=2026, month=2, day=10, hour=7, min=53, sec=41}),
 ["hisoka20255"] = os.time({year=2026, month=2, day=2, hour=10, min=23, sec=41}),
 ["keevrobloxfarm_2"] = os.time({year=2026, month=2, day=10, hour=12, min=23, sec=41}),
-["black_flash809"] = os.time({year=2026, month=2, day=2, hour=15, min=3, sec=45})
+["black_flash809"] = os.time({year=2026, month=2, day=2, hour=15, min=3, sec=45}),
+["unnameran1996"] = os.time({year=2026, month=1, day=27, hour=17, min=57, sec=43})
 }
