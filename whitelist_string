@@ -287,7 +287,7 @@ return {
 ["aspoonofnothing"] = os.time({year=2025, month=12, day=20, hour=20, min=23, sec=48}),
 ["d3ndi_18"] = os.time({year=2025, month=12, day=24, hour=12, min=1, sec=10}),
 ["hachirono24"] = os.time({year=2025, month=12, day=17, hour=19, min=8, sec=41}),
-["must_win768"] = os.time({year=2026, month=1, day=30, hour=20, min=30, sec=2}),
+["must_win768"] = os.time({year=2026, month=3, day=4, hour=17, min=44, sec=40}),
 ["ronaldyabt"] = os.time({year=2024, month=2, day=7, hour=11, min=39, sec=42}),
 ["arela883"] = os.time({year=2026, month=2, day=4, hour=18, min=21, sec=23}),
 ["ajee65"] = os.time({year=2025, month=12, day=20, hour=23, min=22, sec=40}),
