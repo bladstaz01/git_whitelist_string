@@ -2313,5 +2313,6 @@ return {
 ["shxwiitty"] = os.time({year=2026, month=2, day=4, hour=22, min=32, sec=28}),
 ["cheesesuacefries"] = os.time({year=2026, month=3, day=5, hour=23, min=28, sec=12}),
 ["regorizz"] = os.time({year=2026, month=2, day=5, hour=2, min=57, sec=58}),
-["maxein_333"] = os.time({year=2026, month=2, day=11, hour=10, min=12, sec=58})
+["maxein_333"] = os.time({year=2026, month=2, day=11, hour=10, min=12, sec=58}),
+["aakaashii01 "] = os.time({year=2030, month=1, day=22, hour=0, min=0, sec=0})
 }
