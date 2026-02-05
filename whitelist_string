@@ -2318,5 +2318,6 @@ return {
 ["ed_starlord"] = os.time({year=2026, month=2, day=11, hour=19, min=40, sec=58}),
 ["vanguards651"] = os.time({year=2026, month=2, day=6, hour=16, min=37, sec=32}),
 ["jkloptrfgt"] = os.time({year=2026, month=2, day=12, hour=21, min=32, sec=0}),
-["aceholdermid"] = os.time({year=2026, month=2, day=7, hour=2, min=23, sec=2})
+["aceholdermid"] = os.time({year=2026, month=2, day=7, hour=2, min=23, sec=2}),
+["ply2bs"] = os.time({year=2026, month=2, day=7, hour=3, min=42, sec=58})
 }
