@@ -2011,7 +2011,7 @@ return {
 ["nitrate34"] = os.time({year=2026, month=1, day=5, hour=4, min=48, sec=23}),
 ["owkei02"] = os.time({year=2026, month=1, day=28, hour=5, min=56, sec=45}),
 ["jrenz_tf"] = os.time({year=2026, month=1, day=11, hour=7, min=48, sec=24}),
-["super_amoy06"] = os.time({year=2026, month=2, day=5, hour=0, min=6, sec=2}),
+["super_amoy06"] = os.time({year=2026, month=2, day=7, hour=0, min=4, sec=3}),
 ["ararong211"] = os.time({year=2026, month=1, day=11, hour=11, min=16, sec=24}),
 ["micoleivan"] = os.time({year=2026, month=1, day=11, hour=11, min=58, sec=24}),
 ["etha7ne"] = os.time({year=2026, month=1, day=11, hour=12, min=18, sec=25}),
