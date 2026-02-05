@@ -121,7 +121,7 @@ return {
 ["earlcandies"] = os.time({year=2026, month=1, day=11, hour=8, min=45, sec=41}),
 ["flames_2888"] = os.time({year=2025, month=12, day=8, hour=18, min=17, sec=53}),
 ["grimx178"] = os.time({year=2026, month=1, day=14, hour=20, min=22, sec=29}),
-["dyahandyahann"] = os.time({year=2026, month=1, day=31, hour=15, min=37, sec=42}),
+["dyahandyahann"] = os.time({year=2026, month=2, day=12, hour=16, min=6, sec=4}),
 ["0xeltt"] = os.time({year=2025, month=12, day=16, hour=19, min=49, sec=2}),
 ["zamundrone1210"] = os.time({year=2026, month=1, day=31, hour=13, min=48, sec=59}),
 ["karennnn0005"] = os.time({year=2025, month=12, day=16, hour=21, min=0, sec=58}),
