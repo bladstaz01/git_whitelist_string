@@ -172,7 +172,7 @@ return {
 ["takehis_soul23"] = os.time({year=2026, month=2, day=2, hour=14, min=54, sec=39}),
 ["cayb3r_8"] = os.time({year=2026, month=1, day=9, hour=2, min=0, sec=6}),
 ["akkiiirroo"] = os.time({year=2026, month=1, day=3, hour=7, min=5, sec=25}),
-["antiquefarmer"] = os.time({year=2026, month=2, day=6, hour=21, min=1, sec=22}),
+["antiquefarmer"] = os.time({year=2026, month=2, day=13, hour=21, min=1, sec=22}),
 ["dauntless271997"] = os.time({year=2025, month=12, day=9, hour=16, min=28, sec=1}),
 ["caintarizal_08"] = os.time({year=2026, month=1, day=16, hour=21, min=6, sec=50}),
 ["tuttixx0"] = os.time({year=2026, month=1, day=8, hour=23, min=11, sec=42}),
