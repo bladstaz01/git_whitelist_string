@@ -2320,5 +2320,6 @@ return {
 ["jkloptrfgt"] = os.time({year=2026, month=2, day=12, hour=21, min=32, sec=0}),
 ["aceholdermid"] = os.time({year=2026, month=2, day=7, hour=2, min=23, sec=2}),
 ["ply2bs"] = os.time({year=2026, month=2, day=7, hour=3, min=42, sec=58}),
-["zikey94"] = os.time({year=2026, month=2, day=7, hour=7, min=27, sec=51})
+["zikey94"] = os.time({year=2026, month=2, day=7, hour=7, min=27, sec=51}),
+["stealth_inventory"] = os.time({year=2030, month=2, day=7, hour=7, min=27, sec=51})
 }
