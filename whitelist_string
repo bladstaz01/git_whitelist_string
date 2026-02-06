@@ -2041,7 +2041,7 @@ return {
 ["biniqpal"] = os.time({year=2026, month=1, day=5, hour=22, min=14, sec=24}),
 ["altnimadmax"] = os.time({year=2026, month=1, day=11, hour=22, min=17, sec=23}),
 ["dontsaid23"] = os.time({year=2026, month=1, day=10, hour=7, min=39, sec=40}),
-["kurr31y"] = os.time({year=2026, month=2, day=6, hour=10, min=45, sec=55}),
+["kurr31y"] = os.time({year=2026, month=2, day=7, hour=15, min=51, sec=58}),
 ["pade_rrrr"] = os.time({year=2026, month=1, day=19, hour=23, min=48, sec=50}),
 ["eynayani_14"] = os.time({year=2026, month=1, day=7, hour=5, min=25, sec=22}),
 ["nit0438"] = os.time({year=2025, month=1, day=17, hour=0, min=0, sec=0}),
