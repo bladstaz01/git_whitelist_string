@@ -2296,7 +2296,7 @@ return {
 ["cod_pro26"] = os.time({year=2026, month=2, day=9, hour=14, min=13, sec=39}),
 ["pfpfpppppp"] = os.time({year=2026, month=2, day=2, hour=23, min=27, sec=41}),
 ["princicle_inventory"] = os.time({year=2026, month=2, day=9, hour=0, min=11, sec=46}),
-["kurty_572"] = os.time({year=2026, month=2, day=6, hour=15, min=53, sec=59}),
+["kurty_572"] = os.time({year=2026, month=2, day=7, hour=20, min=34, sec=0}),
 ["isiomailoveforyou2_3"] = os.time({year=2026, month=2, day=7, hour=1, min=22, sec=58}),
 ["chii0521"] = os.time({year=2026, month=2, day=17, hour=14, min=18, sec=41}),
 ["ul0l6905"] = os.time({year=2026, month=2, day=9, hour=16, min=24, sec=39}),
