@@ -2101,7 +2101,7 @@ return {
 ["jijimoons1"] = os.time({year=2026, month=1, day=14, hour=21, min=9, sec=23}),
 ["markirubox"] = os.time({year=2026, month=1, day=7, hour=21, min=57, sec=23}),
 ["hachishii"] = os.time({year=2026, month=1, day=21, hour=0, min=1, sec=47}),
-["kyujin3216"] = os.time({year=2026, month=2, day=5, hour=22, min=12, sec=40}),
+["kyujin3216"] = os.time({year=2026, month=2, day=13, hour=21, min=54, sec=0}),
 ["ddenvermc"] = os.time({year=2026, month=1, day=8, hour=1, min=0, sec=23}),
 ["aaax4th"] = os.time({year=2026, month=1, day=14, hour=1, min=7, sec=25}),
 ["alrfarmandy1"] = os.time({year=2026, month=1, day=8, hour=3, min=8, sec=25}),
