@@ -2222,7 +2222,7 @@ return {
 ["votecompetitivefman"] = os.time({year=2026, month=1, day=24, hour=1, min=35, sec=40}),
 ["pumpkin16170"] = os.time({year=2026, month=1, day=24, hour=2, min=37, sec=40}),
 ["divinede0vox"] = os.time({year=2030, month=1, day=20, hour=0, min=0, sec=0}),
-["sigur2da"] = os.time({year=2026, month=2, day=8, hour=4, min=31, sec=37}),
+["sigur2da"] = os.time({year=2026, month=2, day=23, hour=4, min=31, sec=37}),
 ["aaronjustine04"] = os.time({year=2026, month=1, day=18, hour=11, min=54, sec=38}),
 ["braindeadly2"] = os.time({year=2026, month=2, day=6, hour=12, min=39, sec=13}),
 ["deckoverload_19"] = os.time({year=2026, month=1, day=24, hour=13, min=54, sec=39}),
