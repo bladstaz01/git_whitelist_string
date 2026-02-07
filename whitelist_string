@@ -2286,7 +2286,7 @@ return {
 ["keevrobloxfarm_4"] = os.time({year=2026, month=2, day=7, hour=3, min=16, sec=44}),
 ["farmagebry11"] = os.time({year=2026, month=2, day=6, hour=12, min=59, sec=38}),
 ["jijitskie12"] = os.time({year=2026, month=1, day=31, hour=21, min=50, sec=43}),
-["mr_cris146"] = os.time({year=2026, month=2, day=6, hour=22, min=40, sec=41}),
+["mr_cris146"] = os.time({year=2026, month=2, day=14, hour=20, min=0, sec=57}),
 ["jmeas08"] = os.time({year=2026, month=2, day=1, hour=7, min=57, sec=43}),
 ["ryaa0220"] = os.time({year=2026, month=2, day=8, hour=0, min=7, sec=42}),
 ["wareacc"] = os.time({year=2026, month=2, day=2, hour=3, min=51, sec=40}),
