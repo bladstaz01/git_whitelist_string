@@ -1940,7 +1940,7 @@ return {
 ["charles_if"] = os.time({year=2026, month=1, day=8, hour=18, min=56, sec=30}),
 ["3kise1101"] = os.time({year=2026, month=2, day=7, hour=20, min=19, sec=24}),
 ["satkeevana"] = os.time({year=2026, month=1, day=8, hour=20, min=42, sec=37}),
-["arjano1011"] = os.time({year=2026, month=1, day=8, hour=21, min=45, sec=20}),
+["arjano1011"] = os.time({year=2026, month=2, day=14, hour=20, min=51, sec=58}),
 ["slightdelight41"] = os.time({year=2026, month=1, day=8, hour=22, min=9, sec=27}),
 ["wishut5"] = os.time({year=2026, month=1, day=8, hour=22, min=29, sec=18}),
 ["kuug_12345"] = os.time({year=2026, month=1, day=14, hour=22, min=55, sec=23}),
