@@ -790,7 +790,7 @@ return {
 ["antiinventory"] = os.time({year=2026, month=1, day=10, hour=11, min=52, sec=59}),
 ["arongavin4"] = os.time({year=2026, month=1, day=10, hour=23, min=39, sec=25}),
 ["calyx_02604"] = os.time({year=2026, month=1, day=1, hour=12, min=6, sec=8}),
-["jimbossog1"] = os.time({year=2026, month=2, day=7, hour=15, min=0, sec=41}),
+["jimbossog1"] = os.time({year=2026, month=2, day=14, hour=17, min=8, sec=0}),
 ["iijunx"] = os.time({year=2026, month=1, day=8, hour=22, min=59, sec=59}),
 ["sdai366"] = os.time({year=2026, month=1, day=8, hour=12, min=33, sec=23}),
 ["lestertugade1232"] = os.time({year=2026, month=1, day=5, hour=23, min=41, sec=22}),
