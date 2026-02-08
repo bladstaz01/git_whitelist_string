@@ -309,7 +309,7 @@ return {
 ["6r7r81101"] = os.time({year=2025, month=12, day=13, hour=18, min=39, sec=22}),
 ["quinitio23"] = os.time({year=2026, month=1, day=4, hour=23, min=45, sec=34}),
 ["franciskyutie"] = os.time({year=2026, month=1, day=11, hour=21, min=30, sec=42}),
-["taki0111111"] = os.time({year=2025, month=2, day=2, hour=21, min=39, sec=26}),
+["taki0111111"] = os.time({year=2026, month=2, day=15, hour=18, min=2, sec=59}),
 ["lucky_trefoil"] = os.time({year=2026, month=1, day=5, hour=22, min=6, sec=45}),
 ["jf_ncl03"] = os.time({year=2026, month=1, day=20, hour=23, min=5, sec=23}),
 ["gosuhoon_rip"] = os.time({year=2026, month=1, day=3, hour=1, min=42, sec=3}),
