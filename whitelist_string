@@ -508,7 +508,7 @@ return {
 ["erozphyr"] = os.time({year=2030, month=1, day=17, hour=0, min=0, sec=0}),
 ["miksann26"] = os.time({year=2026, month=1, day=12, hour=9, min=30, sec=41}),
 ["kageyuki6"] = os.time({year=2025, month=12, day=22, hour=16, min=25, sec=19}),
-["jguilalas0055"] = os.time({year=2026, month=2, day=9, hour=10, min=17, sec=44}),
+["jguilalas0055"] = os.time({year=2026, month=2, day=16, hour=10, min=17, sec=44}),
 ["sia_flrnc"] = os.time({year=2026, month=1, day=24, hour=15, min=14, sec=24}),
 ["johnprince2568"] = os.time({year=2025, month=1, day=1, hour=12, min=0, sec=0}),
 ["speedy6tch"] = os.time({year=2026, month=2, day=14, hour=1, min=22, sec=0}),
