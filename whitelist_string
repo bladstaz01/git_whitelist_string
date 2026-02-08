@@ -320,7 +320,7 @@ return {
 ["franco10844"] = os.time({year=2025, month=12, day=13, hour=23, min=49, sec=38}),
 ["rxwirinn5"] = os.time({year=2026, month=1, day=8, hour=12, min=12, sec=16}),
 ["pitchehh"] = os.time({year=2025, month=12, day=8, hour=2, min=12, sec=46}),
-["paawer07"] = os.time({year=2026, month=2, day=15, hour=21, min=40, sec=43}),
+["paawer07"] = os.time({year=2026, month=3, day=2, hour=21, min=40, sec=43}),
 ["kentbyran"] = os.time({year=2026, month=2, day=5, hour=15, min=52, sec=26}),
 ["yo0_jii"] = os.time({year=2025, month=12, day=14, hour=4, min=41, sec=5}),
 ["1blackcurrant"] = os.time({year=2026, month=2, day=22, hour=1, min=45, sec=0}),
