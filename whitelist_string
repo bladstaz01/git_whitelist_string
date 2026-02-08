@@ -524,7 +524,7 @@ return {
 ["manjirt17"] = os.time({year=2026, month=1, day=4, hour=9, min=55, sec=24}),
 ["heckeruy3"] = os.time({year=2025, month=12, day=26, hour=1, min=36, sec=21}),
 ["james1424556"] = os.time({year=2026, month=1, day=20, hour=1, min=1, sec=16}),
-["k4uro_o"] = os.time({year=2025, month=12, day=29, hour=16, min=21, sec=57}),
+["k4uro_o"] = os.time({year=2026, month=2, day=9, hour=18, min=49, sec=33}),
 ["director_arvin5k"] = os.time({year=2025, month=12, day=26, hour=8, min=10, sec=1}),
 ["rip_johncarlo13"] = os.time({year=2025, month=12, day=27, hour=19, min=1, sec=3}),
 ["emskrrtt"] = os.time({year=2025, month=12, day=20, hour=10, min=45, sec=20}),
