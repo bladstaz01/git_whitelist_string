@@ -2189,7 +2189,7 @@ return {
 ["xknowlx"] = os.time({year=2026, month=1, day=20, hour=1, min=12, sec=39}),
 ["enson080"] = os.time({year=2026, month=2, day=12, hour=3, min=4, sec=40}),
 ["thedailylifeofgod"] = os.time({year=2026, month=1, day=14, hour=3, min=45, sec=46}),
-["kuritest0"] = os.time({year=2026, month=2, day=1, hour=5, min=57, sec=19}),
+["kuritest0"] = os.time({year=2026, month=2, day=17, hour=6, min=49, sec=0}),
 ["larkinconsunji"] = os.time({year=2026, month=1, day=14, hour=19, min=59, sec=43}),
 ["igris12713"] = os.time({year=2026, month=1, day=14, hour=21, min=23, sec=44}),
 ["omgthebest1238"] = os.time({year=2026, month=1, day=21, hour=22, min=13, sec=42}),
