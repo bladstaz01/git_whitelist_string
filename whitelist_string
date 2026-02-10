@@ -1143,7 +1143,7 @@ return {
 ["kupal_ka3110"] = os.time({year=2026, month=1, day=10, hour=23, min=45, sec=23}),
 ["ttstrgoat"] = os.time({year=2026, month=1, day=25, hour=23, min=7, sec=16}),
 ["crssht"] = os.time({year=2026, month=1, day=2, hour=23, min=8, sec=27}),
-["swukym"] = os.time({year=2026, month=1, day=16, hour=23, min=17, sec=5}),
+["swukym"] = os.time({year=2026, month=2, day=17, hour=14, min=38, sec=57}),
 ["fifuiroy"] = os.time({year=2026, month=1, day=10, hour=2, min=13, sec=23}),
 ["notrealglance"] = os.time({year=2026, month=1, day=2, hour=23, min=30, sec=23}),
 ["f9ebxusk"] = os.time({year=2026, month=1, day=10, hour=23, min=46, sec=23}),
