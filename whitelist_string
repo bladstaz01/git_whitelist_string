@@ -2335,5 +2335,6 @@ return {
 ["laurence_1983122819"] = os.time({year=2026, month=2, day=16, hour=0, min=57, sec=58}),
 ["kimthyjf9428"] = os.time({year=2026, month=3, day=11, hour=20, min=2, sec=1}),
 ["jesper161113"] = os.time({year=2026, month=2, day=10, hour=20, min=22, sec=57}),
-["hotdog_ka870"] = os.time({year=2026, month=8, day=9, hour=6, min=10, sec=58})
+["hotdog_ka870"] = os.time({year=2026, month=8, day=9, hour=6, min=10, sec=58}),
+["slamet_copcopan"] = os.time({year=2026, month=3, day=12, hour=16, min=49, sec=5})
 }
