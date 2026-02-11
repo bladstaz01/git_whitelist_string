@@ -1312,7 +1312,7 @@ return {
 ["dinpcj2"] = os.time({year=2026, month=2, day=9, hour=20, min=37, sec=42}),
 ["zen32374"] = os.time({year=2026, month=1, day=15, hour=0, min=52, sec=43}),
 ["lawayduling1235"] = os.time({year=2026, month=1, day=26, hour=14, min=44, sec=21}),
-["stanordis20"] = os.time({year=2026, month=2, day=2, hour=7, min=21, sec=41}),
+["stanordis20"] = os.time({year=2026, month=2, day=12, hour=23, min=7, sec=5}),
 ["fixsez6"] = os.time({year=2025, month=12, day=28, hour=14, min=52, sec=31}),
 ["xairuuu"] = os.time({year=2026, month=1, day=13, hour=21, min=29, sec=37}),
 ["urkuyahmark"] = os.time({year=2026, month=1, day=5, hour=21, min=30, sec=23}),
