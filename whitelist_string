@@ -1931,7 +1931,7 @@ return {
 ["new_skin124"] = os.time({year=2026, month=1, day=9, hour=16, min=52, sec=14}),
 ["silentkraken12"] = os.time({year=2026, month=1, day=9, hour=17, min=19, sec=15}),
 ["21chris2004"] = os.time({year=2026, month=2, day=19, hour=5, min=25, sec=42}),
-["rwin_sol"] = os.time({year=2026, month=2, day=9, hour=22, min=58, sec=40}),
+["rwin_sol"] = os.time({year=2026, month=3, day=16, hour=17, min=40, sec=58}),
 ["shintarooooows"] = os.time({year=2026, month=1, day=17, hour=18, min=11, sec=17}),
 ["rip_dyun5"] = os.time({year=2026, month=1, day=17, hour=18, min=26, sec=12}),
 ["charles_if"] = os.time({year=2026, month=1, day=8, hour=18, min=56, sec=30}),
