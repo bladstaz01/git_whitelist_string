@@ -416,7 +416,7 @@ return {
 ["manyamanburu"] = os.time({year=2026, month=1, day=11, hour=21, min=30, sec=31}),
 ["luka_pelc1"] = os.time({year=2025, month=12, day=19, hour=8, min=22, sec=46}),
 ["bm_pogi81"] = os.time({year=2025, month=12, day=19, hour=13, min=8, sec=31}),
-["chopper162828"] = os.time({year=2026, month=2, day=10, hour=0, min=11, sec=40}),
+["chopper162828"] = os.time({year=2026, month=3, day=17, hour=2, min=15, sec=59}),
 ["skipmakliw_515"] = os.time({year=2026, month=2, day=3, hour=18, min=51, sec=24}),
 ["jomss_92"] = os.time({year=2026, month=1, day=11, hour=11, min=36, sec=24}),
 ["yeachng"] = os.time({year=2026, month=1, day=11, hour=10, min=24, sec=29}),
