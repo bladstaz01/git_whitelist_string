@@ -2359,5 +2359,6 @@ return {
 ["yamato_nad3shiko"] = os.time({year=2026, month=2, day=22, hour=22, min=3, sec=58}),
 ["wallflow3rx"] = os.time({year=2026, month=3, day=1, hour=23, min=25, sec=2}),
 ["minic859111"] = os.time({year=2026, month=2, day=23, hour=1, min=5, sec=57}),
-["llamelo082"] = os.time({year=2026, month=2, day=17, hour=9, min=49, sec=3})
+["llamelo082"] = os.time({year=2026, month=2, day=17, hour=9, min=49, sec=3}),
+["adams_lyle"] = os.time({year=2026, month=2, day=17, hour=11, min=20, sec=57})
 }
