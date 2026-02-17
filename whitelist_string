@@ -1062,7 +1062,7 @@ return {
 ["fatgreenshrek1"] = os.time({year=2026, month=1, day=9, hour=12, min=10, sec=24}),
 ["giyuunitzuu"] = os.time({year=2026, month=1, day=2, hour=10, min=48, sec=12}),
 ["2booolmo"] = os.time({year=2026, month=1, day=9, hour=17, min=20, sec=7}),
-["fine0025"] = os.time({year=2026, month=2, day=16, hour=23, min=31, sec=38}),
+["fine0025"] = os.time({year=2026, month=2, day=24, hour=16, min=1, sec=0}),
 ["holywaterbyjunjun"] = os.time({year=2025, month=12, day=29, hour=15, min=50, sec=13}),
 ["testnewwww"] = os.time({year=2025, month=12, day=27, hour=11, min=35, sec=44}),
 ["rares4230"] = os.time({year=2026, month=2, day=24, hour=11, min=55, sec=30}),
