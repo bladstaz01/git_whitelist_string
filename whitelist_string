@@ -2377,7 +2377,7 @@ return {
 ["karl_aaron144"] = os.time({year=2026, month=2, day=19, hour=22, min=17, sec=58}),
 ["codekidddd"] = os.time({year=2026, month=2, day=20, hour=0, min=40, sec=58}),
 ["fur_yesimfur"] = os.time({year=2026, month=2, day=19, hour=8, min=50, sec=57}),
-["goldshard5555"] = os.time({year=2026, month=2, day=19, hour=15, min=41, sec=59}),
+["goldshard5555"] = os.time({year=2026, month=2, day=26, hour=20, min=5, sec=57}),
 ["dimpyybunny"] = os.time({year=2026, month=2, day=20, hour=18, min=30, sec=2}),
 ["jayceeeeeee_24"] = os.time({year=2026, month=2, day=19, hour=23, min=25, sec=58}),
 ["kidbo492"] = os.time({year=2026, month=2, day=22, hour=5, min=45, sec=58}),
