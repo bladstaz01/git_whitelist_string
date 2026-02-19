@@ -943,7 +943,7 @@ return {
 ["jk_rheyn"] = os.time({year=2026, month=3, day=4, hour=15, min=1, sec=52}),
 ["takoyakikajan"] = os.time({year=2026, month=1, day=8, hour=15, min=29, sec=54}),
 ["1uvxm"] = os.time({year=2026, month=1, day=1, hour=15, min=33, sec=59}),
-["rayrayaog"] = os.time({year=2026, month=2, day=8, hour=22, min=12, sec=54}),
+["rayrayaog"] = os.time({year=2026, month=2, day=27, hour=0, min=50, sec=3}),
 ["shiguang_4"] = os.time({year=2026, month=2, day=22, hour=2, min=24, sec=59}),
 ["ggxtwohaha"] = os.time({year=2026, month=1, day=3, hour=7, min=31, sec=45}),
 ["sandqueen10"] = os.time({year=2026, month=2, day=1, hour=13, min=53, sec=42}),
