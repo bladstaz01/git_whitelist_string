@@ -2395,5 +2395,6 @@ return {
 ["dackinsinventory"] = os.time({year=2026, month=2, day=22, hour=1, min=37, sec=1}),
 ["ezydump14"] = os.time({year=2026, month=2, day=28, hour=4, min=33, sec=58}),
 ["jjslayer115"] = os.time({year=2026, month=2, day=22, hour=5, min=10, sec=6}),
-["allenagain07"] = os.time({year=2026, month=2, day=28, hour=19, min=46, sec=58})
+["allenagain07"] = os.time({year=2026, month=2, day=28, hour=19, min=46, sec=58}),
+["rip_luffy324348"] = os.time({year=2026, month=2, day=28, hour=19, min=48, sec=2})
 }
