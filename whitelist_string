@@ -2396,7 +2396,6 @@ return {
 ["ezydump14"] = os.time({year=2026, month=2, day=28, hour=4, min=33, sec=58}),
 ["jjslayer115"] = os.time({year=2026, month=2, day=22, hour=5, min=10, sec=6}),
 ["allenagain07"] = os.time({year=2026, month=2, day=28, hour=19, min=46, sec=58}),
-["rip_luffy324348"] = os.time({year=2026, month=2, day=28, hour=19, min=48, sec=2}),
 ["renzeljr1651"] = os.time({year=2026, month=2, day=22, hour=22, min=58, sec=59}),
 ["sheey12300"] = os.time({year=2026, month=2, day=22, hour=23, min=6, sec=56}),
 ["beadmu1"] = os.time({year=2026, month=2, day=22, hour=23, min=16, sec=35}),
