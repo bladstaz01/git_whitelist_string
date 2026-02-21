@@ -1,9 +1,16 @@
 local W={}
 local whitelist=loadstring(game:HttpGet("https://raw.githubusercontent.com/bladstaz01/git_whitelist_string/refs/heads/main/whitelist_string"))()
 
+--OLD
+-- local function current_gmt8()
+-- 	local utc=os.time(os.date("!*t"))
+-- 	return utc+8*3600
+-- end
+
+--NEW
 local function current_gmt8()
-	local utc=os.time(os.date("!*t"))
-	return utc+8*3600
+	local serverUtc=workspace:GetServerTimeNow()
+	return serverUtc+8*3600
 end
 
 local function to_exact_string(ts)
