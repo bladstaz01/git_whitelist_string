@@ -2052,7 +2052,7 @@ return {
 ["daksbantilan0"] = os.time({year=2026, month=3, day=6, hour=10, min=6, sec=23}),
 ["krazymonks2"] = os.time({year=2026, month=1, day=12, hour=10, min=31, sec=24}),
 ["mappleeew"] = os.time({year=2026, month=2, day=24, hour=17, min=55, sec=56}),
-["legend_15jsjs"] = os.time({year=2026, month=2, day=21, hour=10, min=50, sec=4}),
+["legend_15jsjs"] = os.time({year=2026, month=2, day=23, hour=9, min=5, sec=5}),
 ["leonelzt_nx"] = os.time({year=2026, month=1, day=12, hour=11, min=58, sec=24}),
 ["oyyyyyyyy71"] = os.time({year=2026, month=1, day=12, hour=12, min=58, sec=23}),
 ["mangyanako09"] = os.time({year=2026, month=2, day=4, hour=13, min=19, sec=27}),
