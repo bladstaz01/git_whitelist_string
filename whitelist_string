@@ -2414,5 +2414,6 @@ return {
 ["dackinsinventory1"] = os.time({year=2026, month=3, day=2, hour=23, min=1, sec=59}),
 ["ereboslpb"] = os.time({year=2026, month=3, day=3, hour=12, min=28, sec=0}),
 ["artemis02010"] = os.time({year=2026, month=2, day=25, hour=20, min=51, sec=3}),
-["dianmain23"] = os.time({year=2026, month=3, day=3, hour=20, min=54, sec=2})
+["dianmain23"] = os.time({year=2026, month=3, day=3, hour=20, min=54, sec=2}),
+["garpp_01"] = os.time({year=2026, month=2, day=26, hour=12, min=32, sec=11})
 }
