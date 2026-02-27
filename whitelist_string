@@ -2427,5 +2427,6 @@ return {
 ["chocochum2026"] = os.time({year=2026, month=3, day=29, hour=0, min=23, sec=3}),
 ["nozladarealest"] = os.time({year=2026, month=3, day=29, hour=10, min=17, sec=59}),
 ["nzlaseller"] = os.time({year=2026, month=3, day=29, hour=10, min=19, sec=59}),
-["nozlasalt"] = os.time({year=2026, month=3, day=6, hour=10, min=20, sec=58})
+["nozlasalt"] = os.time({year=2026, month=3, day=6, hour=10, min=20, sec=58}),
+["kirito89315"] = os.time({year=2026, month=3, day=29, hour=10, min=26, sec=2})
 }
