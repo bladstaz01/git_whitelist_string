@@ -745,7 +745,7 @@ return {
 ["kyut_ashhy"] = os.time({year=2025, month=12, day=30, hour=20, min=21, sec=2}),
 ["burgerwantcheese"] = os.time({year=2025, month=12, day=24, hour=21, min=38, sec=28}),
 ["koaling27"] = os.time({year=2026, month=1, day=14, hour=21, min=53, sec=16}),
-["ren_rose05"] = os.time({year=2026, month=2, day=9, hour=11, min=13, sec=57}),
+["ren_rose05"] = os.time({year=2026, month=3, day=3, hour=20, min=11, sec=58}),
 ["ekalam_etlog"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["spider_headleader"] = os.time({year=2026, month=3, day=2, hour=9, min=40, sec=58}),
 ["michikatsu_8002"] = os.time({year=2025, month=12, day=30, hour=23, min=37, sec=49}),
