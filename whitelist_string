@@ -14,7 +14,7 @@ return {
 ["mochimirabels3"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["aakashii_0"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["hrvyjrll"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
-["bladstaz01"] = os.time({year=2026, month=3, day=4, hour=3, min=42, sec=0}),
+["bladstaz01"] = os.time({year=2026, month=3, day=3, hour=19, min=42, sec=0}),
 ["bladstaz03"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["bladstaz04"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
 ["bladstaz05"] = os.time({year=2030, month=1, day=7, hour=0, min=0, sec=0}),
