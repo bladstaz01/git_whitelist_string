@@ -7,7 +7,7 @@ local function current_gmt8()
 end
 local function to_exact_string(ts)
 	if not ts then return nil end
-	local t=os.date("!*t",ts)
+	llocal t=os.date("!*t",ts+8*3600)
 	return string.format("%02d/%02d/%04d %02d:%02d:%02d",t.month,t.day,t.year,t.hour,t.min,t.sec)
 end
 local function requestWhitelist(username)
